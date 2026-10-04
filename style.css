@@ -17,3 +17,14 @@
 .modal-docs{display:none;flex-wrap:wrap;gap:8px;margin:12px 0 18px}
 .doc-link{display:inline-flex;align-items:center;padding:9px 11px;border-radius:999px;background:#eef7ef;color:#1b5b37;text-decoration:none;font-weight:700;font-size:12px}
 .doc-link:hover{background:#dff0e4}
+
+/* Termit supplier + brand logos */
+.termit-section{background:linear-gradient(180deg,#f5faf8 0%,#eef7f3 100%)}
+.termit-showcase .brand-showcase-media{background:linear-gradient(145deg,#0f2f58,#153e70)}
+.termit-showcase .brand-showcase-media img{object-fit:cover}
+.supplier-logo-large{display:block;max-width:290px;max-height:105px;object-fit:contain;object-position:left center;background:#fff;border-radius:14px;padding:12px 16px;margin-bottom:18px}
+.termit-logo-large{max-width:260px}
+.termit-section .product-card .product-visual{background:linear-gradient(180deg,#f2faf6,#eaf5f0)}
+.brands-grid .brand-tile{display:flex;align-items:center;justify-content:center;flex-direction:column;min-height:170px;padding:20px}
+.brand-tile img{display:block;width:min(100%,230px);height:82px;object-fit:contain;margin-bottom:16px}
+.brand-tile span{text-align:center}
