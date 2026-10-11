@@ -1,5 +1,5 @@
 const products = window.DELTA_PRODUCTS || [];
-const money = n => new Intl.NumberFormat('ru-RU').format(Number(n)) + ' ₽';
+const money = n => (n===null || n===undefined || n==='' ? 'Цена по запросу' : new Intl.NumberFormat('ru-RU').format(Number(n)) + ' ₽');
 const categoryInfo = {
   stations:{title:'Станции глубокой очистки',desc:'Для постоянного и сезонного проживания.'},
   septic:{title:'Септики',desc:'Энергонезависимые решения и крупные модели.'},
@@ -88,8 +88,10 @@ function openModal(item){
   if(item.meta?.users) specItems.push(['Пользователи',item.meta.users]);
   if(item.meta?.liters) specItems.push(['Объём',`${new Intl.NumberFormat('ru-RU').format(item.meta.liters)} л`]);
   if(item.meta?.model) specItems.push(['Модель',item.meta.model]);
+  if(item.meta?.dimensions) specItems.push(['Габариты (Д×Ш×В)',item.meta.dimensions]);
   if(item.details?.warranty) specItems.push(['Гарантия',item.details.warranty]);
   if(item.details?.users_note) specItems.push(['Применение',item.details.users_note]);
+  if(item.details?.installation) specItems.push(['Монтаж',item.details.installation]);
   specs.innerHTML=specItems.map(([k,v])=>`<div class="spec-item"><span>${escapeHtml(k)}</span><strong>${escapeHtml(v)}</strong></div>`).join('');
   modal.querySelector('[data-modal-features]').innerHTML=(item.features||[]).map(f=>`<li>${escapeHtml(f)}</li>`).join('');
   const opts=modal.querySelector('[data-modal-options]');
