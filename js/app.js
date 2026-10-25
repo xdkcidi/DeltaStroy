@@ -37,8 +37,8 @@ const categoryInfo = {
     desc: "Защита скважины и размещение оборудования.",
   },
   storage: {
-    title: "Накопительные ёмкости",
-    desc: "Подземное накопление стоков и жидкостей.",
+    title: "Накопительные септики и ёмкости",
+    desc: "Герметичные подземные резервуары для сбора и хранения стоков.",
   },
   water: { title: "Ёмкости для воды", desc: "Питьевая и техническая вода." },
   fuel: {
@@ -112,13 +112,16 @@ function imgFor(item) {
   return item.image || null;
 }
 function categoryLabel(item) {
-  return item.meta?.liters
-    ? `${new Intl.NumberFormat("ru-RU").format(item.meta.liters)} л`
-    : item.meta?.users
-      ? `${item.meta.users} польз.`
-      : item.category === "stations"
-        ? "Станция"
-        : "Каталог";
+  if (item.meta?.liters)
+    return `${new Intl.NumberFormat("ru-RU").format(item.meta.liters)} л`;
+  if (item.meta?.users) return `${item.meta.users} польз.`;
+  if (item.meta?.flow_l_s) return `${item.meta.flow_l_s} л/с`;
+  if (item.meta?.flow_l_min) return `${item.meta.flow_l_min} л/мин`;
+  if (item.category === "stations") return "Станция";
+  if (item.category === "grease") return "Жироуловитель";
+  if (item.category === "storm") return "Пескоуловитель";
+  if (item.category === "kns") return "КНС";
+  return categoryInfo[item.category]?.title || "Каталог";
 }
 function productUrl(item) {
   return `${pageUrl("product.html")}?id=${encodeURIComponent(item.id)}`;
@@ -640,6 +643,10 @@ function renderProductPage() {
   if (item.meta?.model) specItems.push(["Модель", item.meta.model]);
   if (item.meta?.dimensions)
     specItems.push(["Габариты (Д×Ш×В)", item.meta.dimensions]);
+  if (item.meta?.flow_l_s)
+    specItems.push(["Производительность", item.meta.flow_l_s + " л/с"]);
+  if (item.meta?.flow_l_min)
+    specItems.push(["Производительность", item.meta.flow_l_min + " л/мин"]);
   if (item.details?.warranty)
     specItems.push(["Гарантия", item.details.warranty]);
   if (item.details?.users_note)
@@ -704,6 +711,7 @@ function renderProductPage() {
         <div class="eyebrow">${escapeHtml(item.collection || "Каталог")}</div>
         <h1>${escapeHtml(item.name)}</h1>
         <p class="product-page-sub">${escapeHtml(item.subtitle || "Инженерное решение")}</p>
+        ${item.description ? `<p class="product-page-description">${escapeHtml(item.description)}</p>` : ""}
         <div class="product-page-price">${money(item.price)}</div>
         <div class="modal-note">Доставка, монтаж и дополнительные опции рассчитываются отдельно.</div>
         <div class="product-page-cta">
