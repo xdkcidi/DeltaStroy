@@ -1,0 +1,212 @@
+<!doctype html>
+<html lang="ru">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Каталог — Дельтастрой</title>
+    <meta
+      name="description"
+      content="Каталог оборудования Дельтастроя: станции, септики, кессоны, ёмкости, жироуловители, нефтеуловители, КНС, фильтры и ЛОС."
+    />
+    <link rel="stylesheet" href="../css/style.css" />
+    <link rel="stylesheet" href="../css/responsive.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="container nav">
+        <a class="brand" href="../index.html" aria-label="ООО Дельтастрой">
+          <span class="brand-logo"
+            ><img src="../assets/brands/logo.svg" alt="Дельтастрой"
+          /></span>
+        </a>
+        <nav class="nav-links">
+          <a class="active" href="catalog.html">Каталог</a>
+          <a href="../index.html#brands">Бренды</a>
+          <a href="certificates.html">Сертификаты</a>
+          <a href="contacts.html">Контакты</a>
+        </nav>
+        <div class="nav-actions">
+          <a class="phone" href="tel:+74955064878">+7 (495) 506-48-78</a>
+          <button class="btn btn-primary" data-open-contact>
+            Получить консультацию
+          </button>
+          <button class="menu-toggle" aria-label="Открыть меню">☰</button>
+        </div>
+      </div>
+    </header>
+
+    <main>
+      <section class="catalog-hero">
+        <div class="container">
+          <div class="eyebrow">Каталог оборудования</div>
+          <h1>Все решения Дельтастроя</h1>
+          <p>
+            307 позиций в одном каталоге: от компактных бытовых станций и
+            комплектующих до ёмкостей большого объёма и промышленных систем.
+          </p>
+          <div class="catalog-toolbar">
+            <div class="search">
+              <span>⌕</span>
+              <input
+                id="catalog-search"
+                placeholder="Поиск по товарам, брендам и задачам"
+              />
+            </div>
+            <select class="toolbar-select" id="catalog-category">
+              <option value="all">Все категории</option>
+              <option value="stations">Станции очистки</option>
+              <option value="septic">Септики</option>
+              <option value="kesson">Кессоны</option>
+              <option value="storage">Накопительные ёмкости</option>
+              <option value="water">Ёмкости для воды</option>
+              <option value="fuel">Ёмкости для топлива</option>
+              <option value="modular">Модульные ёмкости</option>
+              <option value="fire">Пожарные резервуары</option>
+              <option value="grease">Жироуловители</option>
+              <option value="oil">Нефтеуловители</option>
+              <option value="kns">КНС</option>
+              <option value="sorption">Сорбционные фильтры</option>
+              <option value="rain">Ливневые очистные</option>
+              <option value="storm">Пескоуловители</option>
+              <option value="wells">Колодцы</option>
+              <option value="components">Комплектующие</option>
+            </select>
+            <select class="toolbar-select" id="catalog-sort">
+              <option value="popular">Сначала популярные</option>
+              <option value="priceAsc">Сначала дешевле</option>
+              <option value="priceDesc">Сначала дороже</option>
+              <option value="name">По названию</option>
+            </select>
+            <button class="btn btn-outline mobile-filter" id="mobile-filter">
+              Фильтры
+            </button>
+          </div>
+        </div>
+      </section>
+
+      <section class="section catalog-section">
+        <div class="container catalog-layout">
+          <aside class="filters" id="filters">
+            <div class="filter-header">
+              <h3>Фильтры</h3>
+              <button id="clear-filters" class="text-btn">Сбросить</button>
+            </div>
+            <div class="filter-group">
+              <strong>Назначение</strong>
+              <div class="filter-options">
+                <label class="filter-option"
+                  ><input type="checkbox" value="home" data-audience /> Для дома
+                  / дачи</label
+                >
+                <label class="filter-option"
+                  ><input type="checkbox" value="business" data-audience /> Для
+                  бизнеса</label
+                >
+              </div>
+            </div>
+            <div class="filter-group">
+              <strong>Цена</strong>
+              <div class="range-row">
+                <input id="price-min" type="number" min="0" placeholder="от" />
+                <input id="price-max" type="number" min="0" placeholder="до" />
+              </div>
+            </div>
+          </aside>
+
+          <div class="catalog-main" id="catalog-root">
+            <div class="catalog-meta">
+              <div class="catalog-results">
+                <strong id="catalog-count">Загрузка…</strong><span>·</span
+                ><span>розничные цены по прайс-листу от 01.06.2026</span>
+              </div>
+              <div class="active-filters" id="active-filters"></div>
+            </div>
+            <div id="catalog-grid-wrap"></div>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <div class="container footer-grid">
+        <div>
+          <div class="footer-brand">ДЕЛЬТАСТРОЙ</div>
+          <p>
+            Автономная канализация, ёмкости и инженерные решения для дома и
+            бизнеса.
+          </p>
+          <p class="muted-light">
+            ООО «Дельтастрой» · ОГРН 5177746038443 · ИНН 7714415934
+          </p>
+        </div>
+        <div>
+          <div class="footer-title">Каталог</div>
+          <div class="footer-list">
+            <a href="catalog.html?category=stations">Станции</a>
+            <a href="catalog.html?category=septic">Септики</a>
+            <a href="catalog.html?category=kesson">Кессоны</a>
+            <a href="catalog.html?category=water">Ёмкости</a>
+            <a href="catalog.html?category=modular">Модульные ёмкости</a>
+            <a href="catalog.html?category=components">Комплектующие</a>
+          </div>
+        </div>
+        <div>
+          <div class="footer-title">Промышленные решения</div>
+          <div class="footer-list">
+            <a href="catalog.html?category=grease">Жироуловители</a>
+            <a href="catalog.html?category=oil">Нефтеуловители</a>
+            <a href="catalog.html?category=sorption">Сорбционные фильтры</a>
+            <a href="catalog.html?category=rain">Ливневые очистные</a>
+            <a href="catalog.html?category=kns">КНС</a>
+          </div>
+        </div>
+        <div>
+          <div class="footer-title">Контакты</div>
+          <div class="footer-list">
+            <a href="tel:+74955064878">+7 (495) 506-48-78</a>
+            <span>Ежедневно 08:00–20:00</span>
+            <span>Москва и Московская область</span>
+          </div>
+        </div>
+      </div>
+      <div class="container footer-bottom">
+        <span>© ООО «Дельтастрой»</span>
+        <span
+          ><a href="privacy.html">Политика конфиденциальности</a> ·
+          <a href="privacy.html">Согласие на обработку данных</a></span
+        >
+      </div>
+    </footer>
+
+    <div class="modal" id="contact-modal">
+      <div class="modal-card">
+        <button class="modal-close" type="button" data-close-contact>×</button>
+        <div class="eyebrow">ООО «Дельтастрой»</div>
+        <h3>Заказать обратный звонок</h3>
+        <p>Оставьте номер — свяжемся ежедневно с 08:00 до 20:00.</p>
+        <form class="form-card form-clean" data-contact-form>
+          <input name="name" placeholder="Ваше имя" required />
+          <input name="phone" placeholder="Телефон" required />
+          <textarea name="comment" placeholder="Какая задача?"></textarea>
+          <label class="consent">
+            <input type="checkbox" required />
+            <span
+              >Соглашаюсь на обработку персональных данных и принимаю
+              <a
+                href="privacy.html"
+                target="_blank"
+                style="text-decoration: underline; color: var(--navy)"
+                >политику конфиденциальности</a
+              >.</span
+            >
+          </label>
+          <button class="btn btn-primary" type="submit">Отправить</button>
+        </form>
+      </div>
+    </div>
+
+    <div class="toast" id="toast"></div>
+    <script src="../js/data.js"></script>
+    <script src="../js/app.js"></script>
+  </body>
+</html>
