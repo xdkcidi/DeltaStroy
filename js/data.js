@@ -38,7 +38,20 @@ window.DELTA_PRODUCTS = [
       "users_note": "Для постоянного и сезонного проживания",
       "warranty": "Гарантия производителя — 1 год",
       "service": "Обслуживание — по регламенту производителя"
-    }
+    },
+    "documents": [
+      {
+        "title": "Декларация ЕАЭС на станцию Ergobox — действует до 30.11.2028",
+        "url": "assets/ergobox/vt3b.webp",
+        "type": "Документ"
+      },
+      {
+        "title": "Архивный добровольный сертификат Ergobox — срок действия истёк 14.04.2025",
+        "url": "assets/ergobox/ste4b.webp",
+        "type": "Документ"
+      }
+    ],
+    "slug": "ergobox-3"
   },
   {
     "id": "ergobox-3-compact",
@@ -79,7 +92,20 @@ window.DELTA_PRODUCTS = [
       "users_note": "Для постоянного и сезонного проживания",
       "warranty": "Гарантия производителя — 1 год",
       "service": "Обслуживание — по регламенту производителя"
-    }
+    },
+    "documents": [
+      {
+        "title": "Декларация ЕАЭС на станцию Ergobox — действует до 30.11.2028",
+        "url": "assets/ergobox/vt3b.webp",
+        "type": "Документ"
+      },
+      {
+        "title": "Архивный добровольный сертификат Ergobox — срок действия истёк 14.04.2025",
+        "url": "assets/ergobox/ste4b.webp",
+        "type": "Документ"
+      }
+    ],
+    "slug": "ergobox-3-compact"
   },
   {
     "id": "ergobox-4",
@@ -120,7 +146,20 @@ window.DELTA_PRODUCTS = [
       "users_note": "Для постоянного и сезонного проживания",
       "warranty": "Гарантия производителя — 1 год",
       "service": "Обслуживание — по регламенту производителя"
-    }
+    },
+    "documents": [
+      {
+        "title": "Декларация ЕАЭС на станцию Ergobox — действует до 30.11.2028",
+        "url": "assets/ergobox/vt3b.webp",
+        "type": "Документ"
+      },
+      {
+        "title": "Архивный добровольный сертификат Ergobox — срок действия истёк 14.04.2025",
+        "url": "assets/ergobox/ste4b.webp",
+        "type": "Документ"
+      }
+    ],
+    "slug": "ergobox-4"
   },
   {
     "id": "ergobox-4-compact",
@@ -161,7 +200,20 @@ window.DELTA_PRODUCTS = [
       "users_note": "Для постоянного и сезонного проживания",
       "warranty": "Гарантия производителя — 1 год",
       "service": "Обслуживание — по регламенту производителя"
-    }
+    },
+    "documents": [
+      {
+        "title": "Декларация ЕАЭС на станцию Ergobox — действует до 30.11.2028",
+        "url": "assets/ergobox/vt3b.webp",
+        "type": "Документ"
+      },
+      {
+        "title": "Архивный добровольный сертификат Ergobox — срок действия истёк 14.04.2025",
+        "url": "assets/ergobox/ste4b.webp",
+        "type": "Документ"
+      }
+    ],
+    "slug": "ergobox-4-compact"
   },
   {
     "id": "ergobox-5",
@@ -202,7 +254,20 @@ window.DELTA_PRODUCTS = [
       "users_note": "Для постоянного и сезонного проживания",
       "warranty": "Гарантия производителя — 1 год",
       "service": "Обслуживание — по регламенту производителя"
-    }
+    },
+    "documents": [
+      {
+        "title": "Декларация ЕАЭС на станцию Ergobox — действует до 30.11.2028",
+        "url": "assets/ergobox/vt3b.webp",
+        "type": "Документ"
+      },
+      {
+        "title": "Архивный добровольный сертификат Ergobox — срок действия истёк 14.04.2025",
+        "url": "assets/ergobox/ste4b.webp",
+        "type": "Документ"
+      }
+    ],
+    "slug": "ergobox-5"
   },
   {
     "id": "ergobox-5-compact",
@@ -243,7 +308,20 @@ window.DELTA_PRODUCTS = [
       "users_note": "Для постоянного и сезонного проживания",
       "warranty": "Гарантия производителя — 1 год",
       "service": "Обслуживание — по регламенту производителя"
-    }
+    },
+    "documents": [
+      {
+        "title": "Декларация ЕАЭС на станцию Ergobox — действует до 30.11.2028",
+        "url": "assets/ergobox/vt3b.webp",
+        "type": "Документ"
+      },
+      {
+        "title": "Архивный добровольный сертификат Ergobox — срок действия истёк 14.04.2025",
+        "url": "assets/ergobox/ste4b.webp",
+        "type": "Документ"
+      }
+    ],
+    "slug": "ergobox-5-compact"
   },
   {
     "id": "ergobox-6",
@@ -284,7 +362,20 @@ window.DELTA_PRODUCTS = [
       "users_note": "Для постоянного и сезонного проживания",
       "warranty": "Гарантия производителя — 1 год",
       "service": "Обслуживание — по регламенту производителя"
-    }
+    },
+    "documents": [
+      {
+        "title": "Декларация ЕАЭС на станцию Ergobox — действует до 30.11.2028",
+        "url": "assets/ergobox/vt3b.webp",
+        "type": "Документ"
+      },
+      {
+        "title": "Архивный добровольный сертификат Ergobox — срок действия истёк 14.04.2025",
+        "url": "assets/ergobox/ste4b.webp",
+        "type": "Документ"
+      }
+    ],
+    "slug": "ergobox-6"
   },
   {
     "id": "ergobox-6-compact",
@@ -325,7 +416,20 @@ window.DELTA_PRODUCTS = [
       "users_note": "Для постоянного и сезонного проживания",
       "warranty": "Гарантия производителя — 1 год",
       "service": "Обслуживание — по регламенту производителя"
-    }
+    },
+    "documents": [
+      {
+        "title": "Декларация ЕАЭС на станцию Ergobox — действует до 30.11.2028",
+        "url": "assets/ergobox/vt3b.webp",
+        "type": "Документ"
+      },
+      {
+        "title": "Архивный добровольный сертификат Ergobox — срок действия истёк 14.04.2025",
+        "url": "assets/ergobox/ste4b.webp",
+        "type": "Документ"
+      }
+    ],
+    "slug": "ergobox-6-compact"
   },
   {
     "id": "ergobox-7",
@@ -366,7 +470,20 @@ window.DELTA_PRODUCTS = [
       "users_note": "Для постоянного и сезонного проживания",
       "warranty": "Гарантия производителя — 1 год",
       "service": "Обслуживание — по регламенту производителя"
-    }
+    },
+    "documents": [
+      {
+        "title": "Декларация ЕАЭС на станцию Ergobox — действует до 30.11.2028",
+        "url": "assets/ergobox/vt3b.webp",
+        "type": "Документ"
+      },
+      {
+        "title": "Архивный добровольный сертификат Ergobox — срок действия истёк 14.04.2025",
+        "url": "assets/ergobox/ste4b.webp",
+        "type": "Документ"
+      }
+    ],
+    "slug": "ergobox-7"
   },
   {
     "id": "ergobox-7-compact",
@@ -407,7 +524,20 @@ window.DELTA_PRODUCTS = [
       "users_note": "Для постоянного и сезонного проживания",
       "warranty": "Гарантия производителя — 1 год",
       "service": "Обслуживание — по регламенту производителя"
-    }
+    },
+    "documents": [
+      {
+        "title": "Декларация ЕАЭС на станцию Ergobox — действует до 30.11.2028",
+        "url": "assets/ergobox/vt3b.webp",
+        "type": "Документ"
+      },
+      {
+        "title": "Архивный добровольный сертификат Ergobox — срок действия истёк 14.04.2025",
+        "url": "assets/ergobox/ste4b.webp",
+        "type": "Документ"
+      }
+    ],
+    "slug": "ergobox-7-compact"
   },
   {
     "id": "ergobox-8",
@@ -448,7 +578,20 @@ window.DELTA_PRODUCTS = [
       "users_note": "Для постоянного и сезонного проживания",
       "warranty": "Гарантия производителя — 1 год",
       "service": "Обслуживание — по регламенту производителя"
-    }
+    },
+    "documents": [
+      {
+        "title": "Декларация ЕАЭС на станцию Ergobox — действует до 30.11.2028",
+        "url": "assets/ergobox/vt3b.webp",
+        "type": "Документ"
+      },
+      {
+        "title": "Архивный добровольный сертификат Ergobox — срок действия истёк 14.04.2025",
+        "url": "assets/ergobox/ste4b.webp",
+        "type": "Документ"
+      }
+    ],
+    "slug": "ergobox-8"
   },
   {
     "id": "ergobox-8-compact",
@@ -489,7 +632,20 @@ window.DELTA_PRODUCTS = [
       "users_note": "Для постоянного и сезонного проживания",
       "warranty": "Гарантия производителя — 1 год",
       "service": "Обслуживание — по регламенту производителя"
-    }
+    },
+    "documents": [
+      {
+        "title": "Декларация ЕАЭС на станцию Ergobox — действует до 30.11.2028",
+        "url": "assets/ergobox/vt3b.webp",
+        "type": "Документ"
+      },
+      {
+        "title": "Архивный добровольный сертификат Ergobox — срок действия истёк 14.04.2025",
+        "url": "assets/ergobox/ste4b.webp",
+        "type": "Документ"
+      }
+    ],
+    "slug": "ergobox-8-compact"
   },
   {
     "id": "ergobox-10",
@@ -530,7 +686,20 @@ window.DELTA_PRODUCTS = [
       "users_note": "Для постоянного и сезонного проживания",
       "warranty": "Гарантия производителя — 1 год",
       "service": "Обслуживание — по регламенту производителя"
-    }
+    },
+    "documents": [
+      {
+        "title": "Декларация ЕАЭС на станцию Ergobox — действует до 30.11.2028",
+        "url": "assets/ergobox/vt3b.webp",
+        "type": "Документ"
+      },
+      {
+        "title": "Архивный добровольный сертификат Ergobox — срок действия истёк 14.04.2025",
+        "url": "assets/ergobox/ste4b.webp",
+        "type": "Документ"
+      }
+    ],
+    "slug": "ergobox-10"
   },
   {
     "id": "ergobox-10-compact",
@@ -571,7 +740,20 @@ window.DELTA_PRODUCTS = [
       "users_note": "Для постоянного и сезонного проживания",
       "warranty": "Гарантия производителя — 1 год",
       "service": "Обслуживание — по регламенту производителя"
-    }
+    },
+    "documents": [
+      {
+        "title": "Декларация ЕАЭС на станцию Ergobox — действует до 30.11.2028",
+        "url": "assets/ergobox/vt3b.webp",
+        "type": "Документ"
+      },
+      {
+        "title": "Архивный добровольный сертификат Ergobox — срок действия истёк 14.04.2025",
+        "url": "assets/ergobox/ste4b.webp",
+        "type": "Документ"
+      }
+    ],
+    "slug": "ergobox-10-compact"
   },
   {
     "id": "aquario-pump",
@@ -590,7 +772,9 @@ window.DELTA_PRODUCTS = [
     ],
     "meta": {},
     "popular": false,
-    "gallery": []
+    "gallery": [],
+    "documents": [],
+    "slug": "aquario-pump"
   },
   {
     "id": "alarm",
@@ -608,7 +792,9 @@ window.DELTA_PRODUCTS = [
     ],
     "meta": {},
     "popular": false,
-    "gallery": []
+    "gallery": [],
+    "documents": [],
+    "slug": "alarm"
   },
   {
     "id": "pelican-3",
@@ -654,9 +840,19 @@ window.DELTA_PRODUCTS = [
     },
     "documents": [
       {
-        "title": "Монтажная схема Пеликан",
+        "title": "Монтажная схема — «Пеликан» 3",
         "url": "assets/pelican/schemes/peli3.pdf",
         "type": "PDF"
+      },
+      {
+        "title": "Сертификат соответствия станции «Пеликан» — действует до 20.02.2027",
+        "url": "assets/pelican/certificates/ssber1.webp",
+        "type": "Документ"
+      },
+      {
+        "title": "Декларация ЕАЭС станции «Пеликан» — действует до 19.02.2029",
+        "url": "assets/pelican/certificates/ssber2.webp",
+        "type": "Документ"
       }
     ],
     "options": [
@@ -668,7 +864,8 @@ window.DELTA_PRODUCTS = [
         "title": "Аварийная сигнализация",
         "price": 1900
       }
-    ]
+    ],
+    "slug": "pelican-3"
   },
   {
     "id": "pelican-3-long",
@@ -704,7 +901,18 @@ window.DELTA_PRODUCTS = [
       "warranty": "Гарантия на оборудование — 1 год",
       "service": "Монтаж и дополнительные услуги рассчитываются отдельно"
     },
-    "documents": [],
+    "documents": [
+      {
+        "title": "Сертификат соответствия станции «Пеликан» — действует до 20.02.2027",
+        "url": "assets/pelican/certificates/ssber1.webp",
+        "type": "Документ"
+      },
+      {
+        "title": "Декларация ЕАЭС станции «Пеликан» — действует до 19.02.2029",
+        "url": "assets/pelican/certificates/ssber2.webp",
+        "type": "Документ"
+      }
+    ],
     "options": [
       {
         "title": "Дренажный насос",
@@ -714,7 +922,8 @@ window.DELTA_PRODUCTS = [
         "title": "Аварийная сигнализация",
         "price": 1900
       }
-    ]
+    ],
+    "slug": "pelican-3-long"
   },
   {
     "id": "pelican-4",
@@ -759,9 +968,19 @@ window.DELTA_PRODUCTS = [
     },
     "documents": [
       {
-        "title": "Монтажная схема Пеликан",
+        "title": "Монтажная схема — «Пеликан» 4",
         "url": "assets/pelican/schemes/peli4.pdf",
         "type": "PDF"
+      },
+      {
+        "title": "Сертификат соответствия станции «Пеликан» — действует до 20.02.2027",
+        "url": "assets/pelican/certificates/ssber1.webp",
+        "type": "Документ"
+      },
+      {
+        "title": "Декларация ЕАЭС станции «Пеликан» — действует до 19.02.2029",
+        "url": "assets/pelican/certificates/ssber2.webp",
+        "type": "Документ"
       }
     ],
     "options": [
@@ -773,7 +992,8 @@ window.DELTA_PRODUCTS = [
         "title": "Аварийная сигнализация",
         "price": 1900
       }
-    ]
+    ],
+    "slug": "pelican-4"
   },
   {
     "id": "pelican-4-long",
@@ -809,7 +1029,18 @@ window.DELTA_PRODUCTS = [
       "warranty": "Гарантия на оборудование — 1 год",
       "service": "Монтаж и дополнительные услуги рассчитываются отдельно"
     },
-    "documents": [],
+    "documents": [
+      {
+        "title": "Сертификат соответствия станции «Пеликан» — действует до 20.02.2027",
+        "url": "assets/pelican/certificates/ssber1.webp",
+        "type": "Документ"
+      },
+      {
+        "title": "Декларация ЕАЭС станции «Пеликан» — действует до 19.02.2029",
+        "url": "assets/pelican/certificates/ssber2.webp",
+        "type": "Документ"
+      }
+    ],
     "options": [
       {
         "title": "Дренажный насос",
@@ -819,7 +1050,8 @@ window.DELTA_PRODUCTS = [
         "title": "Аварийная сигнализация",
         "price": 1900
       }
-    ]
+    ],
+    "slug": "pelican-4-long"
   },
   {
     "id": "pelican-5",
@@ -865,9 +1097,19 @@ window.DELTA_PRODUCTS = [
     },
     "documents": [
       {
-        "title": "Монтажная схема Пеликан",
+        "title": "Монтажная схема — «Пеликан» 5",
         "url": "assets/pelican/schemes/peli5.pdf",
         "type": "PDF"
+      },
+      {
+        "title": "Сертификат соответствия станции «Пеликан» — действует до 20.02.2027",
+        "url": "assets/pelican/certificates/ssber1.webp",
+        "type": "Документ"
+      },
+      {
+        "title": "Декларация ЕАЭС станции «Пеликан» — действует до 19.02.2029",
+        "url": "assets/pelican/certificates/ssber2.webp",
+        "type": "Документ"
       }
     ],
     "options": [
@@ -879,7 +1121,8 @@ window.DELTA_PRODUCTS = [
         "title": "Аварийная сигнализация",
         "price": 1900
       }
-    ]
+    ],
+    "slug": "pelican-5"
   },
   {
     "id": "pelican-5-long",
@@ -915,7 +1158,18 @@ window.DELTA_PRODUCTS = [
       "warranty": "Гарантия на оборудование — 1 год",
       "service": "Монтаж и дополнительные услуги рассчитываются отдельно"
     },
-    "documents": [],
+    "documents": [
+      {
+        "title": "Сертификат соответствия станции «Пеликан» — действует до 20.02.2027",
+        "url": "assets/pelican/certificates/ssber1.webp",
+        "type": "Документ"
+      },
+      {
+        "title": "Декларация ЕАЭС станции «Пеликан» — действует до 19.02.2029",
+        "url": "assets/pelican/certificates/ssber2.webp",
+        "type": "Документ"
+      }
+    ],
     "options": [
       {
         "title": "Дренажный насос",
@@ -925,7 +1179,8 @@ window.DELTA_PRODUCTS = [
         "title": "Аварийная сигнализация",
         "price": 1900
       }
-    ]
+    ],
+    "slug": "pelican-5-long"
   },
   {
     "id": "pelican-pump",
@@ -941,7 +1196,9 @@ window.DELTA_PRODUCTS = [
     "tags": [],
     "meta": {},
     "popular": false,
-    "gallery": []
+    "gallery": [],
+    "documents": [],
+    "slug": "pelican-pump"
   },
   {
     "id": "pelican-alarm",
@@ -957,7 +1214,9 @@ window.DELTA_PRODUCTS = [
     "tags": [],
     "meta": {},
     "popular": false,
-    "gallery": []
+    "gallery": [],
+    "documents": [],
+    "slug": "pelican-alarm"
   },
   {
     "id": "st-st20",
@@ -994,16 +1253,22 @@ window.DELTA_PRODUCTS = [
     },
     "documents": [
       {
-        "title": "Сертификат Модуль ST",
-        "url": "assets/modul-st/certificates/certificate.webp",
-        "type": "WEBP"
+        "title": "Официальная монтажная схема «Модуль ST 20»",
+        "url": "https://septiktermit.ru/pdf/m/ST20.pdf",
+        "type": "PDF"
       },
       {
-        "title": "Декларация Модуль ST",
-        "url": "assets/modul-st/certificates/declaration.webp",
-        "type": "WEBP"
+        "title": "Декларация ЕАЭС «Модуль ST» — действует до 12.09.2027",
+        "url": "assets/certificates/ModuleStationDeclaration.pdf",
+        "type": "PDF"
+      },
+      {
+        "title": "Архивный сертификат «Модуль ST» — срок действия истёк 28.09.2025",
+        "url": "assets/certificates/ModuleSTStationCertificate.pdf",
+        "type": "PDF"
       }
-    ]
+    ],
+    "slug": "st-st20"
   },
   {
     "id": "st-st40",
@@ -1040,16 +1305,17 @@ window.DELTA_PRODUCTS = [
     },
     "documents": [
       {
-        "title": "Сертификат Модуль ST",
-        "url": "assets/modul-st/certificates/certificate.webp",
-        "type": "WEBP"
+        "title": "Декларация ЕАЭС «Модуль ST» — действует до 12.09.2027",
+        "url": "assets/certificates/ModuleStationDeclaration.pdf",
+        "type": "PDF"
       },
       {
-        "title": "Декларация Модуль ST",
-        "url": "assets/modul-st/certificates/declaration.webp",
-        "type": "WEBP"
+        "title": "Архивный сертификат «Модуль ST» — срок действия истёк 28.09.2025",
+        "url": "assets/certificates/ModuleSTStationCertificate.pdf",
+        "type": "PDF"
       }
-    ]
+    ],
+    "slug": "st-st40"
   },
   {
     "id": "st-st60",
@@ -1087,16 +1353,17 @@ window.DELTA_PRODUCTS = [
     },
     "documents": [
       {
-        "title": "Сертификат Модуль ST",
-        "url": "assets/modul-st/certificates/certificate.webp",
-        "type": "WEBP"
+        "title": "Декларация ЕАЭС «Модуль ST» — действует до 12.09.2027",
+        "url": "assets/certificates/ModuleStationDeclaration.pdf",
+        "type": "PDF"
       },
       {
-        "title": "Декларация Модуль ST",
-        "url": "assets/modul-st/certificates/declaration.webp",
-        "type": "WEBP"
+        "title": "Архивный сертификат «Модуль ST» — срок действия истёк 28.09.2025",
+        "url": "assets/certificates/ModuleSTStationCertificate.pdf",
+        "type": "PDF"
       }
-    ]
+    ],
+    "slug": "st-st60"
   },
   {
     "id": "st-st80",
@@ -1134,16 +1401,17 @@ window.DELTA_PRODUCTS = [
     },
     "documents": [
       {
-        "title": "Сертификат Модуль ST",
-        "url": "assets/modul-st/certificates/certificate.webp",
-        "type": "WEBP"
+        "title": "Декларация ЕАЭС «Модуль ST» — действует до 12.09.2027",
+        "url": "assets/certificates/ModuleStationDeclaration.pdf",
+        "type": "PDF"
       },
       {
-        "title": "Декларация Модуль ST",
-        "url": "assets/modul-st/certificates/declaration.webp",
-        "type": "WEBP"
+        "title": "Архивный сертификат «Модуль ST» — срок действия истёк 28.09.2025",
+        "url": "assets/certificates/ModuleSTStationCertificate.pdf",
+        "type": "PDF"
       }
-    ]
+    ],
+    "slug": "st-st80"
   },
   {
     "id": "st-st100",
@@ -1181,16 +1449,17 @@ window.DELTA_PRODUCTS = [
     },
     "documents": [
       {
-        "title": "Сертификат Модуль ST",
-        "url": "assets/modul-st/certificates/certificate.webp",
-        "type": "WEBP"
+        "title": "Декларация ЕАЭС «Модуль ST» — действует до 12.09.2027",
+        "url": "assets/certificates/ModuleStationDeclaration.pdf",
+        "type": "PDF"
       },
       {
-        "title": "Декларация Модуль ST",
-        "url": "assets/modul-st/certificates/declaration.webp",
-        "type": "WEBP"
+        "title": "Архивный сертификат «Модуль ST» — срок действия истёк 28.09.2025",
+        "url": "assets/certificates/ModuleSTStationCertificate.pdf",
+        "type": "PDF"
       }
-    ]
+    ],
+    "slug": "st-st100"
   },
   {
     "id": "dobor-3-4",
@@ -1208,7 +1477,9 @@ window.DELTA_PRODUCTS = [
     ],
     "meta": {},
     "popular": false,
-    "gallery": []
+    "gallery": [],
+    "documents": [],
+    "slug": "dobor-3-4"
   },
   {
     "id": "dobor-5-6",
@@ -1226,7 +1497,9 @@ window.DELTA_PRODUCTS = [
     ],
     "meta": {},
     "popular": false,
-    "gallery": []
+    "gallery": [],
+    "documents": [],
+    "slug": "dobor-5-6"
   },
   {
     "id": "dobor-7-8",
@@ -1244,7 +1517,9 @@ window.DELTA_PRODUCTS = [
     ],
     "meta": {},
     "popular": false,
-    "gallery": []
+    "gallery": [],
+    "documents": [],
+    "slug": "dobor-7-8"
   },
   {
     "id": "dobor-10",
@@ -1262,7 +1537,9 @@ window.DELTA_PRODUCTS = [
     ],
     "meta": {},
     "popular": false,
-    "gallery": []
+    "gallery": [],
+    "documents": [],
+    "slug": "dobor-10"
   },
   {
     "id": "dobor-profi-plus",
@@ -1280,7 +1557,9 @@ window.DELTA_PRODUCTS = [
     ],
     "meta": {},
     "popular": false,
-    "gallery": []
+    "gallery": [],
+    "documents": [],
+    "slug": "dobor-profi-plus"
   },
   {
     "id": "dobor-d500",
@@ -1298,7 +1577,9 @@ window.DELTA_PRODUCTS = [
     ],
     "meta": {},
     "popular": false,
-    "gallery": []
+    "gallery": [],
+    "documents": [],
+    "slug": "dobor-d500"
   },
   {
     "id": "dobor-d650",
@@ -1316,7 +1597,9 @@ window.DELTA_PRODUCTS = [
     ],
     "meta": {},
     "popular": false,
-    "gallery": []
+    "gallery": [],
+    "documents": [],
+    "slug": "dobor-d650"
   },
   {
     "id": "termit-profi-0.7",
@@ -1348,25 +1631,26 @@ window.DELTA_PRODUCTS = [
     ],
     "documents": [
       {
-        "title": "Сертификат соответствия",
-        "type": "PDF",
-        "url": "assets/termit/certificates/certificate.pdf"
+        "title": "Декларация ЕАЭС на септики серии «Термит» — действует до 08.02.2028",
+        "url": "assets/termit/certificates/declaration.pdf",
+        "type": "PDF"
       },
       {
-        "title": "Декларация соответствия",
-        "type": "PDF",
-        "url": "assets/termit/certificates/declaration.pdf"
+        "title": "Паспорт «Термит Профи»",
+        "url": "assets/termit/certificates/profi-passport.pdf",
+        "type": "PDF"
       },
       {
-        "title": "Паспорт и документация Термит Профи",
-        "type": "PDF",
-        "url": "assets/termit/certificates/profi-passport.pdf"
+        "title": "Архивный добровольный сертификат на септики «Термит» — срок действия истёк 02.03.2026",
+        "url": "assets/termit/certificates/certificate-2.pdf",
+        "type": "PDF"
       }
     ],
     "details": {
       "users_note": "Для сезонного и периодического проживания; возможна полная энергонезависимость.",
       "warranty": "Гарантия производителя — 1 год"
-    }
+    },
+    "slug": "termit-profi-0-7"
   },
   {
     "id": "termit-profi-1.2",
@@ -1398,25 +1682,26 @@ window.DELTA_PRODUCTS = [
     ],
     "documents": [
       {
-        "title": "Сертификат соответствия",
-        "type": "PDF",
-        "url": "assets/termit/certificates/certificate.pdf"
+        "title": "Декларация ЕАЭС на септики серии «Термит» — действует до 08.02.2028",
+        "url": "assets/termit/certificates/declaration.pdf",
+        "type": "PDF"
       },
       {
-        "title": "Декларация соответствия",
-        "type": "PDF",
-        "url": "assets/termit/certificates/declaration.pdf"
+        "title": "Паспорт «Термит Профи»",
+        "url": "assets/termit/certificates/profi-passport.pdf",
+        "type": "PDF"
       },
       {
-        "title": "Паспорт и документация Термит Профи",
-        "type": "PDF",
-        "url": "assets/termit/certificates/profi-passport.pdf"
+        "title": "Архивный добровольный сертификат на септики «Термит» — срок действия истёк 02.03.2026",
+        "url": "assets/termit/certificates/certificate-2.pdf",
+        "type": "PDF"
       }
     ],
     "details": {
       "users_note": "Для сезонного и периодического проживания; возможна полная энергонезависимость.",
       "warranty": "Гарантия производителя — 1 год"
-    }
+    },
+    "slug": "termit-profi-1-2"
   },
   {
     "id": "termit-profi-2.0",
@@ -1448,25 +1733,26 @@ window.DELTA_PRODUCTS = [
     ],
     "documents": [
       {
-        "title": "Сертификат соответствия",
-        "type": "PDF",
-        "url": "assets/termit/certificates/certificate.pdf"
+        "title": "Декларация ЕАЭС на септики серии «Термит» — действует до 08.02.2028",
+        "url": "assets/termit/certificates/declaration.pdf",
+        "type": "PDF"
       },
       {
-        "title": "Декларация соответствия",
-        "type": "PDF",
-        "url": "assets/termit/certificates/declaration.pdf"
+        "title": "Паспорт «Термит Профи»",
+        "url": "assets/termit/certificates/profi-passport.pdf",
+        "type": "PDF"
       },
       {
-        "title": "Паспорт и документация Термит Профи",
-        "type": "PDF",
-        "url": "assets/termit/certificates/profi-passport.pdf"
+        "title": "Архивный добровольный сертификат на септики «Термит» — срок действия истёк 02.03.2026",
+        "url": "assets/termit/certificates/certificate-2.pdf",
+        "type": "PDF"
       }
     ],
     "details": {
       "users_note": "Для сезонного и периодического проживания; возможна полная энергонезависимость.",
       "warranty": "Гарантия производителя — 1 год"
-    }
+    },
+    "slug": "termit-profi-2-0"
   },
   {
     "id": "termit-profi-2.5",
@@ -1499,25 +1785,26 @@ window.DELTA_PRODUCTS = [
     ],
     "documents": [
       {
-        "title": "Сертификат соответствия",
-        "type": "PDF",
-        "url": "assets/termit/certificates/certificate.pdf"
+        "title": "Декларация ЕАЭС на септики серии «Термит» — действует до 08.02.2028",
+        "url": "assets/termit/certificates/declaration.pdf",
+        "type": "PDF"
       },
       {
-        "title": "Декларация соответствия",
-        "type": "PDF",
-        "url": "assets/termit/certificates/declaration.pdf"
+        "title": "Паспорт «Термит Профи»",
+        "url": "assets/termit/certificates/profi-passport.pdf",
+        "type": "PDF"
       },
       {
-        "title": "Паспорт и документация Термит Профи",
-        "type": "PDF",
-        "url": "assets/termit/certificates/profi-passport.pdf"
+        "title": "Архивный добровольный сертификат на септики «Термит» — срок действия истёк 02.03.2026",
+        "url": "assets/termit/certificates/certificate-2.pdf",
+        "type": "PDF"
       }
     ],
     "details": {
       "users_note": "Для сезонного и периодического проживания; возможна полная энергонезависимость.",
       "warranty": "Гарантия производителя — 1 год"
-    }
+    },
+    "slug": "termit-profi-2-5"
   },
   {
     "id": "termit-profi-3.0",
@@ -1550,25 +1837,26 @@ window.DELTA_PRODUCTS = [
     ],
     "documents": [
       {
-        "title": "Сертификат соответствия",
-        "type": "PDF",
-        "url": "assets/termit/certificates/certificate.pdf"
+        "title": "Декларация ЕАЭС на септики серии «Термит» — действует до 08.02.2028",
+        "url": "assets/termit/certificates/declaration.pdf",
+        "type": "PDF"
       },
       {
-        "title": "Декларация соответствия",
-        "type": "PDF",
-        "url": "assets/termit/certificates/declaration.pdf"
+        "title": "Паспорт «Термит Профи»",
+        "url": "assets/termit/certificates/profi-passport.pdf",
+        "type": "PDF"
       },
       {
-        "title": "Паспорт и документация Термит Профи",
-        "type": "PDF",
-        "url": "assets/termit/certificates/profi-passport.pdf"
+        "title": "Архивный добровольный сертификат на септики «Термит» — срок действия истёк 02.03.2026",
+        "url": "assets/termit/certificates/certificate-2.pdf",
+        "type": "PDF"
       }
     ],
     "details": {
       "users_note": "Для сезонного и периодического проживания; возможна полная энергонезависимость.",
       "warranty": "Гарантия производителя — 1 год"
-    }
+    },
+    "slug": "termit-profi-3-0"
   },
   {
     "id": "termit-profi-4.0",
@@ -1601,25 +1889,26 @@ window.DELTA_PRODUCTS = [
     ],
     "documents": [
       {
-        "title": "Сертификат соответствия",
-        "type": "PDF",
-        "url": "assets/termit/certificates/certificate.pdf"
+        "title": "Декларация ЕАЭС на септики серии «Термит» — действует до 08.02.2028",
+        "url": "assets/termit/certificates/declaration.pdf",
+        "type": "PDF"
       },
       {
-        "title": "Декларация соответствия",
-        "type": "PDF",
-        "url": "assets/termit/certificates/declaration.pdf"
+        "title": "Паспорт «Термит Профи»",
+        "url": "assets/termit/certificates/profi-passport.pdf",
+        "type": "PDF"
       },
       {
-        "title": "Паспорт и документация Термит Профи",
-        "type": "PDF",
-        "url": "assets/termit/certificates/profi-passport.pdf"
+        "title": "Архивный добровольный сертификат на септики «Термит» — срок действия истёк 02.03.2026",
+        "url": "assets/termit/certificates/certificate-2.pdf",
+        "type": "PDF"
       }
     ],
     "details": {
       "users_note": "Для сезонного и периодического проживания; возможна полная энергонезависимость.",
       "warranty": "Гарантия производителя — 1 год"
-    }
+    },
+    "slug": "termit-profi-4-0"
   },
   {
     "id": "termit-profi-5.5",
@@ -1651,25 +1940,26 @@ window.DELTA_PRODUCTS = [
     ],
     "documents": [
       {
-        "title": "Сертификат соответствия",
-        "type": "PDF",
-        "url": "assets/termit/certificates/certificate.pdf"
+        "title": "Декларация ЕАЭС на септики серии «Термит» — действует до 08.02.2028",
+        "url": "assets/termit/certificates/declaration.pdf",
+        "type": "PDF"
       },
       {
-        "title": "Декларация соответствия",
-        "type": "PDF",
-        "url": "assets/termit/certificates/declaration.pdf"
+        "title": "Паспорт «Термит Профи»",
+        "url": "assets/termit/certificates/profi-passport.pdf",
+        "type": "PDF"
       },
       {
-        "title": "Паспорт и документация Термит Профи",
-        "type": "PDF",
-        "url": "assets/termit/certificates/profi-passport.pdf"
+        "title": "Архивный добровольный сертификат на септики «Термит» — срок действия истёк 02.03.2026",
+        "url": "assets/termit/certificates/certificate-2.pdf",
+        "type": "PDF"
       }
     ],
     "details": {
       "users_note": "Для сезонного и периодического проживания; возможна полная энергонезависимость.",
       "warranty": "Гарантия производителя — 1 год"
-    }
+    },
+    "slug": "termit-profi-5-5"
   },
   {
     "id": "termit-profi-6.5",
@@ -1702,25 +1992,26 @@ window.DELTA_PRODUCTS = [
     ],
     "documents": [
       {
-        "title": "Сертификат соответствия",
-        "type": "PDF",
-        "url": "assets/termit/certificates/certificate.pdf"
+        "title": "Декларация ЕАЭС на септики серии «Термит» — действует до 08.02.2028",
+        "url": "assets/termit/certificates/declaration.pdf",
+        "type": "PDF"
       },
       {
-        "title": "Декларация соответствия",
-        "type": "PDF",
-        "url": "assets/termit/certificates/declaration.pdf"
+        "title": "Паспорт «Термит Профи»",
+        "url": "assets/termit/certificates/profi-passport.pdf",
+        "type": "PDF"
       },
       {
-        "title": "Паспорт и документация Термит Профи",
-        "type": "PDF",
-        "url": "assets/termit/certificates/profi-passport.pdf"
+        "title": "Архивный добровольный сертификат на септики «Термит» — срок действия истёк 02.03.2026",
+        "url": "assets/termit/certificates/certificate-2.pdf",
+        "type": "PDF"
       }
     ],
     "details": {
       "users_note": "Для сезонного и периодического проживания; возможна полная энергонезависимость.",
       "warranty": "Гарантия производителя — 1 год"
-    }
+    },
+    "slug": "termit-profi-6-5"
   },
   {
     "id": "termit-profi-8.5",
@@ -1752,25 +2043,26 @@ window.DELTA_PRODUCTS = [
     ],
     "documents": [
       {
-        "title": "Сертификат соответствия",
-        "type": "PDF",
-        "url": "assets/termit/certificates/certificate.pdf"
+        "title": "Декларация ЕАЭС на септики серии «Термит» — действует до 08.02.2028",
+        "url": "assets/termit/certificates/declaration.pdf",
+        "type": "PDF"
       },
       {
-        "title": "Декларация соответствия",
-        "type": "PDF",
-        "url": "assets/termit/certificates/declaration.pdf"
+        "title": "Паспорт «Термит Профи»",
+        "url": "assets/termit/certificates/profi-passport.pdf",
+        "type": "PDF"
       },
       {
-        "title": "Паспорт и документация Термит Профи",
-        "type": "PDF",
-        "url": "assets/termit/certificates/profi-passport.pdf"
+        "title": "Архивный добровольный сертификат на септики «Термит» — срок действия истёк 02.03.2026",
+        "url": "assets/termit/certificates/certificate-2.pdf",
+        "type": "PDF"
       }
     ],
     "details": {
       "users_note": "Для сезонного и периодического проживания; возможна полная энергонезависимость.",
       "warranty": "Гарантия производителя — 1 год"
-    }
+    },
+    "slug": "termit-profi-8-5"
   },
   {
     "id": "termit-profi-м15",
@@ -1801,25 +2093,21 @@ window.DELTA_PRODUCTS = [
     ],
     "documents": [
       {
-        "title": "Сертификат соответствия",
-        "type": "PDF",
-        "url": "assets/termit/certificates/certificate.pdf"
+        "title": "Декларация ЕАЭС на септики серии «Термит» — действует до 08.02.2028",
+        "url": "assets/termit/certificates/declaration.pdf",
+        "type": "PDF"
       },
       {
-        "title": "Декларация соответствия",
-        "type": "PDF",
-        "url": "assets/termit/certificates/declaration.pdf"
-      },
-      {
-        "title": "Паспорт и документация Термит Профи М",
-        "type": "PDF",
-        "url": "assets/termit/certificates/profi-passport.pdf"
+        "title": "Архивный добровольный сертификат на септики «Термит» — срок действия истёк 02.03.2026",
+        "url": "assets/termit/certificates/certificate-2.pdf",
+        "type": "PDF"
       }
     ],
     "details": {
       "users_note": "Крупные автономные решения для объектов с высокой нагрузкой.",
       "warranty": "Гарантия производителя — 1 год"
-    }
+    },
+    "slug": "termit-profi-m15"
   },
   {
     "id": "termit-profi-м20",
@@ -1850,25 +2138,21 @@ window.DELTA_PRODUCTS = [
     ],
     "documents": [
       {
-        "title": "Сертификат соответствия",
-        "type": "PDF",
-        "url": "assets/termit/certificates/certificate.pdf"
+        "title": "Декларация ЕАЭС на септики серии «Термит» — действует до 08.02.2028",
+        "url": "assets/termit/certificates/declaration.pdf",
+        "type": "PDF"
       },
       {
-        "title": "Декларация соответствия",
-        "type": "PDF",
-        "url": "assets/termit/certificates/declaration.pdf"
-      },
-      {
-        "title": "Паспорт и документация Термит Профи М",
-        "type": "PDF",
-        "url": "assets/termit/certificates/profi-passport.pdf"
+        "title": "Архивный добровольный сертификат на септики «Термит» — срок действия истёк 02.03.2026",
+        "url": "assets/termit/certificates/certificate-2.pdf",
+        "type": "PDF"
       }
     ],
     "details": {
       "users_note": "Крупные автономные решения для объектов с высокой нагрузкой.",
       "warranty": "Гарантия производителя — 1 год"
-    }
+    },
+    "slug": "termit-profi-m20"
   },
   {
     "id": "termit-profi-м25",
@@ -1899,25 +2183,21 @@ window.DELTA_PRODUCTS = [
     ],
     "documents": [
       {
-        "title": "Сертификат соответствия",
-        "type": "PDF",
-        "url": "assets/termit/certificates/certificate.pdf"
+        "title": "Декларация ЕАЭС на септики серии «Термит» — действует до 08.02.2028",
+        "url": "assets/termit/certificates/declaration.pdf",
+        "type": "PDF"
       },
       {
-        "title": "Декларация соответствия",
-        "type": "PDF",
-        "url": "assets/termit/certificates/declaration.pdf"
-      },
-      {
-        "title": "Паспорт и документация Термит Профи М",
-        "type": "PDF",
-        "url": "assets/termit/certificates/profi-passport.pdf"
+        "title": "Архивный добровольный сертификат на септики «Термит» — срок действия истёк 02.03.2026",
+        "url": "assets/termit/certificates/certificate-2.pdf",
+        "type": "PDF"
       }
     ],
     "details": {
       "users_note": "Крупные автономные решения для объектов с высокой нагрузкой.",
       "warranty": "Гарантия производителя — 1 год"
-    }
+    },
+    "slug": "termit-profi-m25"
   },
   {
     "id": "termit-profi-м30",
@@ -1948,25 +2228,21 @@ window.DELTA_PRODUCTS = [
     ],
     "documents": [
       {
-        "title": "Сертификат соответствия",
-        "type": "PDF",
-        "url": "assets/termit/certificates/certificate.pdf"
+        "title": "Декларация ЕАЭС на септики серии «Термит» — действует до 08.02.2028",
+        "url": "assets/termit/certificates/declaration.pdf",
+        "type": "PDF"
       },
       {
-        "title": "Декларация соответствия",
-        "type": "PDF",
-        "url": "assets/termit/certificates/declaration.pdf"
-      },
-      {
-        "title": "Паспорт и документация Термит Профи М",
-        "type": "PDF",
-        "url": "assets/termit/certificates/profi-passport.pdf"
+        "title": "Архивный добровольный сертификат на септики «Термит» — срок действия истёк 02.03.2026",
+        "url": "assets/termit/certificates/certificate-2.pdf",
+        "type": "PDF"
       }
     ],
     "details": {
       "users_note": "Крупные автономные решения для объектов с высокой нагрузкой.",
       "warranty": "Гарантия производителя — 1 год"
-    }
+    },
+    "slug": "termit-profi-m30"
   },
   {
     "id": "termit-profi-м35",
@@ -1997,25 +2273,21 @@ window.DELTA_PRODUCTS = [
     ],
     "documents": [
       {
-        "title": "Сертификат соответствия",
-        "type": "PDF",
-        "url": "assets/termit/certificates/certificate.pdf"
+        "title": "Декларация ЕАЭС на септики серии «Термит» — действует до 08.02.2028",
+        "url": "assets/termit/certificates/declaration.pdf",
+        "type": "PDF"
       },
       {
-        "title": "Декларация соответствия",
-        "type": "PDF",
-        "url": "assets/termit/certificates/declaration.pdf"
-      },
-      {
-        "title": "Паспорт и документация Термит Профи М",
-        "type": "PDF",
-        "url": "assets/termit/certificates/profi-passport.pdf"
+        "title": "Архивный добровольный сертификат на септики «Термит» — срок действия истёк 02.03.2026",
+        "url": "assets/termit/certificates/certificate-2.pdf",
+        "type": "PDF"
       }
     ],
     "details": {
       "users_note": "Крупные автономные решения для объектов с высокой нагрузкой.",
       "warranty": "Гарантия производителя — 1 год"
-    }
+    },
+    "slug": "termit-profi-m35"
   },
   {
     "id": "termit-profi-м40",
@@ -2046,25 +2318,21 @@ window.DELTA_PRODUCTS = [
     ],
     "documents": [
       {
-        "title": "Сертификат соответствия",
-        "type": "PDF",
-        "url": "assets/termit/certificates/certificate.pdf"
+        "title": "Декларация ЕАЭС на септики серии «Термит» — действует до 08.02.2028",
+        "url": "assets/termit/certificates/declaration.pdf",
+        "type": "PDF"
       },
       {
-        "title": "Декларация соответствия",
-        "type": "PDF",
-        "url": "assets/termit/certificates/declaration.pdf"
-      },
-      {
-        "title": "Паспорт и документация Термит Профи М",
-        "type": "PDF",
-        "url": "assets/termit/certificates/profi-passport.pdf"
+        "title": "Архивный добровольный сертификат на септики «Термит» — срок действия истёк 02.03.2026",
+        "url": "assets/termit/certificates/certificate-2.pdf",
+        "type": "PDF"
       }
     ],
     "details": {
       "users_note": "Крупные автономные решения для объектов с высокой нагрузкой.",
       "warranty": "Гарантия производителя — 1 год"
-    }
+    },
+    "slug": "termit-profi-m40"
   },
   {
     "id": "termit-profi-м45",
@@ -2095,25 +2363,21 @@ window.DELTA_PRODUCTS = [
     ],
     "documents": [
       {
-        "title": "Сертификат соответствия",
-        "type": "PDF",
-        "url": "assets/termit/certificates/certificate.pdf"
+        "title": "Декларация ЕАЭС на септики серии «Термит» — действует до 08.02.2028",
+        "url": "assets/termit/certificates/declaration.pdf",
+        "type": "PDF"
       },
       {
-        "title": "Декларация соответствия",
-        "type": "PDF",
-        "url": "assets/termit/certificates/declaration.pdf"
-      },
-      {
-        "title": "Паспорт и документация Термит Профи М",
-        "type": "PDF",
-        "url": "assets/termit/certificates/profi-passport.pdf"
+        "title": "Архивный добровольный сертификат на септики «Термит» — срок действия истёк 02.03.2026",
+        "url": "assets/termit/certificates/certificate-2.pdf",
+        "type": "PDF"
       }
     ],
     "details": {
       "users_note": "Крупные автономные решения для объектов с высокой нагрузкой.",
       "warranty": "Гарантия производителя — 1 год"
-    }
+    },
+    "slug": "termit-profi-m45"
   },
   {
     "id": "termit-profi-м50",
@@ -2144,260 +2408,21 @@ window.DELTA_PRODUCTS = [
     ],
     "documents": [
       {
-        "title": "Сертификат соответствия",
-        "type": "PDF",
-        "url": "assets/termit/certificates/certificate.pdf"
+        "title": "Декларация ЕАЭС на септики серии «Термит» — действует до 08.02.2028",
+        "url": "assets/termit/certificates/declaration.pdf",
+        "type": "PDF"
       },
       {
-        "title": "Декларация соответствия",
-        "type": "PDF",
-        "url": "assets/termit/certificates/declaration.pdf"
-      },
-      {
-        "title": "Паспорт и документация Термит Профи М",
-        "type": "PDF",
-        "url": "assets/termit/certificates/profi-passport.pdf"
+        "title": "Архивный добровольный сертификат на септики «Термит» — срок действия истёк 02.03.2026",
+        "url": "assets/termit/certificates/certificate-2.pdf",
+        "type": "PDF"
       }
     ],
     "details": {
       "users_note": "Крупные автономные решения для объектов с высокой нагрузкой.",
       "warranty": "Гарантия производителя — 1 год"
-    }
-  },
-  {
-    "id": "transformer-1.3",
-    "name": "Термит Трансформер 1.3",
-    "price": 56000,
-    "category": "septic",
-    "collection": "Термит Трансформер",
-    "subtitle": "Септик для участка с продуманной конфигурацией",
-    "audience": "Для дома и бизнеса",
-    "features": [
-      "сезонное проживание",
-      "энергонезависимое решение"
-    ],
-    "tags": [
-      "септик"
-    ],
-    "meta": {
-      "size": "1.3"
     },
-    "popular": false,
-    "image": "assets/termit/models/termit-transformer/ter1.webp",
-    "gallery": [
-      "assets/termit/models/termit-transformer/ter1.webp",
-      "assets/termit/models/termit-transformer/ter3.webp",
-      "assets/termit/models/termit-transformer/1.2.webp"
-    ],
-    "documents": [
-      {
-        "title": "Сертификат соответствия",
-        "type": "PDF",
-        "url": "assets/termit/certificates/certificate-2.pdf"
-      },
-      {
-        "title": "Декларация соответствия",
-        "type": "PDF",
-        "url": "assets/termit/certificates/declaration.pdf"
-      },
-      {
-        "title": "Паспорт Термит Трансформер",
-        "type": "PDF",
-        "url": "assets/termit/certificates/transformer-passport.pdf"
-      }
-    ],
-    "details": {
-      "users_note": "Септик для участка с возможностью адаптации под условия монтажа.",
-      "warranty": "Гарантия производителя — 1 год"
-    }
-  },
-  {
-    "id": "transformer-1.5",
-    "name": "Термит Трансформер 1.5",
-    "price": 62100,
-    "category": "septic",
-    "collection": "Термит Трансформер",
-    "subtitle": "Септик для участка с продуманной конфигурацией",
-    "audience": "Для дома и бизнеса",
-    "features": [
-      "сезонное проживание",
-      "энергонезависимое решение"
-    ],
-    "tags": [
-      "септик"
-    ],
-    "meta": {
-      "size": "1.5"
-    },
-    "popular": false,
-    "image": "assets/termit/models/termit-transformer/ter1.webp",
-    "gallery": [
-      "assets/termit/models/termit-transformer/ter1.webp",
-      "assets/termit/models/termit-transformer/ter3.webp",
-      "assets/termit/models/termit-transformer/1.2.webp"
-    ],
-    "documents": [
-      {
-        "title": "Сертификат соответствия",
-        "type": "PDF",
-        "url": "assets/termit/certificates/certificate-2.pdf"
-      },
-      {
-        "title": "Декларация соответствия",
-        "type": "PDF",
-        "url": "assets/termit/certificates/declaration.pdf"
-      },
-      {
-        "title": "Паспорт Термит Трансформер",
-        "type": "PDF",
-        "url": "assets/termit/certificates/transformer-passport.pdf"
-      }
-    ],
-    "details": {
-      "users_note": "Септик для участка с возможностью адаптации под условия монтажа.",
-      "warranty": "Гарантия производителя — 1 год"
-    }
-  },
-  {
-    "id": "transformer-2.0",
-    "name": "Термит Трансформер 2.0",
-    "price": 74900,
-    "category": "septic",
-    "collection": "Термит Трансформер",
-    "subtitle": "Септик для участка с продуманной конфигурацией",
-    "audience": "Для дома и бизнеса",
-    "features": [
-      "сезонное проживание",
-      "энергонезависимое решение"
-    ],
-    "tags": [
-      "септик"
-    ],
-    "meta": {
-      "size": "2.0"
-    },
-    "popular": false,
-    "image": "assets/termit/models/termit-transformer/ter1.webp",
-    "gallery": [
-      "assets/termit/models/termit-transformer/ter1.webp",
-      "assets/termit/models/termit-transformer/ter3.webp",
-      "assets/termit/models/termit-transformer/1.2.webp"
-    ],
-    "documents": [
-      {
-        "title": "Сертификат соответствия",
-        "type": "PDF",
-        "url": "assets/termit/certificates/certificate-2.pdf"
-      },
-      {
-        "title": "Декларация соответствия",
-        "type": "PDF",
-        "url": "assets/termit/certificates/declaration.pdf"
-      },
-      {
-        "title": "Паспорт Термит Трансформер",
-        "type": "PDF",
-        "url": "assets/termit/certificates/transformer-passport.pdf"
-      }
-    ],
-    "details": {
-      "users_note": "Септик для участка с возможностью адаптации под условия монтажа.",
-      "warranty": "Гарантия производителя — 1 год"
-    }
-  },
-  {
-    "id": "transformer-2.5",
-    "name": "Термит Трансформер 2.5",
-    "price": 85600,
-    "category": "septic",
-    "collection": "Термит Трансформер",
-    "subtitle": "Септик для участка с продуманной конфигурацией",
-    "audience": "Для дома и бизнеса",
-    "features": [
-      "сезонное проживание",
-      "энергонезависимое решение"
-    ],
-    "tags": [
-      "септик"
-    ],
-    "meta": {
-      "size": "2.5"
-    },
-    "popular": false,
-    "image": "assets/termit/models/termit-transformer/ter1.webp",
-    "gallery": [
-      "assets/termit/models/termit-transformer/ter1.webp",
-      "assets/termit/models/termit-transformer/ter3.webp",
-      "assets/termit/models/termit-transformer/1.2.webp"
-    ],
-    "documents": [
-      {
-        "title": "Сертификат соответствия",
-        "type": "PDF",
-        "url": "assets/termit/certificates/certificate-2.pdf"
-      },
-      {
-        "title": "Декларация соответствия",
-        "type": "PDF",
-        "url": "assets/termit/certificates/declaration.pdf"
-      },
-      {
-        "title": "Паспорт Термит Трансформер",
-        "type": "PDF",
-        "url": "assets/termit/certificates/transformer-passport.pdf"
-      }
-    ],
-    "details": {
-      "users_note": "Септик для участка с возможностью адаптации под условия монтажа.",
-      "warranty": "Гарантия производителя — 1 год"
-    }
-  },
-  {
-    "id": "transformer-3.0",
-    "name": "Термит Трансформер 3.0",
-    "price": 99000,
-    "category": "septic",
-    "collection": "Термит Трансформер",
-    "subtitle": "Септик для участка с продуманной конфигурацией",
-    "audience": "Для дома и бизнеса",
-    "features": [
-      "сезонное проживание",
-      "энергонезависимое решение"
-    ],
-    "tags": [
-      "септик"
-    ],
-    "meta": {
-      "size": "3.0"
-    },
-    "popular": false,
-    "image": "assets/termit/models/termit-transformer/ter1.webp",
-    "gallery": [
-      "assets/termit/models/termit-transformer/ter1.webp",
-      "assets/termit/models/termit-transformer/ter3.webp",
-      "assets/termit/models/termit-transformer/1.2.webp"
-    ],
-    "documents": [
-      {
-        "title": "Сертификат соответствия",
-        "type": "PDF",
-        "url": "assets/termit/certificates/certificate-2.pdf"
-      },
-      {
-        "title": "Декларация соответствия",
-        "type": "PDF",
-        "url": "assets/termit/certificates/declaration.pdf"
-      },
-      {
-        "title": "Паспорт Термит Трансформер",
-        "type": "PDF",
-        "url": "assets/termit/certificates/transformer-passport.pdf"
-      }
-    ],
-    "details": {
-      "users_note": "Септик для участка с возможностью адаптации под условия монтажа.",
-      "warranty": "Гарантия производителя — 1 год"
-    }
+    "slug": "termit-profi-m50"
   },
   {
     "id": "sprinkler",
@@ -2415,7 +2440,9 @@ window.DELTA_PRODUCTS = [
     ],
     "meta": {},
     "popular": false,
-    "gallery": []
+    "gallery": [],
+    "documents": [],
+    "slug": "sprinkler"
   },
   {
     "id": "kr-3000",
@@ -2440,13 +2467,8 @@ window.DELTA_PRODUCTS = [
     "gallery": [
       "assets/multplast/technical-water/kr-3000.webp"
     ],
-    "documents": [
-      {
-        "title": "Документ производителя",
-        "url": "assets/multplast/technical-water/certificate.webp",
-        "type": "Изображение"
-      }
-    ]
+    "documents": [],
+    "slug": "kr-3000"
   },
   {
     "id": "kr-5000",
@@ -2471,13 +2493,8 @@ window.DELTA_PRODUCTS = [
     "gallery": [
       "assets/multplast/technical-water/kr-5000.webp"
     ],
-    "documents": [
-      {
-        "title": "Документ производителя",
-        "url": "assets/multplast/technical-water/certificate.webp",
-        "type": "Изображение"
-      }
-    ]
+    "documents": [],
+    "slug": "kr-5000"
   },
   {
     "id": "kr-10000",
@@ -2502,13 +2519,8 @@ window.DELTA_PRODUCTS = [
     "gallery": [
       "assets/multplast/technical-water/kr-10000.webp"
     ],
-    "documents": [
-      {
-        "title": "Документ производителя",
-        "url": "assets/multplast/technical-water/certificate.webp",
-        "type": "Изображение"
-      }
-    ]
+    "documents": [],
+    "slug": "kr-10000"
   },
   {
     "id": "kas-3000",
@@ -2529,7 +2541,9 @@ window.DELTA_PRODUCTS = [
       "liters": 3000
     },
     "popular": false,
-    "gallery": []
+    "gallery": [],
+    "documents": [],
+    "slug": "kas-3000"
   },
   {
     "id": "kas-5000",
@@ -2550,7 +2564,9 @@ window.DELTA_PRODUCTS = [
       "liters": 5000
     },
     "popular": false,
-    "gallery": []
+    "gallery": [],
+    "documents": [],
+    "slug": "kas-5000"
   },
   {
     "id": "kas-10000",
@@ -2571,7 +2587,9 @@ window.DELTA_PRODUCTS = [
       "liters": 10000
     },
     "popular": false,
-    "gallery": []
+    "gallery": [],
+    "documents": [],
+    "slug": "kas-10000"
   },
   {
     "id": "storage-700",
@@ -2601,16 +2619,17 @@ window.DELTA_PRODUCTS = [
     "description": "Накопительная ёмкость «Термит» предназначена для сбора и хранения стоков, когда отведение воды в грунт невозможно или запрещено. По мере заполнения требуется откачка ассенизационной техникой. Корпус из линейного полиэтилена изготовлен методом ротационного формования.",
     "documents": [
       {
-        "title": "Монтажная схема",
-        "url": "assets/multplast/storage/schemes/sn07.pdf",
+        "title": "Декларация ЕАЭС на септики и накопители «Термит» — действует до 08.02.2028",
+        "url": "assets/termit/certificates/declaration.pdf",
         "type": "PDF"
       },
       {
-        "title": "Сертификат / документ производителя",
-        "url": "assets/multplast/storage/certificate.webp",
-        "type": "Изображение"
+        "title": "Монтажная схема — накопительный резервуар 700 л",
+        "url": "assets/multplast/storage/schemes/sn07.pdf",
+        "type": "PDF"
       }
-    ]
+    ],
+    "slug": "storage-700"
   },
   {
     "id": "storage-1200",
@@ -2640,16 +2659,17 @@ window.DELTA_PRODUCTS = [
     "description": "Накопительная ёмкость «Термит» предназначена для сбора и хранения стоков, когда отведение воды в грунт невозможно или запрещено. По мере заполнения требуется откачка ассенизационной техникой. Корпус из линейного полиэтилена изготовлен методом ротационного формования.",
     "documents": [
       {
-        "title": "Монтажная схема",
-        "url": "assets/multplast/storage/schemes/sn12.pdf",
+        "title": "Декларация ЕАЭС на септики и накопители «Термит» — действует до 08.02.2028",
+        "url": "assets/termit/certificates/declaration.pdf",
         "type": "PDF"
       },
       {
-        "title": "Сертификат / документ производителя",
-        "url": "assets/multplast/storage/certificate.webp",
-        "type": "Изображение"
+        "title": "Монтажная схема — накопительный резервуар 1200 л",
+        "url": "assets/multplast/storage/schemes/sn12.pdf",
+        "type": "PDF"
       }
-    ]
+    ],
+    "slug": "storage-1200"
   },
   {
     "id": "storage-2000",
@@ -2679,16 +2699,17 @@ window.DELTA_PRODUCTS = [
     "description": "Накопительная ёмкость «Термит» предназначена для сбора и хранения стоков, когда отведение воды в грунт невозможно или запрещено. По мере заполнения требуется откачка ассенизационной техникой. Корпус из линейного полиэтилена изготовлен методом ротационного формования.",
     "documents": [
       {
-        "title": "Монтажная схема",
-        "url": "assets/multplast/storage/schemes/sn20.pdf",
+        "title": "Декларация ЕАЭС на септики и накопители «Термит» — действует до 08.02.2028",
+        "url": "assets/termit/certificates/declaration.pdf",
         "type": "PDF"
       },
       {
-        "title": "Сертификат / документ производителя",
-        "url": "assets/multplast/storage/certificate.webp",
-        "type": "Изображение"
+        "title": "Монтажная схема — накопительный резервуар 2000 л",
+        "url": "assets/multplast/storage/schemes/sn20.pdf",
+        "type": "PDF"
       }
-    ]
+    ],
+    "slug": "storage-2000"
   },
   {
     "id": "storage-2500",
@@ -2718,16 +2739,17 @@ window.DELTA_PRODUCTS = [
     "description": "Накопительная ёмкость «Термит» предназначена для сбора и хранения стоков, когда отведение воды в грунт невозможно или запрещено. По мере заполнения требуется откачка ассенизационной техникой. Корпус из линейного полиэтилена изготовлен методом ротационного формования.",
     "documents": [
       {
-        "title": "Монтажная схема",
-        "url": "assets/multplast/storage/schemes/sn25.pdf",
+        "title": "Декларация ЕАЭС на септики и накопители «Термит» — действует до 08.02.2028",
+        "url": "assets/termit/certificates/declaration.pdf",
         "type": "PDF"
       },
       {
-        "title": "Сертификат / документ производителя",
-        "url": "assets/multplast/storage/certificate.webp",
-        "type": "Изображение"
+        "title": "Монтажная схема — накопительный резервуар 2500 л",
+        "url": "assets/multplast/storage/schemes/sn25.pdf",
+        "type": "PDF"
       }
-    ]
+    ],
+    "slug": "storage-2500"
   },
   {
     "id": "storage-3000",
@@ -2757,16 +2779,17 @@ window.DELTA_PRODUCTS = [
     "description": "Накопительная ёмкость «Термит» предназначена для сбора и хранения стоков, когда отведение воды в грунт невозможно или запрещено. По мере заполнения требуется откачка ассенизационной техникой. Корпус из линейного полиэтилена изготовлен методом ротационного формования.",
     "documents": [
       {
-        "title": "Монтажная схема",
-        "url": "assets/multplast/storage/schemes/sn30.pdf",
+        "title": "Декларация ЕАЭС на септики и накопители «Термит» — действует до 08.02.2028",
+        "url": "assets/termit/certificates/declaration.pdf",
         "type": "PDF"
       },
       {
-        "title": "Сертификат / документ производителя",
-        "url": "assets/multplast/storage/certificate.webp",
-        "type": "Изображение"
+        "title": "Монтажная схема — накопительный резервуар 3000 л",
+        "url": "assets/multplast/storage/schemes/sn30.pdf",
+        "type": "PDF"
       }
-    ]
+    ],
+    "slug": "storage-3000"
   },
   {
     "id": "storage-4000",
@@ -2796,16 +2819,17 @@ window.DELTA_PRODUCTS = [
     "description": "Накопительная ёмкость «Термит» предназначена для сбора и хранения стоков, когда отведение воды в грунт невозможно или запрещено. По мере заполнения требуется откачка ассенизационной техникой. Корпус из линейного полиэтилена изготовлен методом ротационного формования.",
     "documents": [
       {
-        "title": "Монтажная схема",
-        "url": "assets/multplast/storage/schemes/sn40.pdf",
+        "title": "Декларация ЕАЭС на септики и накопители «Термит» — действует до 08.02.2028",
+        "url": "assets/termit/certificates/declaration.pdf",
         "type": "PDF"
       },
       {
-        "title": "Сертификат / документ производителя",
-        "url": "assets/multplast/storage/certificate.webp",
-        "type": "Изображение"
+        "title": "Монтажная схема — накопительный резервуар 4000 л",
+        "url": "assets/multplast/storage/schemes/sn40.pdf",
+        "type": "PDF"
       }
-    ]
+    ],
+    "slug": "storage-4000"
   },
   {
     "id": "storage-5500",
@@ -2835,21 +2859,22 @@ window.DELTA_PRODUCTS = [
     "description": "Накопительная ёмкость «Термит» предназначена для сбора и хранения стоков, когда отведение воды в грунт невозможно или запрещено. По мере заполнения требуется откачка ассенизационной техникой. Корпус из линейного полиэтилена изготовлен методом ротационного формования.",
     "documents": [
       {
-        "title": "Монтажная схема",
+        "title": "Декларация ЕАЭС на септики и накопители «Термит» — действует до 08.02.2028",
+        "url": "assets/termit/certificates/declaration.pdf",
+        "type": "PDF"
+      },
+      {
+        "title": "Монтажная схема — накопительный резервуар 5500 л",
         "url": "assets/multplast/storage/schemes/nac55.pdf",
         "type": "PDF"
       },
       {
-        "title": "Документация Накопитель 5.5",
+        "title": "Монтажная схема — горловина/узел накопительного резервуара 5500 л",
         "url": "assets/multplast/storage/schemes/nak55.pdf",
         "type": "PDF"
-      },
-      {
-        "title": "Сертификат / документ производителя",
-        "url": "assets/multplast/storage/certificate.webp",
-        "type": "Изображение"
       }
-    ]
+    ],
+    "slug": "storage-5500"
   },
   {
     "id": "storage-6500",
@@ -2879,16 +2904,17 @@ window.DELTA_PRODUCTS = [
     "description": "Накопительная ёмкость «Термит» предназначена для сбора и хранения стоков, когда отведение воды в грунт невозможно или запрещено. По мере заполнения требуется откачка ассенизационной техникой. Корпус из линейного полиэтилена изготовлен методом ротационного формования.",
     "documents": [
       {
-        "title": "Монтажная схема",
-        "url": "assets/multplast/storage/schemes/sn65.pdf",
+        "title": "Декларация ЕАЭС на септики и накопители «Термит» — действует до 08.02.2028",
+        "url": "assets/termit/certificates/declaration.pdf",
         "type": "PDF"
       },
       {
-        "title": "Сертификат / документ производителя",
-        "url": "assets/multplast/storage/certificate.webp",
-        "type": "Изображение"
+        "title": "Монтажная схема — накопительный резервуар 6500 л",
+        "url": "assets/multplast/storage/schemes/sn65.pdf",
+        "type": "PDF"
       }
-    ]
+    ],
+    "slug": "storage-6500"
   },
   {
     "id": "storage-8500",
@@ -2918,412 +2944,593 @@ window.DELTA_PRODUCTS = [
     "description": "Накопительная ёмкость «Термит» предназначена для сбора и хранения стоков, когда отведение воды в грунт невозможно или запрещено. По мере заполнения требуется откачка ассенизационной техникой. Корпус из линейного полиэтилена изготовлен методом ротационного формования.",
     "documents": [
       {
-        "title": "Монтажная схема",
-        "url": "assets/multplast/storage/schemes/sn85.pdf",
+        "title": "Декларация ЕАЭС на септики и накопители «Термит» — действует до 08.02.2028",
+        "url": "assets/termit/certificates/declaration.pdf",
         "type": "PDF"
       },
       {
-        "title": "Сертификат / документ производителя",
-        "url": "assets/multplast/storage/certificate.webp",
-        "type": "Изображение"
+        "title": "Монтажная схема — накопительный резервуар 8500 л",
+        "url": "assets/multplast/storage/schemes/sn85.pdf",
+        "type": "PDF"
       }
-    ]
+    ],
+    "slug": "storage-8500"
   },
   {
     "id": "diesel-700",
     "name": "Ёмкость для дизельного топлива 700 л",
-    "price": 44500,
+    "price": null,
     "category": "fuel",
-    "collection": "Дизельное топливо",
-    "subtitle": "Ёмкость для хранения дизельного топлива",
-    "audience": "Для бизнеса и промышленных объектов",
+    "collection": "Ёмкости для дизельного топлива",
+    "subtitle": "Ёмкость для хранения дизельного топлива, модель на 700 л",
+    "audience": "Для бизнеса",
     "features": [
-      "подземное хранение",
-      "большой диапазон объёмов",
-      "проверка совместимости материала"
+      "Объём — 700 л",
+      "Хранение дизельного топлива",
+      "Подбор модели под объём и задачу"
     ],
     "tags": [
-      "дизельное топливо"
+      "дизельное топливо",
+      "ёмкость",
+      "хранение топлива"
     ],
     "meta": {
-      "liters": 700
+      "liters": 700,
+      "model": "ДТ 700"
     },
     "popular": false,
-    "gallery": []
+    "gallery": [
+      "assets/new-products/diesel/dt-700.webp",
+      "assets/new-products/diesel/common-interior.webp"
+    ],
+    "description": "Ёмкость для дизельного топлива ДТ 700 объёмом 700 л. Технические параметры, комплектацию и условия установки уточняйте у менеджера при расчёте.",
+    "image": "assets/new-products/diesel/dt-700.webp",
+    "documents": [],
+    "slug": "diesel-700"
   },
   {
     "id": "diesel-1200",
     "name": "Ёмкость для дизельного топлива 1200 л",
-    "price": 52000,
+    "price": null,
     "category": "fuel",
-    "collection": "Дизельное топливо",
-    "subtitle": "Ёмкость для хранения дизельного топлива",
-    "audience": "Для бизнеса и промышленных объектов",
+    "collection": "Ёмкости для дизельного топлива",
+    "subtitle": "Ёмкость для хранения дизельного топлива, модель на 1200 л",
+    "audience": "Для бизнеса",
     "features": [
-      "подземное хранение",
-      "большой диапазон объёмов",
-      "проверка совместимости материала"
+      "Объём — 1 200 л",
+      "Хранение дизельного топлива",
+      "Подбор модели под объём и задачу"
     ],
     "tags": [
-      "дизельное топливо"
+      "дизельное топливо",
+      "ёмкость",
+      "хранение топлива"
     ],
     "meta": {
-      "liters": 1200
+      "liters": 1200,
+      "model": "ДТ 1200"
     },
     "popular": false,
-    "gallery": []
+    "gallery": [
+      "assets/new-products/diesel/dt-1200.webp",
+      "assets/new-products/diesel/common-interior.webp"
+    ],
+    "description": "Ёмкость для дизельного топлива ДТ 1200 объёмом 1 200 л. Технические параметры, комплектацию и условия установки уточняйте у менеджера при расчёте.",
+    "image": "assets/new-products/diesel/dt-1200.webp",
+    "documents": [],
+    "slug": "diesel-1200"
   },
   {
     "id": "diesel-2000",
     "name": "Ёмкость для дизельного топлива 2000 л",
-    "price": 67000,
+    "price": null,
     "category": "fuel",
-    "collection": "Дизельное топливо",
-    "subtitle": "Ёмкость для хранения дизельного топлива",
-    "audience": "Для бизнеса и промышленных объектов",
+    "collection": "Ёмкости для дизельного топлива",
+    "subtitle": "Ёмкость для хранения дизельного топлива, модель на 2000 л",
+    "audience": "Для бизнеса",
     "features": [
-      "подземное хранение",
-      "большой диапазон объёмов",
-      "проверка совместимости материала"
+      "Объём — 2 000 л",
+      "Хранение дизельного топлива",
+      "Подбор модели под объём и задачу"
     ],
     "tags": [
-      "дизельное топливо"
+      "дизельное топливо",
+      "ёмкость",
+      "хранение топлива"
     ],
     "meta": {
-      "liters": 2000
+      "liters": 2000,
+      "model": "ДТ 2000"
     },
     "popular": false,
-    "gallery": []
+    "gallery": [
+      "assets/new-products/diesel/dt-2000.webp",
+      "assets/new-products/diesel/common-interior.webp"
+    ],
+    "description": "Ёмкость для дизельного топлива ДТ 2000 объёмом 2 000 л. Технические параметры, комплектацию и условия установки уточняйте у менеджера при расчёте.",
+    "image": "assets/new-products/diesel/dt-2000.webp",
+    "documents": [],
+    "slug": "diesel-2000"
   },
   {
     "id": "diesel-2500",
     "name": "Ёмкость для дизельного топлива 2500 л",
-    "price": 77600,
+    "price": null,
     "category": "fuel",
-    "collection": "Дизельное топливо",
-    "subtitle": "Ёмкость для хранения дизельного топлива",
-    "audience": "Для бизнеса и промышленных объектов",
+    "collection": "Ёмкости для дизельного топлива",
+    "subtitle": "Ёмкость для хранения дизельного топлива, модель на 2500 л",
+    "audience": "Для бизнеса",
     "features": [
-      "подземное хранение",
-      "большой диапазон объёмов",
-      "проверка совместимости материала"
+      "Объём — 2 500 л",
+      "Хранение дизельного топлива",
+      "Подбор модели под объём и задачу"
     ],
     "tags": [
-      "дизельное топливо"
+      "дизельное топливо",
+      "ёмкость",
+      "хранение топлива"
     ],
     "meta": {
-      "liters": 2500
+      "liters": 2500,
+      "model": "ДТ 2500"
     },
     "popular": false,
-    "gallery": []
+    "gallery": [
+      "assets/new-products/diesel/dt-2500.webp",
+      "assets/new-products/diesel/common-interior.webp"
+    ],
+    "description": "Ёмкость для дизельного топлива ДТ 2500 объёмом 2 500 л. Технические параметры, комплектацию и условия установки уточняйте у менеджера при расчёте.",
+    "image": "assets/new-products/diesel/dt-2500.webp",
+    "documents": [],
+    "slug": "diesel-2500"
   },
   {
     "id": "diesel-3000",
     "name": "Ёмкость для дизельного топлива 3000 л",
-    "price": 96000,
+    "price": null,
     "category": "fuel",
-    "collection": "Дизельное топливо",
-    "subtitle": "Ёмкость для хранения дизельного топлива",
-    "audience": "Для бизнеса и промышленных объектов",
+    "collection": "Ёмкости для дизельного топлива",
+    "subtitle": "Ёмкость для хранения дизельного топлива, модель на 3000 л",
+    "audience": "Для бизнеса",
     "features": [
-      "подземное хранение",
-      "большой диапазон объёмов",
-      "проверка совместимости материала"
+      "Объём — 3 000 л",
+      "Хранение дизельного топлива",
+      "Подбор модели под объём и задачу"
     ],
     "tags": [
-      "дизельное топливо"
+      "дизельное топливо",
+      "ёмкость",
+      "хранение топлива"
     ],
     "meta": {
-      "liters": 3000
+      "liters": 3000,
+      "model": "ДТ 3000"
     },
     "popular": false,
-    "gallery": []
+    "gallery": [
+      "assets/new-products/diesel/dt-3000.webp",
+      "assets/new-products/diesel/common-interior.webp"
+    ],
+    "description": "Ёмкость для дизельного топлива ДТ 3000 объёмом 3 000 л. Технические параметры, комплектацию и условия установки уточняйте у менеджера при расчёте.",
+    "image": "assets/new-products/diesel/dt-3000.webp",
+    "documents": [],
+    "slug": "diesel-3000"
   },
   {
     "id": "diesel-4000",
     "name": "Ёмкость для дизельного топлива 4000 л",
-    "price": 114400,
+    "price": null,
     "category": "fuel",
-    "collection": "Дизельное топливо",
-    "subtitle": "Ёмкость для хранения дизельного топлива",
-    "audience": "Для бизнеса и промышленных объектов",
+    "collection": "Ёмкости для дизельного топлива",
+    "subtitle": "Ёмкость для хранения дизельного топлива, модель на 4000 л",
+    "audience": "Для бизнеса",
     "features": [
-      "подземное хранение",
-      "большой диапазон объёмов",
-      "проверка совместимости материала"
+      "Объём — 4 000 л",
+      "Хранение дизельного топлива",
+      "Подбор модели под объём и задачу"
     ],
     "tags": [
-      "дизельное топливо"
+      "дизельное топливо",
+      "ёмкость",
+      "хранение топлива"
     ],
     "meta": {
-      "liters": 4000
+      "liters": 4000,
+      "model": "ДТ 4000"
     },
     "popular": false,
-    "gallery": []
+    "gallery": [
+      "assets/new-products/diesel/dt-4000.webp",
+      "assets/new-products/diesel/common-interior.webp"
+    ],
+    "description": "Ёмкость для дизельного топлива ДТ 4000 объёмом 4 000 л. Технические параметры, комплектацию и условия установки уточняйте у менеджера при расчёте.",
+    "image": "assets/new-products/diesel/dt-4000.webp",
+    "documents": [],
+    "slug": "diesel-4000"
   },
   {
     "id": "diesel-5500",
     "name": "Ёмкость для дизельного топлива 5500 л",
-    "price": 139400,
+    "price": null,
     "category": "fuel",
-    "collection": "Дизельное топливо",
-    "subtitle": "Ёмкость для хранения дизельного топлива",
-    "audience": "Для бизнеса и промышленных объектов",
+    "collection": "Ёмкости для дизельного топлива",
+    "subtitle": "Ёмкость для хранения дизельного топлива, модель на 5500 л",
+    "audience": "Для бизнеса",
     "features": [
-      "подземное хранение",
-      "большой диапазон объёмов",
-      "проверка совместимости материала"
+      "Объём — 5 500 л",
+      "Хранение дизельного топлива",
+      "Подбор модели под объём и задачу"
     ],
     "tags": [
-      "дизельное топливо"
+      "дизельное топливо",
+      "ёмкость",
+      "хранение топлива"
     ],
     "meta": {
-      "liters": 5500
+      "liters": 5500,
+      "model": "ДТ 5500"
     },
     "popular": false,
-    "gallery": []
+    "gallery": [
+      "assets/new-products/diesel/dt-5500.webp",
+      "assets/new-products/diesel/common-interior.webp"
+    ],
+    "description": "Ёмкость для дизельного топлива ДТ 5500 объёмом 5 500 л. Технические параметры, комплектацию и условия установки уточняйте у менеджера при расчёте.",
+    "image": "assets/new-products/diesel/dt-5500.webp",
+    "documents": [],
+    "slug": "diesel-5500"
   },
   {
     "id": "diesel-6500",
     "name": "Ёмкость для дизельного топлива 6500 л",
-    "price": 157800,
+    "price": null,
     "category": "fuel",
-    "collection": "Дизельное топливо",
-    "subtitle": "Ёмкость для хранения дизельного топлива",
-    "audience": "Для бизнеса и промышленных объектов",
+    "collection": "Ёмкости для дизельного топлива",
+    "subtitle": "Ёмкость для хранения дизельного топлива, модель на 6500 л",
+    "audience": "Для бизнеса",
     "features": [
-      "подземное хранение",
-      "большой диапазон объёмов",
-      "проверка совместимости материала"
+      "Объём — 6 500 л",
+      "Хранение дизельного топлива",
+      "Подбор модели под объём и задачу"
     ],
     "tags": [
-      "дизельное топливо"
+      "дизельное топливо",
+      "ёмкость",
+      "хранение топлива"
     ],
     "meta": {
-      "liters": 6500
+      "liters": 6500,
+      "model": "ДТ 6500"
     },
     "popular": false,
-    "gallery": []
+    "gallery": [
+      "assets/new-products/diesel/dt-6500.webp",
+      "assets/new-products/diesel/common-interior.webp"
+    ],
+    "description": "Ёмкость для дизельного топлива ДТ 6500 объёмом 6 500 л. Технические параметры, комплектацию и условия установки уточняйте у менеджера при расчёте.",
+    "image": "assets/new-products/diesel/dt-6500.webp",
+    "documents": [],
+    "slug": "diesel-6500"
   },
   {
     "id": "diesel-8500",
     "name": "Ёмкость для дизельного топлива 8500 л",
-    "price": 187100,
+    "price": null,
     "category": "fuel",
-    "collection": "Дизельное топливо",
-    "subtitle": "Ёмкость для хранения дизельного топлива",
-    "audience": "Для бизнеса и промышленных объектов",
+    "collection": "Ёмкости для дизельного топлива",
+    "subtitle": "Ёмкость для хранения дизельного топлива, модель на 8500 л",
+    "audience": "Для бизнеса",
     "features": [
-      "подземное хранение",
-      "большой диапазон объёмов",
-      "проверка совместимости материала"
+      "Объём — 8 500 л",
+      "Хранение дизельного топлива",
+      "Подбор модели под объём и задачу"
     ],
     "tags": [
-      "дизельное топливо"
+      "дизельное топливо",
+      "ёмкость",
+      "хранение топлива"
     ],
     "meta": {
-      "liters": 8500
+      "liters": 8500,
+      "model": "ДТ 8500"
     },
     "popular": false,
-    "gallery": []
+    "gallery": [
+      "assets/new-products/diesel/dt-8500.webp",
+      "assets/new-products/diesel/common-interior.webp"
+    ],
+    "description": "Ёмкость для дизельного топлива ДТ 8500 объёмом 8 500 л. Технические параметры, комплектацию и условия установки уточняйте у менеджера при расчёте.",
+    "image": "assets/new-products/diesel/dt-8500.webp",
+    "documents": [],
+    "slug": "diesel-8500"
   },
   {
     "id": "diesel-10000",
     "name": "Ёмкость для дизельного топлива 10000 л",
-    "price": 253300,
+    "price": null,
     "category": "fuel",
-    "collection": "Дизельное топливо",
-    "subtitle": "Ёмкость для хранения дизельного топлива",
-    "audience": "Для бизнеса и промышленных объектов",
+    "collection": "Ёмкости для дизельного топлива",
+    "subtitle": "Ёмкость для хранения дизельного топлива, модель на 10000 л",
+    "audience": "Для бизнеса",
     "features": [
-      "подземное хранение",
-      "большой диапазон объёмов",
-      "проверка совместимости материала"
+      "Объём — 10 000 л",
+      "Хранение дизельного топлива",
+      "Подбор модели под объём и задачу"
     ],
     "tags": [
-      "дизельное топливо"
+      "дизельное топливо",
+      "ёмкость",
+      "хранение топлива"
     ],
     "meta": {
-      "liters": 10000
+      "liters": 10000,
+      "model": "ДТ 10000"
     },
     "popular": false,
-    "gallery": []
+    "gallery": [
+      "assets/new-products/diesel/dt-10000.webp",
+      "assets/new-products/diesel/common-interior.webp"
+    ],
+    "description": "Ёмкость для дизельного топлива ДТ 10000 объёмом 10 000 л. Технические параметры, комплектацию и условия установки уточняйте у менеджера при расчёте.",
+    "image": "assets/new-products/diesel/dt-10000.webp",
+    "documents": [],
+    "slug": "diesel-10000"
   },
   {
     "id": "diesel-15000",
     "name": "Ёмкость для дизельного топлива 15000 л",
-    "price": 351900,
+    "price": null,
     "category": "fuel",
-    "collection": "Дизельное топливо",
-    "subtitle": "Ёмкость для хранения дизельного топлива",
-    "audience": "Для бизнеса и промышленных объектов",
+    "collection": "Ёмкости для дизельного топлива",
+    "subtitle": "Ёмкость для хранения дизельного топлива, модель на 15000 л",
+    "audience": "Для бизнеса",
     "features": [
-      "подземное хранение",
-      "большой диапазон объёмов",
-      "проверка совместимости материала"
+      "Объём — 15 000 л",
+      "Хранение дизельного топлива",
+      "Подбор модели под объём и задачу"
     ],
     "tags": [
-      "дизельное топливо"
+      "дизельное топливо",
+      "ёмкость",
+      "хранение топлива"
     ],
     "meta": {
-      "liters": 15000
+      "liters": 15000,
+      "model": "ДТ 15000"
     },
     "popular": false,
-    "gallery": []
+    "gallery": [
+      "assets/new-products/diesel/dt-15000.webp",
+      "assets/new-products/diesel/common-interior.webp"
+    ],
+    "description": "Ёмкость для дизельного топлива ДТ 15000 объёмом 15 000 л. Технические параметры, комплектацию и условия установки уточняйте у менеджера при расчёте.",
+    "image": "assets/new-products/diesel/dt-15000.webp",
+    "documents": [],
+    "slug": "diesel-15000"
   },
   {
     "id": "diesel-20000",
     "name": "Ёмкость для дизельного топлива 20000 л",
-    "price": 457100,
+    "price": null,
     "category": "fuel",
-    "collection": "Дизельное топливо",
-    "subtitle": "Ёмкость для хранения дизельного топлива",
-    "audience": "Для бизнеса и промышленных объектов",
+    "collection": "Ёмкости для дизельного топлива",
+    "subtitle": "Ёмкость для хранения дизельного топлива, модель на 20000 л",
+    "audience": "Для бизнеса",
     "features": [
-      "подземное хранение",
-      "большой диапазон объёмов",
-      "проверка совместимости материала"
+      "Объём — 20 000 л",
+      "Хранение дизельного топлива",
+      "Подбор модели под объём и задачу"
     ],
     "tags": [
-      "дизельное топливо"
+      "дизельное топливо",
+      "ёмкость",
+      "хранение топлива"
     ],
     "meta": {
-      "liters": 20000
+      "liters": 20000,
+      "model": "ДТ 20000"
     },
     "popular": false,
-    "gallery": []
+    "gallery": [
+      "assets/new-products/diesel/dt-20000.webp",
+      "assets/new-products/diesel/common-interior.webp"
+    ],
+    "description": "Ёмкость для дизельного топлива ДТ 20000 объёмом 20 000 л. Технические параметры, комплектацию и условия установки уточняйте у менеджера при расчёте.",
+    "image": "assets/new-products/diesel/dt-20000.webp",
+    "documents": [],
+    "slug": "diesel-20000"
   },
   {
     "id": "diesel-25000",
     "name": "Ёмкость для дизельного топлива 25000 л",
-    "price": 575700,
+    "price": null,
     "category": "fuel",
-    "collection": "Дизельное топливо",
-    "subtitle": "Ёмкость для хранения дизельного топлива",
-    "audience": "Для бизнеса и промышленных объектов",
+    "collection": "Ёмкости для дизельного топлива",
+    "subtitle": "Ёмкость для хранения дизельного топлива, модель на 25000 л",
+    "audience": "Для бизнеса",
     "features": [
-      "подземное хранение",
-      "большой диапазон объёмов",
-      "проверка совместимости материала"
+      "Объём — 25 000 л",
+      "Хранение дизельного топлива",
+      "Подбор модели под объём и задачу"
     ],
     "tags": [
-      "дизельное топливо"
+      "дизельное топливо",
+      "ёмкость",
+      "хранение топлива"
     ],
     "meta": {
-      "liters": 25000
+      "liters": 25000,
+      "model": "ДТ 25000"
     },
     "popular": false,
-    "gallery": []
+    "gallery": [
+      "assets/new-products/diesel/dt-25000.webp",
+      "assets/new-products/diesel/common-interior.webp"
+    ],
+    "description": "Ёмкость для дизельного топлива ДТ 25000 объёмом 25 000 л. Технические параметры, комплектацию и условия установки уточняйте у менеджера при расчёте.",
+    "image": "assets/new-products/diesel/dt-25000.webp",
+    "documents": [],
+    "slug": "diesel-25000"
   },
   {
     "id": "diesel-30000",
     "name": "Ёмкость для дизельного топлива 30000 л",
-    "price": 684400,
+    "price": null,
     "category": "fuel",
-    "collection": "Дизельное топливо",
-    "subtitle": "Ёмкость для хранения дизельного топлива",
-    "audience": "Для бизнеса и промышленных объектов",
+    "collection": "Ёмкости для дизельного топлива",
+    "subtitle": "Ёмкость для хранения дизельного топлива, модель на 30000 л",
+    "audience": "Для бизнеса",
     "features": [
-      "подземное хранение",
-      "большой диапазон объёмов",
-      "проверка совместимости материала"
+      "Объём — 30 000 л",
+      "Хранение дизельного топлива",
+      "Подбор модели под объём и задачу"
     ],
     "tags": [
-      "дизельное топливо"
+      "дизельное топливо",
+      "ёмкость",
+      "хранение топлива"
     ],
     "meta": {
-      "liters": 30000
+      "liters": 30000,
+      "model": "ДТ 30000"
     },
     "popular": false,
-    "gallery": []
+    "gallery": [
+      "assets/new-products/diesel/dt-30000.webp",
+      "assets/new-products/diesel/common-interior.webp"
+    ],
+    "description": "Ёмкость для дизельного топлива ДТ 30000 объёмом 30 000 л. Технические параметры, комплектацию и условия установки уточняйте у менеджера при расчёте.",
+    "image": "assets/new-products/diesel/dt-30000.webp",
+    "documents": [],
+    "slug": "diesel-30000"
   },
   {
     "id": "diesel-35000",
     "name": "Ёмкость для дизельного топлива 35000 л",
-    "price": 821000,
+    "price": null,
     "category": "fuel",
-    "collection": "Дизельное топливо",
-    "subtitle": "Ёмкость для хранения дизельного топлива",
-    "audience": "Для бизнеса и промышленных объектов",
+    "collection": "Ёмкости для дизельного топлива",
+    "subtitle": "Ёмкость для хранения дизельного топлива, модель на 35000 л",
+    "audience": "Для бизнеса",
     "features": [
-      "подземное хранение",
-      "большой диапазон объёмов",
-      "проверка совместимости материала"
+      "Объём — 35 000 л",
+      "Хранение дизельного топлива",
+      "Подбор модели под объём и задачу"
     ],
     "tags": [
-      "дизельное топливо"
+      "дизельное топливо",
+      "ёмкость",
+      "хранение топлива"
     ],
     "meta": {
-      "liters": 35000
+      "liters": 35000,
+      "model": "ДТ 35000"
     },
     "popular": false,
-    "gallery": []
+    "gallery": [
+      "assets/new-products/diesel/dt-35000.webp",
+      "assets/new-products/diesel/common-interior.webp"
+    ],
+    "description": "Ёмкость для дизельного топлива ДТ 35000 объёмом 35 000 л. Технические параметры, комплектацию и условия установки уточняйте у менеджера при расчёте.",
+    "image": "assets/new-products/diesel/dt-35000.webp",
+    "documents": [],
+    "slug": "diesel-35000"
   },
   {
     "id": "diesel-40000",
     "name": "Ёмкость для дизельного топлива 40000 л",
-    "price": 904600,
+    "price": null,
     "category": "fuel",
-    "collection": "Дизельное топливо",
-    "subtitle": "Ёмкость для хранения дизельного топлива",
-    "audience": "Для бизнеса и промышленных объектов",
+    "collection": "Ёмкости для дизельного топлива",
+    "subtitle": "Ёмкость для хранения дизельного топлива, модель на 40000 л",
+    "audience": "Для бизнеса",
     "features": [
-      "подземное хранение",
-      "большой диапазон объёмов",
-      "проверка совместимости материала"
+      "Объём — 40 000 л",
+      "Хранение дизельного топлива",
+      "Подбор модели под объём и задачу"
     ],
     "tags": [
-      "дизельное топливо"
+      "дизельное топливо",
+      "ёмкость",
+      "хранение топлива"
     ],
     "meta": {
-      "liters": 40000
+      "liters": 40000,
+      "model": "ДТ 40000"
     },
     "popular": false,
-    "gallery": []
+    "gallery": [
+      "assets/new-products/diesel/dt-40000.webp",
+      "assets/new-products/diesel/common-interior.webp"
+    ],
+    "description": "Ёмкость для дизельного топлива ДТ 40000 объёмом 40 000 л. Технические параметры, комплектацию и условия установки уточняйте у менеджера при расчёте.",
+    "image": "assets/new-products/diesel/dt-40000.webp",
+    "documents": [],
+    "slug": "diesel-40000"
   },
   {
     "id": "diesel-45000",
     "name": "Ёмкость для дизельного топлива 45000 л",
-    "price": 1015300,
+    "price": null,
     "category": "fuel",
-    "collection": "Дизельное топливо",
-    "subtitle": "Ёмкость для хранения дизельного топлива",
-    "audience": "Для бизнеса и промышленных объектов",
+    "collection": "Ёмкости для дизельного топлива",
+    "subtitle": "Ёмкость для хранения дизельного топлива, модель на 45000 л",
+    "audience": "Для бизнеса",
     "features": [
-      "подземное хранение",
-      "большой диапазон объёмов",
-      "проверка совместимости материала"
+      "Объём — 45 000 л",
+      "Хранение дизельного топлива",
+      "Подбор модели под объём и задачу"
     ],
     "tags": [
-      "дизельное топливо"
+      "дизельное топливо",
+      "ёмкость",
+      "хранение топлива"
     ],
     "meta": {
-      "liters": 45000
+      "liters": 45000,
+      "model": "ДТ 45000"
     },
     "popular": false,
-    "gallery": []
+    "gallery": [
+      "assets/new-products/diesel/dt-45000.webp",
+      "assets/new-products/diesel/common-interior.webp"
+    ],
+    "description": "Ёмкость для дизельного топлива ДТ 45000 объёмом 45 000 л. Технические параметры, комплектацию и условия установки уточняйте у менеджера при расчёте.",
+    "image": "assets/new-products/diesel/dt-45000.webp",
+    "documents": [],
+    "slug": "diesel-45000"
   },
   {
     "id": "diesel-50000",
     "name": "Ёмкость для дизельного топлива 50000 л",
-    "price": 1130700,
+    "price": null,
     "category": "fuel",
-    "collection": "Дизельное топливо",
-    "subtitle": "Ёмкость для хранения дизельного топлива",
-    "audience": "Для бизнеса и промышленных объектов",
+    "collection": "Ёмкости для дизельного топлива",
+    "subtitle": "Ёмкость для хранения дизельного топлива, модель на 50000 л",
+    "audience": "Для бизнеса",
     "features": [
-      "подземное хранение",
-      "большой диапазон объёмов",
-      "проверка совместимости материала"
+      "Объём — 50 000 л",
+      "Хранение дизельного топлива",
+      "Подбор модели под объём и задачу"
     ],
     "tags": [
-      "дизельное топливо"
+      "дизельное топливо",
+      "ёмкость",
+      "хранение топлива"
     ],
     "meta": {
-      "liters": 50000
+      "liters": 50000,
+      "model": "ДТ 50000"
     },
     "popular": false,
-    "gallery": []
+    "gallery": [
+      "assets/new-products/diesel/dt-50000.webp",
+      "assets/new-products/diesel/common-interior.webp"
+    ],
+    "description": "Ёмкость для дизельного топлива ДТ 50000 объёмом 50 000 л. Технические параметры, комплектацию и условия установки уточняйте у менеджера при расчёте.",
+    "image": "assets/new-products/diesel/dt-50000.webp",
+    "documents": [],
+    "slug": "diesel-50000"
   },
   {
     "id": "m-10000",
@@ -3352,21 +3559,12 @@ window.DELTA_PRODUCTS = [
     ],
     "documents": [
       {
-        "title": "Монтажная схема",
+        "title": "Монтажная схема — модульный резервуар «Модуль М» 10000 л",
         "url": "assets/multplast/modular/schemes/10.pdf",
         "type": "PDF"
-      },
-      {
-        "title": "Декларация / документ производителя",
-        "url": "assets/multplast/modular/declaration.webp",
-        "type": "Изображение"
-      },
-      {
-        "title": "Сертификат / документ производителя",
-        "url": "assets/multplast/modular/certificate.webp",
-        "type": "Изображение"
       }
-    ]
+    ],
+    "slug": "m-10000"
   },
   {
     "id": "m-15000",
@@ -3395,21 +3593,12 @@ window.DELTA_PRODUCTS = [
     ],
     "documents": [
       {
-        "title": "Монтажная схема",
+        "title": "Монтажная схема — модульный резервуар «Модуль М» 15000 л",
         "url": "assets/multplast/modular/schemes/15.pdf",
         "type": "PDF"
-      },
-      {
-        "title": "Декларация / документ производителя",
-        "url": "assets/multplast/modular/declaration.webp",
-        "type": "Изображение"
-      },
-      {
-        "title": "Сертификат / документ производителя",
-        "url": "assets/multplast/modular/certificate.webp",
-        "type": "Изображение"
       }
-    ]
+    ],
+    "slug": "m-15000"
   },
   {
     "id": "m-20000",
@@ -3438,21 +3627,12 @@ window.DELTA_PRODUCTS = [
     ],
     "documents": [
       {
-        "title": "Монтажная схема",
+        "title": "Монтажная схема — модульный резервуар «Модуль М» 20000 л",
         "url": "assets/multplast/modular/schemes/20.pdf",
         "type": "PDF"
-      },
-      {
-        "title": "Декларация / документ производителя",
-        "url": "assets/multplast/modular/declaration.webp",
-        "type": "Изображение"
-      },
-      {
-        "title": "Сертификат / документ производителя",
-        "url": "assets/multplast/modular/certificate.webp",
-        "type": "Изображение"
       }
-    ]
+    ],
+    "slug": "m-20000"
   },
   {
     "id": "m-25000",
@@ -3481,21 +3661,12 @@ window.DELTA_PRODUCTS = [
     ],
     "documents": [
       {
-        "title": "Монтажная схема",
+        "title": "Монтажная схема — модульный резервуар «Модуль М» 25000 л",
         "url": "assets/multplast/modular/schemes/25.pdf",
         "type": "PDF"
-      },
-      {
-        "title": "Декларация / документ производителя",
-        "url": "assets/multplast/modular/declaration.webp",
-        "type": "Изображение"
-      },
-      {
-        "title": "Сертификат / документ производителя",
-        "url": "assets/multplast/modular/certificate.webp",
-        "type": "Изображение"
       }
-    ]
+    ],
+    "slug": "m-25000"
   },
   {
     "id": "m-30000",
@@ -3524,21 +3695,12 @@ window.DELTA_PRODUCTS = [
     ],
     "documents": [
       {
-        "title": "Монтажная схема",
+        "title": "Монтажная схема — модульный резервуар «Модуль М» 30000 л",
         "url": "assets/multplast/modular/schemes/30.pdf",
         "type": "PDF"
-      },
-      {
-        "title": "Декларация / документ производителя",
-        "url": "assets/multplast/modular/declaration.webp",
-        "type": "Изображение"
-      },
-      {
-        "title": "Сертификат / документ производителя",
-        "url": "assets/multplast/modular/certificate.webp",
-        "type": "Изображение"
       }
-    ]
+    ],
+    "slug": "m-30000"
   },
   {
     "id": "m-35000",
@@ -3564,7 +3726,9 @@ window.DELTA_PRODUCTS = [
     "image": "assets/multplast/modular/m-35000.webp",
     "gallery": [
       "assets/multplast/modular/m-35000.webp"
-    ]
+    ],
+    "documents": [],
+    "slug": "m-35000"
   },
   {
     "id": "m-40000",
@@ -3593,21 +3757,12 @@ window.DELTA_PRODUCTS = [
     ],
     "documents": [
       {
-        "title": "Монтажная схема",
+        "title": "Монтажная схема — модульный резервуар «Модуль М» 40000 л",
         "url": "assets/multplast/modular/schemes/40.pdf",
         "type": "PDF"
-      },
-      {
-        "title": "Декларация / документ производителя",
-        "url": "assets/multplast/modular/declaration.webp",
-        "type": "Изображение"
-      },
-      {
-        "title": "Сертификат / документ производителя",
-        "url": "assets/multplast/modular/certificate.webp",
-        "type": "Изображение"
       }
-    ]
+    ],
+    "slug": "m-40000"
   },
   {
     "id": "m-45000",
@@ -3636,21 +3791,12 @@ window.DELTA_PRODUCTS = [
     ],
     "documents": [
       {
-        "title": "Монтажная схема",
+        "title": "Монтажная схема — модульный резервуар «Модуль М» 45000 л",
         "url": "assets/multplast/modular/schemes/45.pdf",
         "type": "PDF"
-      },
-      {
-        "title": "Декларация / документ производителя",
-        "url": "assets/multplast/modular/declaration.webp",
-        "type": "Изображение"
-      },
-      {
-        "title": "Сертификат / документ производителя",
-        "url": "assets/multplast/modular/certificate.webp",
-        "type": "Изображение"
       }
-    ]
+    ],
+    "slug": "m-45000"
   },
   {
     "id": "m-50000",
@@ -3679,21 +3825,12 @@ window.DELTA_PRODUCTS = [
     ],
     "documents": [
       {
-        "title": "Монтажная схема",
+        "title": "Монтажная схема — модульный резервуар «Модуль М» 50000 л",
         "url": "assets/multplast/modular/schemes/50.pdf",
         "type": "PDF"
-      },
-      {
-        "title": "Декларация / документ производителя",
-        "url": "assets/multplast/modular/declaration.webp",
-        "type": "Изображение"
-      },
-      {
-        "title": "Сертификат / документ производителя",
-        "url": "assets/multplast/modular/certificate.webp",
-        "type": "Изображение"
       }
-    ]
+    ],
+    "slug": "m-50000"
   },
   {
     "id": "m-55000",
@@ -3720,18 +3857,8 @@ window.DELTA_PRODUCTS = [
     "gallery": [
       "assets/multplast/modular/m-55000.webp"
     ],
-    "documents": [
-      {
-        "title": "Декларация / документ производителя",
-        "url": "assets/multplast/modular/declaration.webp",
-        "type": "Изображение"
-      },
-      {
-        "title": "Сертификат / документ производителя",
-        "url": "assets/multplast/modular/certificate.webp",
-        "type": "Изображение"
-      }
-    ]
+    "documents": [],
+    "slug": "m-55000"
   },
   {
     "id": "m-60000",
@@ -3760,21 +3887,12 @@ window.DELTA_PRODUCTS = [
     ],
     "documents": [
       {
-        "title": "Монтажная схема",
+        "title": "Монтажная схема — модульный резервуар «Модуль М» 60000 л",
         "url": "assets/multplast/modular/schemes/60.pdf",
         "type": "PDF"
-      },
-      {
-        "title": "Декларация / документ производителя",
-        "url": "assets/multplast/modular/declaration.webp",
-        "type": "Изображение"
-      },
-      {
-        "title": "Сертификат / документ производителя",
-        "url": "assets/multplast/modular/certificate.webp",
-        "type": "Изображение"
       }
-    ]
+    ],
+    "slug": "m-60000"
   },
   {
     "id": "mp-10000",
@@ -3801,23 +3919,8 @@ window.DELTA_PRODUCTS = [
     "gallery": [
       "assets/multplast/modular/mp-10000.webp"
     ],
-    "documents": [
-      {
-        "title": "Монтажная схема",
-        "url": "assets/multplast/modular/schemes/10.pdf",
-        "type": "PDF"
-      },
-      {
-        "title": "Декларация / документ производителя",
-        "url": "assets/multplast/modular/declaration.webp",
-        "type": "Изображение"
-      },
-      {
-        "title": "Сертификат / документ производителя",
-        "url": "assets/multplast/modular/certificate.webp",
-        "type": "Изображение"
-      }
-    ]
+    "documents": [],
+    "slug": "mp-10000"
   },
   {
     "id": "mp-15000",
@@ -3844,23 +3947,8 @@ window.DELTA_PRODUCTS = [
     "gallery": [
       "assets/multplast/modular/mp-15000.webp"
     ],
-    "documents": [
-      {
-        "title": "Монтажная схема",
-        "url": "assets/multplast/modular/schemes/15.pdf",
-        "type": "PDF"
-      },
-      {
-        "title": "Декларация / документ производителя",
-        "url": "assets/multplast/modular/declaration.webp",
-        "type": "Изображение"
-      },
-      {
-        "title": "Сертификат / документ производителя",
-        "url": "assets/multplast/modular/certificate.webp",
-        "type": "Изображение"
-      }
-    ]
+    "documents": [],
+    "slug": "mp-15000"
   },
   {
     "id": "mp-20000",
@@ -3887,23 +3975,8 @@ window.DELTA_PRODUCTS = [
     "gallery": [
       "assets/multplast/modular/mp-20000.webp"
     ],
-    "documents": [
-      {
-        "title": "Монтажная схема",
-        "url": "assets/multplast/modular/schemes/20.pdf",
-        "type": "PDF"
-      },
-      {
-        "title": "Декларация / документ производителя",
-        "url": "assets/multplast/modular/declaration.webp",
-        "type": "Изображение"
-      },
-      {
-        "title": "Сертификат / документ производителя",
-        "url": "assets/multplast/modular/certificate.webp",
-        "type": "Изображение"
-      }
-    ]
+    "documents": [],
+    "slug": "mp-20000"
   },
   {
     "id": "mp-25000",
@@ -3930,23 +4003,8 @@ window.DELTA_PRODUCTS = [
     "gallery": [
       "assets/multplast/modular/mp-25000.webp"
     ],
-    "documents": [
-      {
-        "title": "Монтажная схема",
-        "url": "assets/multplast/modular/schemes/25.pdf",
-        "type": "PDF"
-      },
-      {
-        "title": "Декларация / документ производителя",
-        "url": "assets/multplast/modular/declaration.webp",
-        "type": "Изображение"
-      },
-      {
-        "title": "Сертификат / документ производителя",
-        "url": "assets/multplast/modular/certificate.webp",
-        "type": "Изображение"
-      }
-    ]
+    "documents": [],
+    "slug": "mp-25000"
   },
   {
     "id": "mp-30000",
@@ -3973,23 +4031,8 @@ window.DELTA_PRODUCTS = [
     "gallery": [
       "assets/multplast/modular/mp-30000.webp"
     ],
-    "documents": [
-      {
-        "title": "Монтажная схема",
-        "url": "assets/multplast/modular/schemes/30.pdf",
-        "type": "PDF"
-      },
-      {
-        "title": "Декларация / документ производителя",
-        "url": "assets/multplast/modular/declaration.webp",
-        "type": "Изображение"
-      },
-      {
-        "title": "Сертификат / документ производителя",
-        "url": "assets/multplast/modular/certificate.webp",
-        "type": "Изображение"
-      }
-    ]
+    "documents": [],
+    "slug": "mp-30000"
   },
   {
     "id": "mp-35000",
@@ -4015,7 +4058,9 @@ window.DELTA_PRODUCTS = [
     "image": "assets/multplast/modular/mp-35000.webp",
     "gallery": [
       "assets/multplast/modular/mp-35000.webp"
-    ]
+    ],
+    "documents": [],
+    "slug": "mp-35000"
   },
   {
     "id": "mp-40000",
@@ -4042,23 +4087,8 @@ window.DELTA_PRODUCTS = [
     "gallery": [
       "assets/multplast/modular/mp-40000.webp"
     ],
-    "documents": [
-      {
-        "title": "Монтажная схема",
-        "url": "assets/multplast/modular/schemes/40.pdf",
-        "type": "PDF"
-      },
-      {
-        "title": "Декларация / документ производителя",
-        "url": "assets/multplast/modular/declaration.webp",
-        "type": "Изображение"
-      },
-      {
-        "title": "Сертификат / документ производителя",
-        "url": "assets/multplast/modular/certificate.webp",
-        "type": "Изображение"
-      }
-    ]
+    "documents": [],
+    "slug": "mp-40000"
   },
   {
     "id": "mp-45000",
@@ -4085,23 +4115,8 @@ window.DELTA_PRODUCTS = [
     "gallery": [
       "assets/multplast/modular/mp-45000.webp"
     ],
-    "documents": [
-      {
-        "title": "Монтажная схема",
-        "url": "assets/multplast/modular/schemes/45.pdf",
-        "type": "PDF"
-      },
-      {
-        "title": "Декларация / документ производителя",
-        "url": "assets/multplast/modular/declaration.webp",
-        "type": "Изображение"
-      },
-      {
-        "title": "Сертификат / документ производителя",
-        "url": "assets/multplast/modular/certificate.webp",
-        "type": "Изображение"
-      }
-    ]
+    "documents": [],
+    "slug": "mp-45000"
   },
   {
     "id": "mp-50000",
@@ -4128,23 +4143,8 @@ window.DELTA_PRODUCTS = [
     "gallery": [
       "assets/multplast/modular/mp-50000.webp"
     ],
-    "documents": [
-      {
-        "title": "Монтажная схема",
-        "url": "assets/multplast/modular/schemes/50.pdf",
-        "type": "PDF"
-      },
-      {
-        "title": "Декларация / документ производителя",
-        "url": "assets/multplast/modular/declaration.webp",
-        "type": "Изображение"
-      },
-      {
-        "title": "Сертификат / документ производителя",
-        "url": "assets/multplast/modular/certificate.webp",
-        "type": "Изображение"
-      }
-    ]
+    "documents": [],
+    "slug": "mp-50000"
   },
   {
     "id": "mp-55000",
@@ -4171,18 +4171,8 @@ window.DELTA_PRODUCTS = [
     "gallery": [
       "assets/multplast/modular/mp-55000.webp"
     ],
-    "documents": [
-      {
-        "title": "Декларация / документ производителя",
-        "url": "assets/multplast/modular/declaration.webp",
-        "type": "Изображение"
-      },
-      {
-        "title": "Сертификат / документ производителя",
-        "url": "assets/multplast/modular/certificate.webp",
-        "type": "Изображение"
-      }
-    ]
+    "documents": [],
+    "slug": "mp-55000"
   },
   {
     "id": "mp-60000",
@@ -4209,23 +4199,8 @@ window.DELTA_PRODUCTS = [
     "gallery": [
       "assets/multplast/modular/mp-60000.webp"
     ],
-    "documents": [
-      {
-        "title": "Монтажная схема",
-        "url": "assets/multplast/modular/schemes/60.pdf",
-        "type": "PDF"
-      },
-      {
-        "title": "Декларация / документ производителя",
-        "url": "assets/multplast/modular/declaration.webp",
-        "type": "Изображение"
-      },
-      {
-        "title": "Сертификат / документ производителя",
-        "url": "assets/multplast/modular/certificate.webp",
-        "type": "Изображение"
-      }
-    ]
+    "documents": [],
+    "slug": "mp-60000"
   },
   {
     "id": "3m-20000",
@@ -4252,23 +4227,8 @@ window.DELTA_PRODUCTS = [
     "gallery": [
       "assets/multplast/modular/3m-20000.webp"
     ],
-    "documents": [
-      {
-        "title": "Монтажная схема",
-        "url": "assets/multplast/modular/schemes/20.pdf",
-        "type": "PDF"
-      },
-      {
-        "title": "Декларация / документ производителя",
-        "url": "assets/multplast/modular/declaration.webp",
-        "type": "Изображение"
-      },
-      {
-        "title": "Сертификат / документ производителя",
-        "url": "assets/multplast/modular/certificate.webp",
-        "type": "Изображение"
-      }
-    ]
+    "documents": [],
+    "slug": "3m-20000"
   },
   {
     "id": "3m-30000",
@@ -4295,23 +4255,8 @@ window.DELTA_PRODUCTS = [
     "gallery": [
       "assets/multplast/modular/3m-30000.webp"
     ],
-    "documents": [
-      {
-        "title": "Монтажная схема",
-        "url": "assets/multplast/modular/schemes/30.pdf",
-        "type": "PDF"
-      },
-      {
-        "title": "Декларация / документ производителя",
-        "url": "assets/multplast/modular/declaration.webp",
-        "type": "Изображение"
-      },
-      {
-        "title": "Сертификат / документ производителя",
-        "url": "assets/multplast/modular/certificate.webp",
-        "type": "Изображение"
-      }
-    ]
+    "documents": [],
+    "slug": "3m-30000"
   },
   {
     "id": "3m-40000",
@@ -4338,23 +4283,8 @@ window.DELTA_PRODUCTS = [
     "gallery": [
       "assets/multplast/modular/3m-40000.webp"
     ],
-    "documents": [
-      {
-        "title": "Монтажная схема",
-        "url": "assets/multplast/modular/schemes/40.pdf",
-        "type": "PDF"
-      },
-      {
-        "title": "Декларация / документ производителя",
-        "url": "assets/multplast/modular/declaration.webp",
-        "type": "Изображение"
-      },
-      {
-        "title": "Сертификат / документ производителя",
-        "url": "assets/multplast/modular/certificate.webp",
-        "type": "Изображение"
-      }
-    ]
+    "documents": [],
+    "slug": "3m-40000"
   },
   {
     "id": "3m-50000",
@@ -4381,23 +4311,8 @@ window.DELTA_PRODUCTS = [
     "gallery": [
       "assets/multplast/modular/3m-50000.webp"
     ],
-    "documents": [
-      {
-        "title": "Монтажная схема",
-        "url": "assets/multplast/modular/schemes/50.pdf",
-        "type": "PDF"
-      },
-      {
-        "title": "Декларация / документ производителя",
-        "url": "assets/multplast/modular/declaration.webp",
-        "type": "Изображение"
-      },
-      {
-        "title": "Сертификат / документ производителя",
-        "url": "assets/multplast/modular/certificate.webp",
-        "type": "Изображение"
-      }
-    ]
+    "documents": [],
+    "slug": "3m-50000"
   },
   {
     "id": "3m-60000",
@@ -4424,23 +4339,8 @@ window.DELTA_PRODUCTS = [
     "gallery": [
       "assets/multplast/modular/3m-60000.webp"
     ],
-    "documents": [
-      {
-        "title": "Монтажная схема",
-        "url": "assets/multplast/modular/schemes/60.pdf",
-        "type": "PDF"
-      },
-      {
-        "title": "Декларация / документ производителя",
-        "url": "assets/multplast/modular/declaration.webp",
-        "type": "Изображение"
-      },
-      {
-        "title": "Сертификат / документ производителя",
-        "url": "assets/multplast/modular/certificate.webp",
-        "type": "Изображение"
-      }
-    ]
+    "documents": [],
+    "slug": "3m-60000"
   },
   {
     "id": "3m-70000",
@@ -4467,18 +4367,8 @@ window.DELTA_PRODUCTS = [
     "gallery": [
       "assets/multplast/modular/3m-70000.webp"
     ],
-    "documents": [
-      {
-        "title": "Декларация / документ производителя",
-        "url": "assets/multplast/modular/declaration.webp",
-        "type": "Изображение"
-      },
-      {
-        "title": "Сертификат / документ производителя",
-        "url": "assets/multplast/modular/certificate.webp",
-        "type": "Изображение"
-      }
-    ]
+    "documents": [],
+    "slug": "3m-70000"
   },
   {
     "id": "3m-80000",
@@ -4505,18 +4395,8 @@ window.DELTA_PRODUCTS = [
     "gallery": [
       "assets/multplast/modular/3m-80000.webp"
     ],
-    "documents": [
-      {
-        "title": "Декларация / документ производителя",
-        "url": "assets/multplast/modular/declaration.webp",
-        "type": "Изображение"
-      },
-      {
-        "title": "Сертификат / документ производителя",
-        "url": "assets/multplast/modular/certificate.webp",
-        "type": "Изображение"
-      }
-    ]
+    "documents": [],
+    "slug": "3m-80000"
   },
   {
     "id": "3m-90000",
@@ -4543,18 +4423,8 @@ window.DELTA_PRODUCTS = [
     "gallery": [
       "assets/multplast/modular/3m-90000.webp"
     ],
-    "documents": [
-      {
-        "title": "Декларация / документ производителя",
-        "url": "assets/multplast/modular/declaration.webp",
-        "type": "Изображение"
-      },
-      {
-        "title": "Сертификат / документ производителя",
-        "url": "assets/multplast/modular/certificate.webp",
-        "type": "Изображение"
-      }
-    ]
+    "documents": [],
+    "slug": "3m-90000"
   },
   {
     "id": "3m-100000",
@@ -4581,18 +4451,8 @@ window.DELTA_PRODUCTS = [
     "gallery": [
       "assets/multplast/modular/3m-100000.webp"
     ],
-    "documents": [
-      {
-        "title": "Декларация / документ производителя",
-        "url": "assets/multplast/modular/declaration.webp",
-        "type": "Изображение"
-      },
-      {
-        "title": "Сертификат / документ производителя",
-        "url": "assets/multplast/modular/certificate.webp",
-        "type": "Изображение"
-      }
-    ]
+    "documents": [],
+    "slug": "3m-100000"
   },
   {
     "id": "v-10000",
@@ -4619,18 +4479,8 @@ window.DELTA_PRODUCTS = [
     "gallery": [
       "assets/multplast/modular/v-10000.webp"
     ],
-    "documents": [
-      {
-        "title": "Декларация / документ производителя",
-        "url": "assets/multplast/modular/declaration.webp",
-        "type": "Изображение"
-      },
-      {
-        "title": "Сертификат / документ производителя",
-        "url": "assets/multplast/modular/certificate.webp",
-        "type": "Изображение"
-      }
-    ]
+    "documents": [],
+    "slug": "v-10000"
   },
   {
     "id": "v-15000",
@@ -4657,18 +4507,8 @@ window.DELTA_PRODUCTS = [
     "gallery": [
       "assets/multplast/modular/v-15000.webp"
     ],
-    "documents": [
-      {
-        "title": "Декларация / документ производителя",
-        "url": "assets/multplast/modular/declaration.webp",
-        "type": "Изображение"
-      },
-      {
-        "title": "Сертификат / документ производителя",
-        "url": "assets/multplast/modular/certificate.webp",
-        "type": "Изображение"
-      }
-    ]
+    "documents": [],
+    "slug": "v-15000"
   },
   {
     "id": "v-20000",
@@ -4695,18 +4535,8 @@ window.DELTA_PRODUCTS = [
     "gallery": [
       "assets/multplast/modular/v-20000.webp"
     ],
-    "documents": [
-      {
-        "title": "Декларация / документ производителя",
-        "url": "assets/multplast/modular/declaration.webp",
-        "type": "Изображение"
-      },
-      {
-        "title": "Сертификат / документ производителя",
-        "url": "assets/multplast/modular/certificate.webp",
-        "type": "Изображение"
-      }
-    ]
+    "documents": [],
+    "slug": "v-20000"
   },
   {
     "id": "v-25000",
@@ -4733,18 +4563,8 @@ window.DELTA_PRODUCTS = [
     "gallery": [
       "assets/multplast/modular/v-25000.webp"
     ],
-    "documents": [
-      {
-        "title": "Декларация / документ производителя",
-        "url": "assets/multplast/modular/declaration.webp",
-        "type": "Изображение"
-      },
-      {
-        "title": "Сертификат / документ производителя",
-        "url": "assets/multplast/modular/certificate.webp",
-        "type": "Изображение"
-      }
-    ]
+    "documents": [],
+    "slug": "v-25000"
   },
   {
     "id": "v-30000",
@@ -4771,18 +4591,8 @@ window.DELTA_PRODUCTS = [
     "gallery": [
       "assets/multplast/modular/v-30000.webp"
     ],
-    "documents": [
-      {
-        "title": "Декларация / документ производителя",
-        "url": "assets/multplast/modular/declaration.webp",
-        "type": "Изображение"
-      },
-      {
-        "title": "Сертификат / документ производителя",
-        "url": "assets/multplast/modular/certificate.webp",
-        "type": "Изображение"
-      }
-    ]
+    "documents": [],
+    "slug": "v-30000"
   },
   {
     "id": "v-35000",
@@ -4809,18 +4619,8 @@ window.DELTA_PRODUCTS = [
     "gallery": [
       "assets/multplast/modular/v-35000.webp"
     ],
-    "documents": [
-      {
-        "title": "Декларация / документ производителя",
-        "url": "assets/multplast/modular/declaration.webp",
-        "type": "Изображение"
-      },
-      {
-        "title": "Сертификат / документ производителя",
-        "url": "assets/multplast/modular/certificate.webp",
-        "type": "Изображение"
-      }
-    ]
+    "documents": [],
+    "slug": "v-35000"
   },
   {
     "id": "v-40000",
@@ -4846,7 +4646,9 @@ window.DELTA_PRODUCTS = [
     "image": "assets/multplast/modular/v-40000.webp",
     "gallery": [
       "assets/multplast/modular/v-40000.webp"
-    ]
+    ],
+    "documents": [],
+    "slug": "v-40000"
   },
   {
     "id": "v-45000",
@@ -4873,18 +4675,8 @@ window.DELTA_PRODUCTS = [
     "gallery": [
       "assets/multplast/modular/v-45000.webp"
     ],
-    "documents": [
-      {
-        "title": "Декларация / документ производителя",
-        "url": "assets/multplast/modular/declaration.webp",
-        "type": "Изображение"
-      },
-      {
-        "title": "Сертификат / документ производителя",
-        "url": "assets/multplast/modular/certificate.webp",
-        "type": "Изображение"
-      }
-    ]
+    "documents": [],
+    "slug": "v-45000"
   },
   {
     "id": "v-50000",
@@ -4910,7 +4702,9 @@ window.DELTA_PRODUCTS = [
     "image": "assets/multplast/modular/v-50000.webp",
     "gallery": [
       "assets/multplast/modular/v-50000.webp"
-    ]
+    ],
+    "documents": [],
+    "slug": "v-50000"
   },
   {
     "id": "v-55000",
@@ -4936,7 +4730,9 @@ window.DELTA_PRODUCTS = [
     "image": "assets/multplast/modular/v-55000.webp",
     "gallery": [
       "assets/multplast/modular/v-55000.webp"
-    ]
+    ],
+    "documents": [],
+    "slug": "v-55000"
   },
   {
     "id": "v-60000",
@@ -4962,7 +4758,9 @@ window.DELTA_PRODUCTS = [
     "image": "assets/multplast/modular/v-60000.webp",
     "gallery": [
       "assets/multplast/modular/v-60000.webp"
-    ]
+    ],
+    "documents": [],
+    "slug": "v-60000"
   },
   {
     "id": "vp-10000",
@@ -4989,18 +4787,8 @@ window.DELTA_PRODUCTS = [
     "gallery": [
       "assets/multplast/modular/vp-10000.webp"
     ],
-    "documents": [
-      {
-        "title": "Декларация / документ производителя",
-        "url": "assets/multplast/modular/declaration.webp",
-        "type": "Изображение"
-      },
-      {
-        "title": "Сертификат / документ производителя",
-        "url": "assets/multplast/modular/certificate.webp",
-        "type": "Изображение"
-      }
-    ]
+    "documents": [],
+    "slug": "vp-10000"
   },
   {
     "id": "vp-15000",
@@ -5027,18 +4815,8 @@ window.DELTA_PRODUCTS = [
     "gallery": [
       "assets/multplast/modular/vp-15000.webp"
     ],
-    "documents": [
-      {
-        "title": "Декларация / документ производителя",
-        "url": "assets/multplast/modular/declaration.webp",
-        "type": "Изображение"
-      },
-      {
-        "title": "Сертификат / документ производителя",
-        "url": "assets/multplast/modular/certificate.webp",
-        "type": "Изображение"
-      }
-    ]
+    "documents": [],
+    "slug": "vp-15000"
   },
   {
     "id": "vp-20000",
@@ -5065,18 +4843,8 @@ window.DELTA_PRODUCTS = [
     "gallery": [
       "assets/multplast/modular/vp-20000.webp"
     ],
-    "documents": [
-      {
-        "title": "Декларация / документ производителя",
-        "url": "assets/multplast/modular/declaration.webp",
-        "type": "Изображение"
-      },
-      {
-        "title": "Сертификат / документ производителя",
-        "url": "assets/multplast/modular/certificate.webp",
-        "type": "Изображение"
-      }
-    ]
+    "documents": [],
+    "slug": "vp-20000"
   },
   {
     "id": "vp-25000",
@@ -5103,18 +4871,8 @@ window.DELTA_PRODUCTS = [
     "gallery": [
       "assets/multplast/modular/vp-25000.webp"
     ],
-    "documents": [
-      {
-        "title": "Декларация / документ производителя",
-        "url": "assets/multplast/modular/declaration.webp",
-        "type": "Изображение"
-      },
-      {
-        "title": "Сертификат / документ производителя",
-        "url": "assets/multplast/modular/certificate.webp",
-        "type": "Изображение"
-      }
-    ]
+    "documents": [],
+    "slug": "vp-25000"
   },
   {
     "id": "vp-30000",
@@ -5141,18 +4899,8 @@ window.DELTA_PRODUCTS = [
     "gallery": [
       "assets/multplast/modular/vp-30000.webp"
     ],
-    "documents": [
-      {
-        "title": "Декларация / документ производителя",
-        "url": "assets/multplast/modular/declaration.webp",
-        "type": "Изображение"
-      },
-      {
-        "title": "Сертификат / документ производителя",
-        "url": "assets/multplast/modular/certificate.webp",
-        "type": "Изображение"
-      }
-    ]
+    "documents": [],
+    "slug": "vp-30000"
   },
   {
     "id": "vp-35000",
@@ -5179,18 +4927,8 @@ window.DELTA_PRODUCTS = [
     "gallery": [
       "assets/multplast/modular/vp-35000.webp"
     ],
-    "documents": [
-      {
-        "title": "Декларация / документ производителя",
-        "url": "assets/multplast/modular/declaration.webp",
-        "type": "Изображение"
-      },
-      {
-        "title": "Сертификат / документ производителя",
-        "url": "assets/multplast/modular/certificate.webp",
-        "type": "Изображение"
-      }
-    ]
+    "documents": [],
+    "slug": "vp-35000"
   },
   {
     "id": "vp-40000",
@@ -5216,7 +4954,9 @@ window.DELTA_PRODUCTS = [
     "image": "assets/multplast/modular/vp-40000.webp",
     "gallery": [
       "assets/multplast/modular/vp-40000.webp"
-    ]
+    ],
+    "documents": [],
+    "slug": "vp-40000"
   },
   {
     "id": "vp-45000",
@@ -5243,18 +4983,8 @@ window.DELTA_PRODUCTS = [
     "gallery": [
       "assets/multplast/modular/vp-45000.webp"
     ],
-    "documents": [
-      {
-        "title": "Декларация / документ производителя",
-        "url": "assets/multplast/modular/declaration.webp",
-        "type": "Изображение"
-      },
-      {
-        "title": "Сертификат / документ производителя",
-        "url": "assets/multplast/modular/certificate.webp",
-        "type": "Изображение"
-      }
-    ]
+    "documents": [],
+    "slug": "vp-45000"
   },
   {
     "id": "vp-50000",
@@ -5280,7 +5010,9 @@ window.DELTA_PRODUCTS = [
     "image": "assets/multplast/modular/vp-50000.webp",
     "gallery": [
       "assets/multplast/modular/vp-50000.webp"
-    ]
+    ],
+    "documents": [],
+    "slug": "vp-50000"
   },
   {
     "id": "vp-55000",
@@ -5306,7 +5038,9 @@ window.DELTA_PRODUCTS = [
     "image": "assets/multplast/modular/vp-55000.webp",
     "gallery": [
       "assets/multplast/modular/vp-55000.webp"
-    ]
+    ],
+    "documents": [],
+    "slug": "vp-55000"
   },
   {
     "id": "vp-60000",
@@ -5332,7 +5066,9 @@ window.DELTA_PRODUCTS = [
     "image": "assets/multplast/modular/vp-60000.webp",
     "gallery": [
       "assets/multplast/modular/vp-60000.webp"
-    ]
+    ],
+    "documents": [],
+    "slug": "vp-60000"
   },
   {
     "id": "3v-20000",
@@ -5359,18 +5095,8 @@ window.DELTA_PRODUCTS = [
     "gallery": [
       "assets/multplast/modular/3v-20000.webp"
     ],
-    "documents": [
-      {
-        "title": "Декларация / документ производителя",
-        "url": "assets/multplast/modular/declaration.webp",
-        "type": "Изображение"
-      },
-      {
-        "title": "Сертификат / документ производителя",
-        "url": "assets/multplast/modular/certificate.webp",
-        "type": "Изображение"
-      }
-    ]
+    "documents": [],
+    "slug": "3v-20000"
   },
   {
     "id": "3v-30000",
@@ -5397,18 +5123,8 @@ window.DELTA_PRODUCTS = [
     "gallery": [
       "assets/multplast/modular/3v-30000.webp"
     ],
-    "documents": [
-      {
-        "title": "Декларация / документ производителя",
-        "url": "assets/multplast/modular/declaration.webp",
-        "type": "Изображение"
-      },
-      {
-        "title": "Сертификат / документ производителя",
-        "url": "assets/multplast/modular/certificate.webp",
-        "type": "Изображение"
-      }
-    ]
+    "documents": [],
+    "slug": "3v-30000"
   },
   {
     "id": "3v-40000",
@@ -5434,7 +5150,9 @@ window.DELTA_PRODUCTS = [
     "gallery": [
       "assets/multplast/modular/3v-40000.webp"
     ],
-    "image": "assets/multplast/modular/3v-40000.webp"
+    "image": "assets/multplast/modular/3v-40000.webp",
+    "documents": [],
+    "slug": "3v-40000"
   },
   {
     "id": "3v-50000",
@@ -5460,7 +5178,9 @@ window.DELTA_PRODUCTS = [
     "gallery": [
       "assets/multplast/modular/3v-50000.webp"
     ],
-    "image": "assets/multplast/modular/3v-50000.webp"
+    "image": "assets/multplast/modular/3v-50000.webp",
+    "documents": [],
+    "slug": "3v-50000"
   },
   {
     "id": "3v-60000",
@@ -5486,7 +5206,9 @@ window.DELTA_PRODUCTS = [
     "image": "assets/multplast/modular/3v-60000.webp",
     "gallery": [
       "assets/multplast/modular/3v-60000.webp"
-    ]
+    ],
+    "documents": [],
+    "slug": "3v-60000"
   },
   {
     "id": "3v-70000",
@@ -5512,7 +5234,9 @@ window.DELTA_PRODUCTS = [
     "image": "assets/multplast/modular/3v-70000.webp",
     "gallery": [
       "assets/multplast/modular/3v-70000.webp"
-    ]
+    ],
+    "documents": [],
+    "slug": "3v-70000"
   },
   {
     "id": "3v-80000",
@@ -5538,7 +5262,9 @@ window.DELTA_PRODUCTS = [
     "image": "assets/multplast/modular/3v-80000.webp",
     "gallery": [
       "assets/multplast/modular/3v-80000.webp"
-    ]
+    ],
+    "documents": [],
+    "slug": "3v-80000"
   },
   {
     "id": "3v-90000",
@@ -5564,7 +5290,9 @@ window.DELTA_PRODUCTS = [
     "image": "assets/multplast/modular/3v-90000.webp",
     "gallery": [
       "assets/multplast/modular/3v-90000.webp"
-    ]
+    ],
+    "documents": [],
+    "slug": "3v-90000"
   },
   {
     "id": "3v-100000",
@@ -5590,7 +5318,9 @@ window.DELTA_PRODUCTS = [
     "image": "assets/multplast/modular/3v-100000.webp",
     "gallery": [
       "assets/multplast/modular/3v-100000.webp"
-    ]
+    ],
+    "documents": [],
+    "slug": "3v-100000"
   },
   {
     "id": "p-10000",
@@ -5617,18 +5347,8 @@ window.DELTA_PRODUCTS = [
     "gallery": [
       "assets/multplast/modular/p-10000.webp"
     ],
-    "documents": [
-      {
-        "title": "Декларация / документ производителя",
-        "url": "assets/multplast/modular/declaration.webp",
-        "type": "Изображение"
-      },
-      {
-        "title": "Сертификат / документ производителя",
-        "url": "assets/multplast/modular/certificate.webp",
-        "type": "Изображение"
-      }
-    ]
+    "documents": [],
+    "slug": "p-10000"
   },
   {
     "id": "p-15000",
@@ -5655,18 +5375,8 @@ window.DELTA_PRODUCTS = [
     "gallery": [
       "assets/multplast/modular/p-15000.webp"
     ],
-    "documents": [
-      {
-        "title": "Декларация / документ производителя",
-        "url": "assets/multplast/modular/declaration.webp",
-        "type": "Изображение"
-      },
-      {
-        "title": "Сертификат / документ производителя",
-        "url": "assets/multplast/modular/certificate.webp",
-        "type": "Изображение"
-      }
-    ]
+    "documents": [],
+    "slug": "p-15000"
   },
   {
     "id": "p-20000",
@@ -5693,18 +5403,8 @@ window.DELTA_PRODUCTS = [
     "gallery": [
       "assets/multplast/modular/p-20000.webp"
     ],
-    "documents": [
-      {
-        "title": "Декларация / документ производителя",
-        "url": "assets/multplast/modular/declaration.webp",
-        "type": "Изображение"
-      },
-      {
-        "title": "Сертификат / документ производителя",
-        "url": "assets/multplast/modular/certificate.webp",
-        "type": "Изображение"
-      }
-    ]
+    "documents": [],
+    "slug": "p-20000"
   },
   {
     "id": "p-25000",
@@ -5731,18 +5431,8 @@ window.DELTA_PRODUCTS = [
     "gallery": [
       "assets/multplast/modular/p-25000.webp"
     ],
-    "documents": [
-      {
-        "title": "Декларация / документ производителя",
-        "url": "assets/multplast/modular/declaration.webp",
-        "type": "Изображение"
-      },
-      {
-        "title": "Сертификат / документ производителя",
-        "url": "assets/multplast/modular/certificate.webp",
-        "type": "Изображение"
-      }
-    ]
+    "documents": [],
+    "slug": "p-25000"
   },
   {
     "id": "p-30000",
@@ -5769,18 +5459,8 @@ window.DELTA_PRODUCTS = [
     "gallery": [
       "assets/multplast/modular/p-30000.webp"
     ],
-    "documents": [
-      {
-        "title": "Декларация / документ производителя",
-        "url": "assets/multplast/modular/declaration.webp",
-        "type": "Изображение"
-      },
-      {
-        "title": "Сертификат / документ производителя",
-        "url": "assets/multplast/modular/certificate.webp",
-        "type": "Изображение"
-      }
-    ]
+    "documents": [],
+    "slug": "p-30000"
   },
   {
     "id": "p-35000",
@@ -5807,18 +5487,8 @@ window.DELTA_PRODUCTS = [
     "gallery": [
       "assets/multplast/modular/p-35000.webp"
     ],
-    "documents": [
-      {
-        "title": "Декларация / документ производителя",
-        "url": "assets/multplast/modular/declaration.webp",
-        "type": "Изображение"
-      },
-      {
-        "title": "Сертификат / документ производителя",
-        "url": "assets/multplast/modular/certificate.webp",
-        "type": "Изображение"
-      }
-    ]
+    "documents": [],
+    "slug": "p-35000"
   },
   {
     "id": "p-40000",
@@ -5845,18 +5515,8 @@ window.DELTA_PRODUCTS = [
     "gallery": [
       "assets/multplast/modular/p-40000.webp"
     ],
-    "documents": [
-      {
-        "title": "Декларация / документ производителя",
-        "url": "assets/multplast/modular/declaration.webp",
-        "type": "Изображение"
-      },
-      {
-        "title": "Сертификат / документ производителя",
-        "url": "assets/multplast/modular/certificate.webp",
-        "type": "Изображение"
-      }
-    ]
+    "documents": [],
+    "slug": "p-40000"
   },
   {
     "id": "p-45000",
@@ -5883,18 +5543,8 @@ window.DELTA_PRODUCTS = [
     "gallery": [
       "assets/multplast/modular/p-45000.webp"
     ],
-    "documents": [
-      {
-        "title": "Декларация / документ производителя",
-        "url": "assets/multplast/modular/declaration.webp",
-        "type": "Изображение"
-      },
-      {
-        "title": "Сертификат / документ производителя",
-        "url": "assets/multplast/modular/certificate.webp",
-        "type": "Изображение"
-      }
-    ]
+    "documents": [],
+    "slug": "p-45000"
   },
   {
     "id": "p-50000",
@@ -5921,18 +5571,8 @@ window.DELTA_PRODUCTS = [
     "gallery": [
       "assets/multplast/modular/p-50000.webp"
     ],
-    "documents": [
-      {
-        "title": "Декларация / документ производителя",
-        "url": "assets/multplast/modular/declaration.webp",
-        "type": "Изображение"
-      },
-      {
-        "title": "Сертификат / документ производителя",
-        "url": "assets/multplast/modular/certificate.webp",
-        "type": "Изображение"
-      }
-    ]
+    "documents": [],
+    "slug": "p-50000"
   },
   {
     "id": "p-55000",
@@ -5958,7 +5598,9 @@ window.DELTA_PRODUCTS = [
     "image": "assets/multplast/modular/p-55000.webp",
     "gallery": [
       "assets/multplast/modular/p-55000.webp"
-    ]
+    ],
+    "documents": [],
+    "slug": "p-55000"
   },
   {
     "id": "p-60000",
@@ -5984,7 +5626,9 @@ window.DELTA_PRODUCTS = [
     "image": "assets/multplast/modular/p-60000.webp",
     "gallery": [
       "assets/multplast/modular/p-60000.webp"
-    ]
+    ],
+    "documents": [],
+    "slug": "p-60000"
   },
   {
     "id": "pp-10000",
@@ -6011,18 +5655,8 @@ window.DELTA_PRODUCTS = [
     "gallery": [
       "assets/multplast/modular/pp-10000.webp"
     ],
-    "documents": [
-      {
-        "title": "Декларация / документ производителя",
-        "url": "assets/multplast/modular/declaration.webp",
-        "type": "Изображение"
-      },
-      {
-        "title": "Сертификат / документ производителя",
-        "url": "assets/multplast/modular/certificate.webp",
-        "type": "Изображение"
-      }
-    ]
+    "documents": [],
+    "slug": "pp-10000"
   },
   {
     "id": "pp-15000",
@@ -6049,18 +5683,8 @@ window.DELTA_PRODUCTS = [
     "gallery": [
       "assets/multplast/modular/pp-15000.webp"
     ],
-    "documents": [
-      {
-        "title": "Декларация / документ производителя",
-        "url": "assets/multplast/modular/declaration.webp",
-        "type": "Изображение"
-      },
-      {
-        "title": "Сертификат / документ производителя",
-        "url": "assets/multplast/modular/certificate.webp",
-        "type": "Изображение"
-      }
-    ]
+    "documents": [],
+    "slug": "pp-15000"
   },
   {
     "id": "pp-20000",
@@ -6087,18 +5711,8 @@ window.DELTA_PRODUCTS = [
     "gallery": [
       "assets/multplast/modular/pp-20000.webp"
     ],
-    "documents": [
-      {
-        "title": "Декларация / документ производителя",
-        "url": "assets/multplast/modular/declaration.webp",
-        "type": "Изображение"
-      },
-      {
-        "title": "Сертификат / документ производителя",
-        "url": "assets/multplast/modular/certificate.webp",
-        "type": "Изображение"
-      }
-    ]
+    "documents": [],
+    "slug": "pp-20000"
   },
   {
     "id": "pp-25000",
@@ -6125,18 +5739,8 @@ window.DELTA_PRODUCTS = [
     "gallery": [
       "assets/multplast/modular/pp-25000.webp"
     ],
-    "documents": [
-      {
-        "title": "Декларация / документ производителя",
-        "url": "assets/multplast/modular/declaration.webp",
-        "type": "Изображение"
-      },
-      {
-        "title": "Сертификат / документ производителя",
-        "url": "assets/multplast/modular/certificate.webp",
-        "type": "Изображение"
-      }
-    ]
+    "documents": [],
+    "slug": "pp-25000"
   },
   {
     "id": "pp-30000",
@@ -6163,18 +5767,8 @@ window.DELTA_PRODUCTS = [
     "gallery": [
       "assets/multplast/modular/pp-30000.webp"
     ],
-    "documents": [
-      {
-        "title": "Декларация / документ производителя",
-        "url": "assets/multplast/modular/declaration.webp",
-        "type": "Изображение"
-      },
-      {
-        "title": "Сертификат / документ производителя",
-        "url": "assets/multplast/modular/certificate.webp",
-        "type": "Изображение"
-      }
-    ]
+    "documents": [],
+    "slug": "pp-30000"
   },
   {
     "id": "pp-35000",
@@ -6201,18 +5795,8 @@ window.DELTA_PRODUCTS = [
     "gallery": [
       "assets/multplast/modular/pp-35000.webp"
     ],
-    "documents": [
-      {
-        "title": "Декларация / документ производителя",
-        "url": "assets/multplast/modular/declaration.webp",
-        "type": "Изображение"
-      },
-      {
-        "title": "Сертификат / документ производителя",
-        "url": "assets/multplast/modular/certificate.webp",
-        "type": "Изображение"
-      }
-    ]
+    "documents": [],
+    "slug": "pp-35000"
   },
   {
     "id": "pp-40000",
@@ -6239,18 +5823,8 @@ window.DELTA_PRODUCTS = [
     "gallery": [
       "assets/multplast/modular/pp-40000.webp"
     ],
-    "documents": [
-      {
-        "title": "Декларация / документ производителя",
-        "url": "assets/multplast/modular/declaration.webp",
-        "type": "Изображение"
-      },
-      {
-        "title": "Сертификат / документ производителя",
-        "url": "assets/multplast/modular/certificate.webp",
-        "type": "Изображение"
-      }
-    ]
+    "documents": [],
+    "slug": "pp-40000"
   },
   {
     "id": "pp-45000",
@@ -6277,18 +5851,8 @@ window.DELTA_PRODUCTS = [
     "gallery": [
       "assets/multplast/modular/pp-45000.webp"
     ],
-    "documents": [
-      {
-        "title": "Декларация / документ производителя",
-        "url": "assets/multplast/modular/declaration.webp",
-        "type": "Изображение"
-      },
-      {
-        "title": "Сертификат / документ производителя",
-        "url": "assets/multplast/modular/certificate.webp",
-        "type": "Изображение"
-      }
-    ]
+    "documents": [],
+    "slug": "pp-45000"
   },
   {
     "id": "pp-50000",
@@ -6315,18 +5879,8 @@ window.DELTA_PRODUCTS = [
     "gallery": [
       "assets/multplast/modular/pp-50000.webp"
     ],
-    "documents": [
-      {
-        "title": "Декларация / документ производителя",
-        "url": "assets/multplast/modular/declaration.webp",
-        "type": "Изображение"
-      },
-      {
-        "title": "Сертификат / документ производителя",
-        "url": "assets/multplast/modular/certificate.webp",
-        "type": "Изображение"
-      }
-    ]
+    "documents": [],
+    "slug": "pp-50000"
   },
   {
     "id": "pp-55000",
@@ -6352,7 +5906,9 @@ window.DELTA_PRODUCTS = [
     "image": "assets/multplast/modular/pp-55000.webp",
     "gallery": [
       "assets/multplast/modular/pp-55000.webp"
-    ]
+    ],
+    "documents": [],
+    "slug": "pp-55000"
   },
   {
     "id": "pp-60000",
@@ -6378,7 +5934,9 @@ window.DELTA_PRODUCTS = [
     "image": "assets/multplast/modular/pp-60000.webp",
     "gallery": [
       "assets/multplast/modular/pp-60000.webp"
-    ]
+    ],
+    "documents": [],
+    "slug": "pp-60000"
   },
   {
     "id": "3p-20000",
@@ -6401,7 +5959,9 @@ window.DELTA_PRODUCTS = [
       "liters": 20000
     },
     "popular": false,
-    "gallery": []
+    "gallery": [],
+    "documents": [],
+    "slug": "3p-20000"
   },
   {
     "id": "3p-30000",
@@ -6424,7 +5984,9 @@ window.DELTA_PRODUCTS = [
       "liters": 30000
     },
     "popular": false,
-    "gallery": []
+    "gallery": [],
+    "documents": [],
+    "slug": "3p-30000"
   },
   {
     "id": "3p-40000",
@@ -6447,7 +6009,9 @@ window.DELTA_PRODUCTS = [
       "liters": 40000
     },
     "popular": false,
-    "gallery": []
+    "gallery": [],
+    "documents": [],
+    "slug": "3p-40000"
   },
   {
     "id": "3p-50000",
@@ -6470,7 +6034,9 @@ window.DELTA_PRODUCTS = [
       "liters": 50000
     },
     "popular": false,
-    "gallery": []
+    "gallery": [],
+    "documents": [],
+    "slug": "3p-50000"
   },
   {
     "id": "3p-60000",
@@ -6493,7 +6059,9 @@ window.DELTA_PRODUCTS = [
       "liters": 60000
     },
     "popular": false,
-    "gallery": []
+    "gallery": [],
+    "documents": [],
+    "slug": "3p-60000"
   },
   {
     "id": "3p-70000",
@@ -6516,7 +6084,9 @@ window.DELTA_PRODUCTS = [
       "liters": 70000
     },
     "popular": false,
-    "gallery": []
+    "gallery": [],
+    "documents": [],
+    "slug": "3p-70000"
   },
   {
     "id": "3p-80000",
@@ -6539,7 +6109,9 @@ window.DELTA_PRODUCTS = [
       "liters": 80000
     },
     "popular": false,
-    "gallery": []
+    "gallery": [],
+    "documents": [],
+    "slug": "3p-80000"
   },
   {
     "id": "3p-90000",
@@ -6562,7 +6134,9 @@ window.DELTA_PRODUCTS = [
       "liters": 90000
     },
     "popular": false,
-    "gallery": []
+    "gallery": [],
+    "documents": [],
+    "slug": "3p-90000"
   },
   {
     "id": "3p-100000",
@@ -6585,7 +6159,9 @@ window.DELTA_PRODUCTS = [
       "liters": 100000
     },
     "popular": false,
-    "gallery": []
+    "gallery": [],
+    "documents": [],
+    "slug": "3p-100000"
   },
   {
     "id": "sand-700",
@@ -6609,24 +6185,9 @@ window.DELTA_PRODUCTS = [
     },
     "popular": false,
     "description": "Пескоуловитель Термит предназначен для задержания песка и других оседающих механических примесей в составе стока. Применяется как элемент системы очистки ливневых и производственных вод.",
-    "documents": [
-      {
-        "title": "Сертификат / документ 1",
-        "url": "assets/termit/certificates/grease-sand-1.webp",
-        "type": "Изображение"
-      },
-      {
-        "title": "Сертификат / документ 2",
-        "url": "assets/termit/certificates/grease-sand-2.webp",
-        "type": "Изображение"
-      },
-      {
-        "title": "Сертификат / документ 3",
-        "url": "assets/termit/certificates/grease-sand-3.webp",
-        "type": "Изображение"
-      }
-    ],
-    "gallery": []
+    "documents": [],
+    "gallery": [],
+    "slug": "sand-700"
   },
   {
     "id": "sand-1200",
@@ -6650,24 +6211,9 @@ window.DELTA_PRODUCTS = [
     },
     "popular": false,
     "description": "Пескоуловитель Термит предназначен для задержания песка и других оседающих механических примесей в составе стока. Применяется как элемент системы очистки ливневых и производственных вод.",
-    "documents": [
-      {
-        "title": "Сертификат / документ 1",
-        "url": "assets/termit/certificates/grease-sand-1.webp",
-        "type": "Изображение"
-      },
-      {
-        "title": "Сертификат / документ 2",
-        "url": "assets/termit/certificates/grease-sand-2.webp",
-        "type": "Изображение"
-      },
-      {
-        "title": "Сертификат / документ 3",
-        "url": "assets/termit/certificates/grease-sand-3.webp",
-        "type": "Изображение"
-      }
-    ],
-    "gallery": []
+    "documents": [],
+    "gallery": [],
+    "slug": "sand-1200"
   },
   {
     "id": "sand-2000",
@@ -6691,24 +6237,9 @@ window.DELTA_PRODUCTS = [
     },
     "popular": false,
     "description": "Пескоуловитель Термит предназначен для задержания песка и других оседающих механических примесей в составе стока. Применяется как элемент системы очистки ливневых и производственных вод.",
-    "documents": [
-      {
-        "title": "Сертификат / документ 1",
-        "url": "assets/termit/certificates/grease-sand-1.webp",
-        "type": "Изображение"
-      },
-      {
-        "title": "Сертификат / документ 2",
-        "url": "assets/termit/certificates/grease-sand-2.webp",
-        "type": "Изображение"
-      },
-      {
-        "title": "Сертификат / документ 3",
-        "url": "assets/termit/certificates/grease-sand-3.webp",
-        "type": "Изображение"
-      }
-    ],
-    "gallery": []
+    "documents": [],
+    "gallery": [],
+    "slug": "sand-2000"
   },
   {
     "id": "sand-2500",
@@ -6732,24 +6263,9 @@ window.DELTA_PRODUCTS = [
     },
     "popular": false,
     "description": "Пескоуловитель Термит предназначен для задержания песка и других оседающих механических примесей в составе стока. Применяется как элемент системы очистки ливневых и производственных вод.",
-    "documents": [
-      {
-        "title": "Сертификат / документ 1",
-        "url": "assets/termit/certificates/grease-sand-1.webp",
-        "type": "Изображение"
-      },
-      {
-        "title": "Сертификат / документ 2",
-        "url": "assets/termit/certificates/grease-sand-2.webp",
-        "type": "Изображение"
-      },
-      {
-        "title": "Сертификат / документ 3",
-        "url": "assets/termit/certificates/grease-sand-3.webp",
-        "type": "Изображение"
-      }
-    ],
-    "gallery": []
+    "documents": [],
+    "gallery": [],
+    "slug": "sand-2500"
   },
   {
     "id": "sand-3000",
@@ -6773,24 +6289,9 @@ window.DELTA_PRODUCTS = [
     },
     "popular": false,
     "description": "Пескоуловитель Термит предназначен для задержания песка и других оседающих механических примесей в составе стока. Применяется как элемент системы очистки ливневых и производственных вод.",
-    "documents": [
-      {
-        "title": "Сертификат / документ 1",
-        "url": "assets/termit/certificates/grease-sand-1.webp",
-        "type": "Изображение"
-      },
-      {
-        "title": "Сертификат / документ 2",
-        "url": "assets/termit/certificates/grease-sand-2.webp",
-        "type": "Изображение"
-      },
-      {
-        "title": "Сертификат / документ 3",
-        "url": "assets/termit/certificates/grease-sand-3.webp",
-        "type": "Изображение"
-      }
-    ],
-    "gallery": []
+    "documents": [],
+    "gallery": [],
+    "slug": "sand-3000"
   },
   {
     "id": "sand-4000",
@@ -6814,24 +6315,9 @@ window.DELTA_PRODUCTS = [
     },
     "popular": false,
     "description": "Пескоуловитель Термит предназначен для задержания песка и других оседающих механических примесей в составе стока. Применяется как элемент системы очистки ливневых и производственных вод.",
-    "documents": [
-      {
-        "title": "Сертификат / документ 1",
-        "url": "assets/termit/certificates/grease-sand-1.webp",
-        "type": "Изображение"
-      },
-      {
-        "title": "Сертификат / документ 2",
-        "url": "assets/termit/certificates/grease-sand-2.webp",
-        "type": "Изображение"
-      },
-      {
-        "title": "Сертификат / документ 3",
-        "url": "assets/termit/certificates/grease-sand-3.webp",
-        "type": "Изображение"
-      }
-    ],
-    "gallery": []
+    "documents": [],
+    "gallery": [],
+    "slug": "sand-4000"
   },
   {
     "id": "sand-5500",
@@ -6855,24 +6341,9 @@ window.DELTA_PRODUCTS = [
     },
     "popular": false,
     "description": "Пескоуловитель Термит предназначен для задержания песка и других оседающих механических примесей в составе стока. Применяется как элемент системы очистки ливневых и производственных вод.",
-    "documents": [
-      {
-        "title": "Сертификат / документ 1",
-        "url": "assets/termit/certificates/grease-sand-1.webp",
-        "type": "Изображение"
-      },
-      {
-        "title": "Сертификат / документ 2",
-        "url": "assets/termit/certificates/grease-sand-2.webp",
-        "type": "Изображение"
-      },
-      {
-        "title": "Сертификат / документ 3",
-        "url": "assets/termit/certificates/grease-sand-3.webp",
-        "type": "Изображение"
-      }
-    ],
-    "gallery": []
+    "documents": [],
+    "gallery": [],
+    "slug": "sand-5500"
   },
   {
     "id": "sand-6500",
@@ -6896,24 +6367,9 @@ window.DELTA_PRODUCTS = [
     },
     "popular": false,
     "description": "Пескоуловитель Термит предназначен для задержания песка и других оседающих механических примесей в составе стока. Применяется как элемент системы очистки ливневых и производственных вод.",
-    "documents": [
-      {
-        "title": "Сертификат / документ 1",
-        "url": "assets/termit/certificates/grease-sand-1.webp",
-        "type": "Изображение"
-      },
-      {
-        "title": "Сертификат / документ 2",
-        "url": "assets/termit/certificates/grease-sand-2.webp",
-        "type": "Изображение"
-      },
-      {
-        "title": "Сертификат / документ 3",
-        "url": "assets/termit/certificates/grease-sand-3.webp",
-        "type": "Изображение"
-      }
-    ],
-    "gallery": []
+    "documents": [],
+    "gallery": [],
+    "slug": "sand-6500"
   },
   {
     "id": "sand-8500",
@@ -6937,24 +6393,9 @@ window.DELTA_PRODUCTS = [
     },
     "popular": false,
     "description": "Пескоуловитель Термит предназначен для задержания песка и других оседающих механических примесей в составе стока. Применяется как элемент системы очистки ливневых и производственных вод.",
-    "documents": [
-      {
-        "title": "Сертификат / документ 1",
-        "url": "assets/termit/certificates/grease-sand-1.webp",
-        "type": "Изображение"
-      },
-      {
-        "title": "Сертификат / документ 2",
-        "url": "assets/termit/certificates/grease-sand-2.webp",
-        "type": "Изображение"
-      },
-      {
-        "title": "Сертификат / документ 3",
-        "url": "assets/termit/certificates/grease-sand-3.webp",
-        "type": "Изображение"
-      }
-    ],
-    "gallery": []
+    "documents": [],
+    "gallery": [],
+    "slug": "sand-8500"
   },
   {
     "id": "sand-10000",
@@ -6978,24 +6419,9 @@ window.DELTA_PRODUCTS = [
     },
     "popular": false,
     "description": "Пескоуловитель Термит предназначен для задержания песка и других оседающих механических примесей в составе стока. Применяется как элемент системы очистки ливневых и производственных вод.",
-    "documents": [
-      {
-        "title": "Сертификат / документ 1",
-        "url": "assets/termit/certificates/grease-sand-1.webp",
-        "type": "Изображение"
-      },
-      {
-        "title": "Сертификат / документ 2",
-        "url": "assets/termit/certificates/grease-sand-2.webp",
-        "type": "Изображение"
-      },
-      {
-        "title": "Сертификат / документ 3",
-        "url": "assets/termit/certificates/grease-sand-3.webp",
-        "type": "Изображение"
-      }
-    ],
-    "gallery": []
+    "documents": [],
+    "gallery": [],
+    "slug": "sand-10000"
   },
   {
     "id": "sand-15000",
@@ -7019,24 +6445,9 @@ window.DELTA_PRODUCTS = [
     },
     "popular": false,
     "description": "Пескоуловитель Термит предназначен для задержания песка и других оседающих механических примесей в составе стока. Применяется как элемент системы очистки ливневых и производственных вод.",
-    "documents": [
-      {
-        "title": "Сертификат / документ 1",
-        "url": "assets/termit/certificates/grease-sand-1.webp",
-        "type": "Изображение"
-      },
-      {
-        "title": "Сертификат / документ 2",
-        "url": "assets/termit/certificates/grease-sand-2.webp",
-        "type": "Изображение"
-      },
-      {
-        "title": "Сертификат / документ 3",
-        "url": "assets/termit/certificates/grease-sand-3.webp",
-        "type": "Изображение"
-      }
-    ],
-    "gallery": []
+    "documents": [],
+    "gallery": [],
+    "slug": "sand-15000"
   },
   {
     "id": "sand-20000",
@@ -7060,24 +6471,9 @@ window.DELTA_PRODUCTS = [
     },
     "popular": false,
     "description": "Пескоуловитель Термит предназначен для задержания песка и других оседающих механических примесей в составе стока. Применяется как элемент системы очистки ливневых и производственных вод.",
-    "documents": [
-      {
-        "title": "Сертификат / документ 1",
-        "url": "assets/termit/certificates/grease-sand-1.webp",
-        "type": "Изображение"
-      },
-      {
-        "title": "Сертификат / документ 2",
-        "url": "assets/termit/certificates/grease-sand-2.webp",
-        "type": "Изображение"
-      },
-      {
-        "title": "Сертификат / документ 3",
-        "url": "assets/termit/certificates/grease-sand-3.webp",
-        "type": "Изображение"
-      }
-    ],
-    "gallery": []
+    "documents": [],
+    "gallery": [],
+    "slug": "sand-20000"
   },
   {
     "id": "sand-25000",
@@ -7101,24 +6497,9 @@ window.DELTA_PRODUCTS = [
     },
     "popular": false,
     "description": "Пескоуловитель Термит предназначен для задержания песка и других оседающих механических примесей в составе стока. Применяется как элемент системы очистки ливневых и производственных вод.",
-    "documents": [
-      {
-        "title": "Сертификат / документ 1",
-        "url": "assets/termit/certificates/grease-sand-1.webp",
-        "type": "Изображение"
-      },
-      {
-        "title": "Сертификат / документ 2",
-        "url": "assets/termit/certificates/grease-sand-2.webp",
-        "type": "Изображение"
-      },
-      {
-        "title": "Сертификат / документ 3",
-        "url": "assets/termit/certificates/grease-sand-3.webp",
-        "type": "Изображение"
-      }
-    ],
-    "gallery": []
+    "documents": [],
+    "gallery": [],
+    "slug": "sand-25000"
   },
   {
     "id": "sand-30000",
@@ -7142,24 +6523,9 @@ window.DELTA_PRODUCTS = [
     },
     "popular": false,
     "description": "Пескоуловитель Термит предназначен для задержания песка и других оседающих механических примесей в составе стока. Применяется как элемент системы очистки ливневых и производственных вод.",
-    "documents": [
-      {
-        "title": "Сертификат / документ 1",
-        "url": "assets/termit/certificates/grease-sand-1.webp",
-        "type": "Изображение"
-      },
-      {
-        "title": "Сертификат / документ 2",
-        "url": "assets/termit/certificates/grease-sand-2.webp",
-        "type": "Изображение"
-      },
-      {
-        "title": "Сертификат / документ 3",
-        "url": "assets/termit/certificates/grease-sand-3.webp",
-        "type": "Изображение"
-      }
-    ],
-    "gallery": []
+    "documents": [],
+    "gallery": [],
+    "slug": "sand-30000"
   },
   {
     "id": "sand-35000",
@@ -7183,24 +6549,9 @@ window.DELTA_PRODUCTS = [
     },
     "popular": false,
     "description": "Пескоуловитель Термит предназначен для задержания песка и других оседающих механических примесей в составе стока. Применяется как элемент системы очистки ливневых и производственных вод.",
-    "documents": [
-      {
-        "title": "Сертификат / документ 1",
-        "url": "assets/termit/certificates/grease-sand-1.webp",
-        "type": "Изображение"
-      },
-      {
-        "title": "Сертификат / документ 2",
-        "url": "assets/termit/certificates/grease-sand-2.webp",
-        "type": "Изображение"
-      },
-      {
-        "title": "Сертификат / документ 3",
-        "url": "assets/termit/certificates/grease-sand-3.webp",
-        "type": "Изображение"
-      }
-    ],
-    "gallery": []
+    "documents": [],
+    "gallery": [],
+    "slug": "sand-35000"
   },
   {
     "id": "sand-40000",
@@ -7224,24 +6575,9 @@ window.DELTA_PRODUCTS = [
     },
     "popular": false,
     "description": "Пескоуловитель Термит предназначен для задержания песка и других оседающих механических примесей в составе стока. Применяется как элемент системы очистки ливневых и производственных вод.",
-    "documents": [
-      {
-        "title": "Сертификат / документ 1",
-        "url": "assets/termit/certificates/grease-sand-1.webp",
-        "type": "Изображение"
-      },
-      {
-        "title": "Сертификат / документ 2",
-        "url": "assets/termit/certificates/grease-sand-2.webp",
-        "type": "Изображение"
-      },
-      {
-        "title": "Сертификат / документ 3",
-        "url": "assets/termit/certificates/grease-sand-3.webp",
-        "type": "Изображение"
-      }
-    ],
-    "gallery": []
+    "documents": [],
+    "gallery": [],
+    "slug": "sand-40000"
   },
   {
     "id": "sand-45000",
@@ -7265,24 +6601,9 @@ window.DELTA_PRODUCTS = [
     },
     "popular": false,
     "description": "Пескоуловитель Термит предназначен для задержания песка и других оседающих механических примесей в составе стока. Применяется как элемент системы очистки ливневых и производственных вод.",
-    "documents": [
-      {
-        "title": "Сертификат / документ 1",
-        "url": "assets/termit/certificates/grease-sand-1.webp",
-        "type": "Изображение"
-      },
-      {
-        "title": "Сертификат / документ 2",
-        "url": "assets/termit/certificates/grease-sand-2.webp",
-        "type": "Изображение"
-      },
-      {
-        "title": "Сертификат / документ 3",
-        "url": "assets/termit/certificates/grease-sand-3.webp",
-        "type": "Изображение"
-      }
-    ],
-    "gallery": []
+    "documents": [],
+    "gallery": [],
+    "slug": "sand-45000"
   },
   {
     "id": "sand-50000",
@@ -7306,24 +6627,9 @@ window.DELTA_PRODUCTS = [
     },
     "popular": false,
     "description": "Пескоуловитель Термит предназначен для задержания песка и других оседающих механических примесей в составе стока. Применяется как элемент системы очистки ливневых и производственных вод.",
-    "documents": [
-      {
-        "title": "Сертификат / документ 1",
-        "url": "assets/termit/certificates/grease-sand-1.webp",
-        "type": "Изображение"
-      },
-      {
-        "title": "Сертификат / документ 2",
-        "url": "assets/termit/certificates/grease-sand-2.webp",
-        "type": "Изображение"
-      },
-      {
-        "title": "Сертификат / документ 3",
-        "url": "assets/termit/certificates/grease-sand-3.webp",
-        "type": "Изображение"
-      }
-    ],
-    "gallery": []
+    "documents": [],
+    "gallery": [],
+    "slug": "sand-50000"
   },
   {
     "id": "dpv-700",
@@ -7352,16 +6658,12 @@ window.DELTA_PRODUCTS = [
     "description": "Подземная ёмкость ДПВ предназначена для хранения запаса питьевой воды. При выборе и монтаже необходимо учитывать проектные условия, требования к питьевой воде и рекомендации производителя.",
     "documents": [
       {
-        "title": "Монтажная схема",
+        "title": "Монтажная схема — ёмкость ДПВ 700 л",
         "url": "assets/multplast/dpv/schemes/dpv07.pdf",
         "type": "PDF"
-      },
-      {
-        "title": "Документ производителя",
-        "url": "assets/multplast/dpv/certificate.webp",
-        "type": "Изображение"
       }
-    ]
+    ],
+    "slug": "dpv-700"
   },
   {
     "id": "dpv-1200",
@@ -7390,16 +6692,12 @@ window.DELTA_PRODUCTS = [
     "description": "Подземная ёмкость ДПВ предназначена для хранения запаса питьевой воды. При выборе и монтаже необходимо учитывать проектные условия, требования к питьевой воде и рекомендации производителя.",
     "documents": [
       {
-        "title": "Монтажная схема",
+        "title": "Монтажная схема — ёмкость ДПВ 1200 л",
         "url": "assets/multplast/dpv/schemes/dpv12.pdf",
         "type": "PDF"
-      },
-      {
-        "title": "Документ производителя",
-        "url": "assets/multplast/dpv/certificate.webp",
-        "type": "Изображение"
       }
-    ]
+    ],
+    "slug": "dpv-1200"
   },
   {
     "id": "dpv-2000",
@@ -7428,16 +6726,12 @@ window.DELTA_PRODUCTS = [
     "description": "Подземная ёмкость ДПВ предназначена для хранения запаса питьевой воды. При выборе и монтаже необходимо учитывать проектные условия, требования к питьевой воде и рекомендации производителя.",
     "documents": [
       {
-        "title": "Монтажная схема",
+        "title": "Монтажная схема — ёмкость ДПВ 2000 л",
         "url": "assets/multplast/dpv/schemes/dpv20.pdf",
         "type": "PDF"
-      },
-      {
-        "title": "Документ производителя",
-        "url": "assets/multplast/dpv/certificate.webp",
-        "type": "Изображение"
       }
-    ]
+    ],
+    "slug": "dpv-2000"
   },
   {
     "id": "dpv-2500",
@@ -7466,16 +6760,12 @@ window.DELTA_PRODUCTS = [
     "description": "Подземная ёмкость ДПВ предназначена для хранения запаса питьевой воды. При выборе и монтаже необходимо учитывать проектные условия, требования к питьевой воде и рекомендации производителя.",
     "documents": [
       {
-        "title": "Монтажная схема",
+        "title": "Монтажная схема — ёмкость ДПВ 2500 л",
         "url": "assets/multplast/dpv/schemes/dpv25.pdf",
         "type": "PDF"
-      },
-      {
-        "title": "Документ производителя",
-        "url": "assets/multplast/dpv/certificate.webp",
-        "type": "Изображение"
       }
-    ]
+    ],
+    "slug": "dpv-2500"
   },
   {
     "id": "dpv-3000",
@@ -7504,16 +6794,12 @@ window.DELTA_PRODUCTS = [
     "description": "Подземная ёмкость ДПВ предназначена для хранения запаса питьевой воды. При выборе и монтаже необходимо учитывать проектные условия, требования к питьевой воде и рекомендации производителя.",
     "documents": [
       {
-        "title": "Монтажная схема",
+        "title": "Монтажная схема — ёмкость ДПВ 3000 л",
         "url": "assets/multplast/dpv/schemes/dpv30.pdf",
         "type": "PDF"
-      },
-      {
-        "title": "Документ производителя",
-        "url": "assets/multplast/dpv/certificate.webp",
-        "type": "Изображение"
       }
-    ]
+    ],
+    "slug": "dpv-3000"
   },
   {
     "id": "dpv-4000",
@@ -7542,16 +6828,12 @@ window.DELTA_PRODUCTS = [
     "description": "Подземная ёмкость ДПВ предназначена для хранения запаса питьевой воды. При выборе и монтаже необходимо учитывать проектные условия, требования к питьевой воде и рекомендации производителя.",
     "documents": [
       {
-        "title": "Монтажная схема",
+        "title": "Монтажная схема — ёмкость ДПВ 4000 л",
         "url": "assets/multplast/dpv/schemes/dpv40.pdf",
         "type": "PDF"
-      },
-      {
-        "title": "Документ производителя",
-        "url": "assets/multplast/dpv/certificate.webp",
-        "type": "Изображение"
       }
-    ]
+    ],
+    "slug": "dpv-4000"
   },
   {
     "id": "dpv-5500",
@@ -7580,16 +6862,12 @@ window.DELTA_PRODUCTS = [
     "description": "Подземная ёмкость ДПВ предназначена для хранения запаса питьевой воды. При выборе и монтаже необходимо учитывать проектные условия, требования к питьевой воде и рекомендации производителя.",
     "documents": [
       {
-        "title": "Монтажная схема",
+        "title": "Монтажная схема — ёмкость ДПВ 5500 л",
         "url": "assets/multplast/dpv/schemes/dpv55.pdf",
         "type": "PDF"
-      },
-      {
-        "title": "Документ производителя",
-        "url": "assets/multplast/dpv/certificate.webp",
-        "type": "Изображение"
       }
-    ]
+    ],
+    "slug": "dpv-5500"
   },
   {
     "id": "dpv-6500",
@@ -7618,16 +6896,12 @@ window.DELTA_PRODUCTS = [
     "description": "Подземная ёмкость ДПВ предназначена для хранения запаса питьевой воды. При выборе и монтаже необходимо учитывать проектные условия, требования к питьевой воде и рекомендации производителя.",
     "documents": [
       {
-        "title": "Монтажная схема",
+        "title": "Монтажная схема — ёмкость ДПВ 6500 л",
         "url": "assets/multplast/dpv/schemes/dpv65.pdf",
         "type": "PDF"
-      },
-      {
-        "title": "Документ производителя",
-        "url": "assets/multplast/dpv/certificate.webp",
-        "type": "Изображение"
       }
-    ]
+    ],
+    "slug": "dpv-6500"
   },
   {
     "id": "dpv-8500",
@@ -7656,16 +6930,12 @@ window.DELTA_PRODUCTS = [
     "description": "Подземная ёмкость ДПВ предназначена для хранения запаса питьевой воды. При выборе и монтаже необходимо учитывать проектные условия, требования к питьевой воде и рекомендации производителя.",
     "documents": [
       {
-        "title": "Монтажная схема",
+        "title": "Монтажная схема — ёмкость ДПВ 8500 л",
         "url": "assets/multplast/dpv/schemes/dpv85.pdf",
         "type": "PDF"
-      },
-      {
-        "title": "Документ производителя",
-        "url": "assets/multplast/dpv/certificate.webp",
-        "type": "Изображение"
       }
-    ]
+    ],
+    "slug": "dpv-8500"
   },
   {
     "id": "kesson-2-1",
@@ -7689,7 +6959,15 @@ window.DELTA_PRODUCTS = [
     ],
     "meta": {},
     "popular": false,
-    "gallery": []
+    "gallery": [],
+    "documents": [
+      {
+        "title": "Архивный сертификат на кессоны серии «Термит» — срок действия истёк 27.03.2026",
+        "url": "assets/termit/certificates/certificate.pdf",
+        "type": "PDF"
+      }
+    ],
+    "slug": "kesson-2-1"
   },
   {
     "id": "kesson-2-5",
@@ -7713,7 +6991,15 @@ window.DELTA_PRODUCTS = [
     ],
     "meta": {},
     "popular": false,
-    "gallery": []
+    "gallery": [],
+    "documents": [
+      {
+        "title": "Архивный сертификат на кессоны серии «Термит» — срок действия истёк 27.03.2026",
+        "url": "assets/termit/certificates/certificate.pdf",
+        "type": "PDF"
+      }
+    ],
+    "slug": "kesson-2-5"
   },
   {
     "id": "kesson-1-1",
@@ -7737,7 +7023,15 @@ window.DELTA_PRODUCTS = [
     ],
     "meta": {},
     "popular": false,
-    "gallery": []
+    "gallery": [],
+    "documents": [
+      {
+        "title": "Архивный сертификат на кессоны серии «Термит» — срок действия истёк 27.03.2026",
+        "url": "assets/termit/certificates/certificate.pdf",
+        "type": "PDF"
+      }
+    ],
+    "slug": "kesson-1-1"
   },
   {
     "id": "kesson-1-5",
@@ -7761,7 +7055,15 @@ window.DELTA_PRODUCTS = [
     ],
     "meta": {},
     "popular": false,
-    "gallery": []
+    "gallery": [],
+    "documents": [
+      {
+        "title": "Архивный сертификат на кессоны серии «Термит» — срок действия истёк 27.03.2026",
+        "url": "assets/termit/certificates/certificate.pdf",
+        "type": "PDF"
+      }
+    ],
+    "slug": "kesson-1-5"
   },
   {
     "id": "kesson-cap",
@@ -7779,7 +7081,9 @@ window.DELTA_PRODUCTS = [
     ],
     "meta": {},
     "popular": false,
-    "gallery": []
+    "gallery": [],
+    "documents": [],
+    "slug": "kesson-cap"
   },
   {
     "id": "germovvod-s",
@@ -7797,7 +7101,9 @@ window.DELTA_PRODUCTS = [
     ],
     "meta": {},
     "popular": false,
-    "gallery": []
+    "gallery": [],
+    "documents": [],
+    "slug": "germovvod-s"
   },
   {
     "id": "germovvod-m",
@@ -7815,7 +7121,9 @@ window.DELTA_PRODUCTS = [
     ],
     "meta": {},
     "popular": false,
-    "gallery": []
+    "gallery": [],
+    "documents": [],
+    "slug": "germovvod-m"
   },
   {
     "id": "germovvod-l",
@@ -7833,7 +7141,9 @@ window.DELTA_PRODUCTS = [
     ],
     "meta": {},
     "popular": false,
-    "gallery": []
+    "gallery": [],
+    "documents": [],
+    "slug": "germovvod-l"
   },
   {
     "id": "clamp-s",
@@ -7851,7 +7161,9 @@ window.DELTA_PRODUCTS = [
     ],
     "meta": {},
     "popular": false,
-    "gallery": []
+    "gallery": [],
+    "documents": [],
+    "slug": "clamp-s"
   },
   {
     "id": "clamp-m",
@@ -7869,7 +7181,9 @@ window.DELTA_PRODUCTS = [
     ],
     "meta": {},
     "popular": false,
-    "gallery": []
+    "gallery": [],
+    "documents": [],
+    "slug": "clamp-m"
   },
   {
     "id": "clamp-l",
@@ -7887,7 +7201,9 @@ window.DELTA_PRODUCTS = [
     ],
     "meta": {},
     "popular": false,
-    "gallery": []
+    "gallery": [],
+    "documents": [],
+    "slug": "clamp-l"
   },
   {
     "id": "grease-03-15",
@@ -7920,21 +7236,17 @@ window.DELTA_PRODUCTS = [
     ],
     "documents": [
       {
-        "title": "Сертификат / документ 1",
-        "url": "assets/termit/certificates/grease-sand-1.webp",
-        "type": "Изображение"
+        "title": "Архивное экспертное заключение на жироуловители под мойку «Термит» — запросить актуализацию",
+        "url": "assets/certificates/TermitGreaseTrapExpertOpinion.pdf",
+        "type": "PDF"
       },
       {
-        "title": "Сертификат / документ 2",
-        "url": "assets/termit/certificates/grease-sand-2.webp",
-        "type": "Изображение"
-      },
-      {
-        "title": "Сертификат / документ 3",
-        "url": "assets/termit/certificates/grease-sand-3.webp",
-        "type": "Изображение"
+        "title": "Архивный протокол испытаний жироуловителей «Термит» — не является сертификатом",
+        "url": "assets/certificates/TermitGreaseTrapTestProtocol.pdf",
+        "type": "PDF"
       }
-    ]
+    ],
+    "slug": "grease-03-15"
   },
   {
     "id": "grease-03-20",
@@ -7966,21 +7278,17 @@ window.DELTA_PRODUCTS = [
     ],
     "documents": [
       {
-        "title": "Сертификат / документ 1",
-        "url": "assets/termit/certificates/grease-sand-1.webp",
-        "type": "Изображение"
+        "title": "Архивное экспертное заключение на жироуловители под мойку «Термит» — запросить актуализацию",
+        "url": "assets/certificates/TermitGreaseTrapExpertOpinion.pdf",
+        "type": "PDF"
       },
       {
-        "title": "Сертификат / документ 2",
-        "url": "assets/termit/certificates/grease-sand-2.webp",
-        "type": "Изображение"
-      },
-      {
-        "title": "Сертификат / документ 3",
-        "url": "assets/termit/certificates/grease-sand-3.webp",
-        "type": "Изображение"
+        "title": "Архивный протокол испытаний жироуловителей «Термит» — не является сертификатом",
+        "url": "assets/certificates/TermitGreaseTrapTestProtocol.pdf",
+        "type": "PDF"
       }
-    ]
+    ],
+    "slug": "grease-03-20"
   },
   {
     "id": "grease-05-25",
@@ -8012,21 +7320,17 @@ window.DELTA_PRODUCTS = [
     ],
     "documents": [
       {
-        "title": "Сертификат / документ 1",
-        "url": "assets/termit/certificates/grease-sand-1.webp",
-        "type": "Изображение"
+        "title": "Архивное экспертное заключение на жироуловители под мойку «Термит» — запросить актуализацию",
+        "url": "assets/certificates/TermitGreaseTrapExpertOpinion.pdf",
+        "type": "PDF"
       },
       {
-        "title": "Сертификат / документ 2",
-        "url": "assets/termit/certificates/grease-sand-2.webp",
-        "type": "Изображение"
-      },
-      {
-        "title": "Сертификат / документ 3",
-        "url": "assets/termit/certificates/grease-sand-3.webp",
-        "type": "Изображение"
+        "title": "Архивный протокол испытаний жироуловителей «Термит» — не является сертификатом",
+        "url": "assets/certificates/TermitGreaseTrapTestProtocol.pdf",
+        "type": "PDF"
       }
-    ]
+    ],
+    "slug": "grease-05-25"
   },
   {
     "id": "grease-05-40",
@@ -8057,21 +7361,17 @@ window.DELTA_PRODUCTS = [
     ],
     "documents": [
       {
-        "title": "Сертификат / документ 1",
-        "url": "assets/termit/certificates/grease-sand-1.webp",
-        "type": "Изображение"
+        "title": "Архивное экспертное заключение на жироуловители под мойку «Термит» — запросить актуализацию",
+        "url": "assets/certificates/TermitGreaseTrapExpertOpinion.pdf",
+        "type": "PDF"
       },
       {
-        "title": "Сертификат / документ 2",
-        "url": "assets/termit/certificates/grease-sand-2.webp",
-        "type": "Изображение"
-      },
-      {
-        "title": "Сертификат / документ 3",
-        "url": "assets/termit/certificates/grease-sand-3.webp",
-        "type": "Изображение"
+        "title": "Архивный протокол испытаний жироуловителей «Термит» — не является сертификатом",
+        "url": "assets/certificates/TermitGreaseTrapTestProtocol.pdf",
+        "type": "PDF"
       }
-    ]
+    ],
+    "slug": "grease-05-40"
   },
   {
     "id": "grease-1-60",
@@ -8102,21 +7402,17 @@ window.DELTA_PRODUCTS = [
     ],
     "documents": [
       {
-        "title": "Сертификат / документ 1",
-        "url": "assets/termit/certificates/grease-sand-1.webp",
-        "type": "Изображение"
+        "title": "Архивное экспертное заключение на жироуловители под мойку «Термит» — запросить актуализацию",
+        "url": "assets/certificates/TermitGreaseTrapExpertOpinion.pdf",
+        "type": "PDF"
       },
       {
-        "title": "Сертификат / документ 2",
-        "url": "assets/termit/certificates/grease-sand-2.webp",
-        "type": "Изображение"
-      },
-      {
-        "title": "Сертификат / документ 3",
-        "url": "assets/termit/certificates/grease-sand-3.webp",
-        "type": "Изображение"
+        "title": "Архивный протокол испытаний жироуловителей «Термит» — не является сертификатом",
+        "url": "assets/certificates/TermitGreaseTrapTestProtocol.pdf",
+        "type": "PDF"
       }
-    ]
+    ],
+    "slug": "grease-1-60"
   },
   {
     "id": "grease-1-80",
@@ -8147,21 +7443,17 @@ window.DELTA_PRODUCTS = [
     ],
     "documents": [
       {
-        "title": "Сертификат / документ 1",
-        "url": "assets/termit/certificates/grease-sand-1.webp",
-        "type": "Изображение"
+        "title": "Архивное экспертное заключение на жироуловители под мойку «Термит» — запросить актуализацию",
+        "url": "assets/certificates/TermitGreaseTrapExpertOpinion.pdf",
+        "type": "PDF"
       },
       {
-        "title": "Сертификат / документ 2",
-        "url": "assets/termit/certificates/grease-sand-2.webp",
-        "type": "Изображение"
-      },
-      {
-        "title": "Сертификат / документ 3",
-        "url": "assets/termit/certificates/grease-sand-3.webp",
-        "type": "Изображение"
+        "title": "Архивный протокол испытаний жироуловителей «Термит» — не является сертификатом",
+        "url": "assets/certificates/TermitGreaseTrapTestProtocol.pdf",
+        "type": "PDF"
       }
-    ]
+    ],
+    "slug": "grease-1-80"
   },
   {
     "id": "ugrease-700",
@@ -8188,20 +7480,21 @@ window.DELTA_PRODUCTS = [
     "description": "Подземный промышленный жироуловитель «Термит» предназначен для предварительной очистки производственных и хозяйственно-бытовых сточных вод от жировых загрязнений. Модель подбирают с учётом расчётного расхода, условий монтажа и требований к очистке.",
     "documents": [
       {
-        "title": "Монтажная схема",
-        "url": "assets/multplast/industrial-grease/schemes/zn700.pdf",
-        "type": "PDF"
+        "title": "Декларация ЕАЭС на промышленный жироуловитель «Термит» — действует до 28.09.2027",
+        "url": "assets/multplast/grease/certificate.webp",
+        "type": "Документ"
       },
       {
-        "title": "Документ производителя",
-        "url": "assets/multplast/grease/certificate.webp",
-        "type": "Изображение"
+        "title": "Монтажная схема — промышленный жироуловитель «Термит» 700 л",
+        "url": "assets/multplast/industrial-grease/schemes/zn700.pdf",
+        "type": "PDF"
       }
     ],
     "image": "assets/multplast/industrial-grease/700.webp",
     "gallery": [
       "assets/multplast/industrial-grease/700.webp"
-    ]
+    ],
+    "slug": "ugrease-700"
   },
   {
     "id": "ugrease-1200",
@@ -8228,20 +7521,21 @@ window.DELTA_PRODUCTS = [
     "description": "Подземный промышленный жироуловитель «Термит» предназначен для предварительной очистки производственных и хозяйственно-бытовых сточных вод от жировых загрязнений. Модель подбирают с учётом расчётного расхода, условий монтажа и требований к очистке.",
     "documents": [
       {
-        "title": "Монтажная схема",
-        "url": "assets/multplast/industrial-grease/schemes/zn1200.pdf",
-        "type": "PDF"
+        "title": "Декларация ЕАЭС на промышленный жироуловитель «Термит» — действует до 28.09.2027",
+        "url": "assets/multplast/grease/certificate.webp",
+        "type": "Документ"
       },
       {
-        "title": "Документ производителя",
-        "url": "assets/multplast/grease/certificate.webp",
-        "type": "Изображение"
+        "title": "Монтажная схема — промышленный жироуловитель «Термит» 1200 л",
+        "url": "assets/multplast/industrial-grease/schemes/zn1200.pdf",
+        "type": "PDF"
       }
     ],
     "image": "assets/multplast/industrial-grease/1200.webp",
     "gallery": [
       "assets/multplast/industrial-grease/1200.webp"
-    ]
+    ],
+    "slug": "ugrease-1200"
   },
   {
     "id": "ugrease-2000",
@@ -8268,20 +7562,21 @@ window.DELTA_PRODUCTS = [
     "description": "Подземный промышленный жироуловитель «Термит» предназначен для предварительной очистки производственных и хозяйственно-бытовых сточных вод от жировых загрязнений. Модель подбирают с учётом расчётного расхода, условий монтажа и требований к очистке.",
     "documents": [
       {
-        "title": "Монтажная схема",
-        "url": "assets/multplast/industrial-grease/schemes/zn2000.pdf",
-        "type": "PDF"
+        "title": "Декларация ЕАЭС на промышленный жироуловитель «Термит» — действует до 28.09.2027",
+        "url": "assets/multplast/grease/certificate.webp",
+        "type": "Документ"
       },
       {
-        "title": "Документ производителя",
-        "url": "assets/multplast/grease/certificate.webp",
-        "type": "Изображение"
+        "title": "Монтажная схема — промышленный жироуловитель «Термит» 2000 л",
+        "url": "assets/multplast/industrial-grease/schemes/zn2000.pdf",
+        "type": "PDF"
       }
     ],
     "image": "assets/multplast/industrial-grease/2000.webp",
     "gallery": [
       "assets/multplast/industrial-grease/2000.webp"
-    ]
+    ],
+    "slug": "ugrease-2000"
   },
   {
     "id": "ugrease-2500",
@@ -8308,20 +7603,21 @@ window.DELTA_PRODUCTS = [
     "description": "Подземный промышленный жироуловитель «Термит» предназначен для предварительной очистки производственных и хозяйственно-бытовых сточных вод от жировых загрязнений. Модель подбирают с учётом расчётного расхода, условий монтажа и требований к очистке.",
     "documents": [
       {
-        "title": "Монтажная схема",
-        "url": "assets/multplast/industrial-grease/schemes/zn2500.pdf",
-        "type": "PDF"
+        "title": "Декларация ЕАЭС на промышленный жироуловитель «Термит» — действует до 28.09.2027",
+        "url": "assets/multplast/grease/certificate.webp",
+        "type": "Документ"
       },
       {
-        "title": "Документ производителя",
-        "url": "assets/multplast/grease/certificate.webp",
-        "type": "Изображение"
+        "title": "Монтажная схема — промышленный жироуловитель «Термит» 2500 л",
+        "url": "assets/multplast/industrial-grease/schemes/zn2500.pdf",
+        "type": "PDF"
       }
     ],
     "image": "assets/multplast/industrial-grease/2500.webp",
     "gallery": [
       "assets/multplast/industrial-grease/2500.webp"
-    ]
+    ],
+    "slug": "ugrease-2500"
   },
   {
     "id": "ugrease-3000",
@@ -8348,20 +7644,21 @@ window.DELTA_PRODUCTS = [
     "description": "Подземный промышленный жироуловитель «Термит» предназначен для предварительной очистки производственных и хозяйственно-бытовых сточных вод от жировых загрязнений. Модель подбирают с учётом расчётного расхода, условий монтажа и требований к очистке.",
     "documents": [
       {
-        "title": "Монтажная схема",
-        "url": "assets/multplast/industrial-grease/schemes/zn3000.pdf",
-        "type": "PDF"
+        "title": "Декларация ЕАЭС на промышленный жироуловитель «Термит» — действует до 28.09.2027",
+        "url": "assets/multplast/grease/certificate.webp",
+        "type": "Документ"
       },
       {
-        "title": "Документ производителя",
-        "url": "assets/multplast/grease/certificate.webp",
-        "type": "Изображение"
+        "title": "Монтажная схема — промышленный жироуловитель «Термит» 3000 л",
+        "url": "assets/multplast/industrial-grease/schemes/zn3000.pdf",
+        "type": "PDF"
       }
     ],
     "image": "assets/multplast/industrial-grease/3000.webp",
     "gallery": [
       "assets/multplast/industrial-grease/3000.webp"
-    ]
+    ],
+    "slug": "ugrease-3000"
   },
   {
     "id": "ugrease-4000",
@@ -8388,20 +7685,21 @@ window.DELTA_PRODUCTS = [
     "description": "Подземный промышленный жироуловитель «Термит» предназначен для предварительной очистки производственных и хозяйственно-бытовых сточных вод от жировых загрязнений. Модель подбирают с учётом расчётного расхода, условий монтажа и требований к очистке.",
     "documents": [
       {
-        "title": "Монтажная схема",
-        "url": "assets/multplast/industrial-grease/schemes/zn4000.pdf",
-        "type": "PDF"
+        "title": "Декларация ЕАЭС на промышленный жироуловитель «Термит» — действует до 28.09.2027",
+        "url": "assets/multplast/grease/certificate.webp",
+        "type": "Документ"
       },
       {
-        "title": "Документ производителя",
-        "url": "assets/multplast/grease/certificate.webp",
-        "type": "Изображение"
+        "title": "Монтажная схема — промышленный жироуловитель «Термит» 4000 л",
+        "url": "assets/multplast/industrial-grease/schemes/zn4000.pdf",
+        "type": "PDF"
       }
     ],
     "image": "assets/multplast/industrial-grease/4000.webp",
     "gallery": [
       "assets/multplast/industrial-grease/4000.webp"
-    ]
+    ],
+    "slug": "ugrease-4000"
   },
   {
     "id": "ugrease-5500",
@@ -8428,20 +7726,21 @@ window.DELTA_PRODUCTS = [
     "description": "Подземный промышленный жироуловитель «Термит» предназначен для предварительной очистки производственных и хозяйственно-бытовых сточных вод от жировых загрязнений. Модель подбирают с учётом расчётного расхода, условий монтажа и требований к очистке.",
     "documents": [
       {
-        "title": "Монтажная схема",
-        "url": "assets/multplast/industrial-grease/schemes/zn5500.pdf",
-        "type": "PDF"
+        "title": "Декларация ЕАЭС на промышленный жироуловитель «Термит» — действует до 28.09.2027",
+        "url": "assets/multplast/grease/certificate.webp",
+        "type": "Документ"
       },
       {
-        "title": "Документ производителя",
-        "url": "assets/multplast/grease/certificate.webp",
-        "type": "Изображение"
+        "title": "Монтажная схема — промышленный жироуловитель «Термит» 5500 л",
+        "url": "assets/multplast/industrial-grease/schemes/zn5500.pdf",
+        "type": "PDF"
       }
     ],
     "image": "assets/multplast/industrial-grease/5500.webp",
     "gallery": [
       "assets/multplast/industrial-grease/5500.webp"
-    ]
+    ],
+    "slug": "ugrease-5500"
   },
   {
     "id": "ugrease-6500",
@@ -8468,20 +7767,21 @@ window.DELTA_PRODUCTS = [
     "description": "Подземный промышленный жироуловитель «Термит» предназначен для предварительной очистки производственных и хозяйственно-бытовых сточных вод от жировых загрязнений. Модель подбирают с учётом расчётного расхода, условий монтажа и требований к очистке.",
     "documents": [
       {
-        "title": "Монтажная схема",
-        "url": "assets/multplast/industrial-grease/schemes/zn6500.pdf",
-        "type": "PDF"
+        "title": "Декларация ЕАЭС на промышленный жироуловитель «Термит» — действует до 28.09.2027",
+        "url": "assets/multplast/grease/certificate.webp",
+        "type": "Документ"
       },
       {
-        "title": "Документ производителя",
-        "url": "assets/multplast/grease/certificate.webp",
-        "type": "Изображение"
+        "title": "Монтажная схема — промышленный жироуловитель «Термит» 6500 л",
+        "url": "assets/multplast/industrial-grease/schemes/zn6500.pdf",
+        "type": "PDF"
       }
     ],
     "image": "assets/multplast/industrial-grease/6500.webp",
     "gallery": [
       "assets/multplast/industrial-grease/6500.webp"
-    ]
+    ],
+    "slug": "ugrease-6500"
   },
   {
     "id": "ugrease-8500",
@@ -8508,20 +7808,21 @@ window.DELTA_PRODUCTS = [
     "description": "Подземный промышленный жироуловитель «Термит» предназначен для предварительной очистки производственных и хозяйственно-бытовых сточных вод от жировых загрязнений. Модель подбирают с учётом расчётного расхода, условий монтажа и требований к очистке.",
     "documents": [
       {
-        "title": "Монтажная схема",
-        "url": "assets/multplast/industrial-grease/schemes/zn8500.pdf",
-        "type": "PDF"
+        "title": "Декларация ЕАЭС на промышленный жироуловитель «Термит» — действует до 28.09.2027",
+        "url": "assets/multplast/grease/certificate.webp",
+        "type": "Документ"
       },
       {
-        "title": "Документ производителя",
-        "url": "assets/multplast/grease/certificate.webp",
-        "type": "Изображение"
+        "title": "Монтажная схема — промышленный жироуловитель «Термит» 8500 л",
+        "url": "assets/multplast/industrial-grease/schemes/zn8500.pdf",
+        "type": "PDF"
       }
     ],
     "image": "assets/multplast/industrial-grease/8500.webp",
     "gallery": [
       "assets/multplast/industrial-grease/8500.webp"
-    ]
+    ],
+    "slug": "ugrease-8500"
   },
   {
     "id": "ugrease-10000",
@@ -8548,15 +7849,16 @@ window.DELTA_PRODUCTS = [
     "description": "Подземный промышленный жироуловитель «Термит» предназначен для предварительной очистки производственных и хозяйственно-бытовых сточных вод от жировых загрязнений. Модель подбирают с учётом расчётного расхода, условий монтажа и требований к очистке.",
     "documents": [
       {
-        "title": "Документ производителя",
+        "title": "Декларация ЕАЭС на промышленный жироуловитель «Термит» — действует до 28.09.2027",
         "url": "assets/multplast/grease/certificate.webp",
-        "type": "Изображение"
+        "type": "Документ"
       }
     ],
     "image": "assets/multplast/industrial-grease/10000.webp",
     "gallery": [
       "assets/multplast/industrial-grease/10000.webp"
-    ]
+    ],
+    "slug": "ugrease-10000"
   },
   {
     "id": "ugrease-15000",
@@ -8583,15 +7885,16 @@ window.DELTA_PRODUCTS = [
     "description": "Подземный промышленный жироуловитель «Термит» предназначен для предварительной очистки производственных и хозяйственно-бытовых сточных вод от жировых загрязнений. Модель подбирают с учётом расчётного расхода, условий монтажа и требований к очистке.",
     "documents": [
       {
-        "title": "Документ производителя",
+        "title": "Декларация ЕАЭС на промышленный жироуловитель «Термит» — действует до 28.09.2027",
         "url": "assets/multplast/grease/certificate.webp",
-        "type": "Изображение"
+        "type": "Документ"
       }
     ],
     "image": "assets/multplast/industrial-grease/15000.webp",
     "gallery": [
       "assets/multplast/industrial-grease/15000.webp"
-    ]
+    ],
+    "slug": "ugrease-15000"
   },
   {
     "id": "ugrease-20000",
@@ -8616,17 +7919,12 @@ window.DELTA_PRODUCTS = [
     },
     "popular": false,
     "description": "Подземный промышленный жироуловитель «Термит» предназначен для предварительной очистки производственных и хозяйственно-бытовых сточных вод от жировых загрязнений. Модель подбирают с учётом расчётного расхода, условий монтажа и требований к очистке.",
-    "documents": [
-      {
-        "title": "Документ производителя",
-        "url": "assets/multplast/grease/certificate.webp",
-        "type": "Изображение"
-      }
-    ],
+    "documents": [],
     "image": "assets/multplast/industrial-grease/20000.webp",
     "gallery": [
       "assets/multplast/industrial-grease/20000.webp"
-    ]
+    ],
+    "slug": "ugrease-20000"
   },
   {
     "id": "ugrease-25000",
@@ -8651,17 +7949,12 @@ window.DELTA_PRODUCTS = [
     },
     "popular": false,
     "description": "Подземный промышленный жироуловитель «Термит» предназначен для предварительной очистки производственных и хозяйственно-бытовых сточных вод от жировых загрязнений. Модель подбирают с учётом расчётного расхода, условий монтажа и требований к очистке.",
-    "documents": [
-      {
-        "title": "Документ производителя",
-        "url": "assets/multplast/grease/certificate.webp",
-        "type": "Изображение"
-      }
-    ],
+    "documents": [],
     "image": "assets/multplast/industrial-grease/25000.webp",
     "gallery": [
       "assets/multplast/industrial-grease/25000.webp"
-    ]
+    ],
+    "slug": "ugrease-25000"
   },
   {
     "id": "ugrease-30000",
@@ -8686,17 +7979,12 @@ window.DELTA_PRODUCTS = [
     },
     "popular": false,
     "description": "Подземный промышленный жироуловитель «Термит» предназначен для предварительной очистки производственных и хозяйственно-бытовых сточных вод от жировых загрязнений. Модель подбирают с учётом расчётного расхода, условий монтажа и требований к очистке.",
-    "documents": [
-      {
-        "title": "Документ производителя",
-        "url": "assets/multplast/grease/certificate.webp",
-        "type": "Изображение"
-      }
-    ],
+    "documents": [],
     "image": "assets/multplast/industrial-grease/30000.webp",
     "gallery": [
       "assets/multplast/industrial-grease/30000.webp"
-    ]
+    ],
+    "slug": "ugrease-30000"
   },
   {
     "id": "ugrease-35000",
@@ -8721,17 +8009,12 @@ window.DELTA_PRODUCTS = [
     },
     "popular": false,
     "description": "Подземный промышленный жироуловитель «Термит» предназначен для предварительной очистки производственных и хозяйственно-бытовых сточных вод от жировых загрязнений. Модель подбирают с учётом расчётного расхода, условий монтажа и требований к очистке.",
-    "documents": [
-      {
-        "title": "Документ производителя",
-        "url": "assets/multplast/grease/certificate.webp",
-        "type": "Изображение"
-      }
-    ],
+    "documents": [],
     "image": "assets/multplast/industrial-grease/35000.webp",
     "gallery": [
       "assets/multplast/industrial-grease/35000.webp"
-    ]
+    ],
+    "slug": "ugrease-35000"
   },
   {
     "id": "ugrease-40000",
@@ -8756,17 +8039,12 @@ window.DELTA_PRODUCTS = [
     },
     "popular": false,
     "description": "Подземный промышленный жироуловитель «Термит» предназначен для предварительной очистки производственных и хозяйственно-бытовых сточных вод от жировых загрязнений. Модель подбирают с учётом расчётного расхода, условий монтажа и требований к очистке.",
-    "documents": [
-      {
-        "title": "Документ производителя",
-        "url": "assets/multplast/grease/certificate.webp",
-        "type": "Изображение"
-      }
-    ],
+    "documents": [],
     "image": "assets/multplast/industrial-grease/40000.webp",
     "gallery": [
       "assets/multplast/industrial-grease/40000.webp"
-    ]
+    ],
+    "slug": "ugrease-40000"
   },
   {
     "id": "ugrease-45000",
@@ -8791,17 +8069,12 @@ window.DELTA_PRODUCTS = [
     },
     "popular": false,
     "description": "Подземный промышленный жироуловитель «Термит» предназначен для предварительной очистки производственных и хозяйственно-бытовых сточных вод от жировых загрязнений. Модель подбирают с учётом расчётного расхода, условий монтажа и требований к очистке.",
-    "documents": [
-      {
-        "title": "Документ производителя",
-        "url": "assets/multplast/grease/certificate.webp",
-        "type": "Изображение"
-      }
-    ],
+    "documents": [],
     "image": "assets/multplast/industrial-grease/45000.webp",
     "gallery": [
       "assets/multplast/industrial-grease/45000.webp"
-    ]
+    ],
+    "slug": "ugrease-45000"
   },
   {
     "id": "ugrease-50000",
@@ -8826,17 +8099,12 @@ window.DELTA_PRODUCTS = [
     },
     "popular": false,
     "description": "Подземный промышленный жироуловитель «Термит» предназначен для предварительной очистки производственных и хозяйственно-бытовых сточных вод от жировых загрязнений. Модель подбирают с учётом расчётного расхода, условий монтажа и требований к очистке.",
-    "documents": [
-      {
-        "title": "Документ производителя",
-        "url": "assets/multplast/grease/certificate.webp",
-        "type": "Изображение"
-      }
-    ],
+    "documents": [],
     "image": "assets/multplast/industrial-grease/50000.webp",
     "gallery": [
       "assets/multplast/industrial-grease/50000.webp"
-    ]
+    ],
+    "slug": "ugrease-50000"
   },
   {
     "id": "trash-catcher",
@@ -8852,7 +8120,9 @@ window.DELTA_PRODUCTS = [
     "tags": [],
     "meta": {},
     "popular": false,
-    "gallery": []
+    "gallery": [],
+    "documents": [],
+    "slug": "trash-catcher"
   },
   {
     "id": "grease-stand",
@@ -8868,7 +8138,9 @@ window.DELTA_PRODUCTS = [
     "tags": [],
     "meta": {},
     "popular": false,
-    "gallery": []
+    "gallery": [],
+    "documents": [],
+    "slug": "grease-stand"
   },
   {
     "id": "small-sand-05-25",
@@ -8876,7 +8148,7 @@ window.DELTA_PRODUCTS = [
     "price": 7500,
     "category": "components",
     "collection": "Жироуловители",
-    "subtitle": "Дополнительное оборудование",
+    "subtitle": "Пескоуловитель «Термит» для предварительной очистки стоков; характеристики и применимость модели нужно сверить с актуальным паспортом производителя.",
     "audience": "Для дома и бизнеса",
     "features": [
       "дополнительный элемент системы"
@@ -8884,7 +8156,12 @@ window.DELTA_PRODUCTS = [
     "tags": [],
     "meta": {},
     "popular": false,
-    "gallery": []
+    "gallery": [
+      "assets/termit/sand/0-5-25.webp"
+    ],
+    "documents": [],
+    "image": "assets/termit/sand/0-5-25.webp",
+    "slug": "small-sand-05-25"
   },
   {
     "id": "small-sand-05-40",
@@ -8892,7 +8169,7 @@ window.DELTA_PRODUCTS = [
     "price": 9400,
     "category": "components",
     "collection": "Жироуловители",
-    "subtitle": "Дополнительное оборудование",
+    "subtitle": "Пескоуловитель «Термит» для предварительной очистки стоков; характеристики и применимость модели нужно сверить с актуальным паспортом производителя.",
     "audience": "Для дома и бизнеса",
     "features": [
       "дополнительный элемент системы"
@@ -8900,7 +8177,12 @@ window.DELTA_PRODUCTS = [
     "tags": [],
     "meta": {},
     "popular": false,
-    "gallery": []
+    "gallery": [
+      "assets/termit/sand/0-5-40.webp"
+    ],
+    "documents": [],
+    "image": "assets/termit/sand/0-5-40.webp",
+    "slug": "small-sand-05-40"
   },
   {
     "id": "oil-н5",
@@ -8923,7 +8205,9 @@ window.DELTA_PRODUCTS = [
       "model": "Н5"
     },
     "popular": false,
-    "gallery": []
+    "gallery": [],
+    "documents": [],
+    "slug": "oil-n5"
   },
   {
     "id": "oil-н6",
@@ -8946,7 +8230,9 @@ window.DELTA_PRODUCTS = [
       "model": "Н6"
     },
     "popular": false,
-    "gallery": []
+    "gallery": [],
+    "documents": [],
+    "slug": "oil-n6"
   },
   {
     "id": "oil-н8",
@@ -8969,7 +8255,9 @@ window.DELTA_PRODUCTS = [
       "model": "Н8"
     },
     "popular": false,
-    "gallery": []
+    "gallery": [],
+    "documents": [],
+    "slug": "oil-n8"
   },
   {
     "id": "oil-н10",
@@ -8992,7 +8280,9 @@ window.DELTA_PRODUCTS = [
       "model": "Н10"
     },
     "popular": false,
-    "gallery": []
+    "gallery": [],
+    "documents": [],
+    "slug": "oil-n10"
   },
   {
     "id": "oil-н12",
@@ -9015,7 +8305,9 @@ window.DELTA_PRODUCTS = [
       "model": "Н12"
     },
     "popular": false,
-    "gallery": []
+    "gallery": [],
+    "documents": [],
+    "slug": "oil-n12"
   },
   {
     "id": "oil-н15",
@@ -9038,7 +8330,9 @@ window.DELTA_PRODUCTS = [
       "model": "Н15"
     },
     "popular": false,
-    "gallery": []
+    "gallery": [],
+    "documents": [],
+    "slug": "oil-n15"
   },
   {
     "id": "oil-н20",
@@ -9061,7 +8355,9 @@ window.DELTA_PRODUCTS = [
       "model": "Н20"
     },
     "popular": false,
-    "gallery": []
+    "gallery": [],
+    "documents": [],
+    "slug": "oil-n20"
   },
   {
     "id": "oil-н25",
@@ -9084,7 +8380,9 @@ window.DELTA_PRODUCTS = [
       "model": "Н25"
     },
     "popular": false,
-    "gallery": []
+    "gallery": [],
+    "documents": [],
+    "slug": "oil-n25"
   },
   {
     "id": "oil-н30",
@@ -9107,7 +8405,9 @@ window.DELTA_PRODUCTS = [
       "model": "Н30"
     },
     "popular": false,
-    "gallery": []
+    "gallery": [],
+    "documents": [],
+    "slug": "oil-n30"
   },
   {
     "id": "oil-н40",
@@ -9130,7 +8430,9 @@ window.DELTA_PRODUCTS = [
       "model": "Н40"
     },
     "popular": false,
-    "gallery": []
+    "gallery": [],
+    "documents": [],
+    "slug": "oil-n40"
   },
   {
     "id": "oil-н50",
@@ -9153,7 +8455,9 @@ window.DELTA_PRODUCTS = [
       "model": "Н50"
     },
     "popular": false,
-    "gallery": []
+    "gallery": [],
+    "documents": [],
+    "slug": "oil-n50"
   },
   {
     "id": "oil-н60",
@@ -9176,7 +8480,9 @@ window.DELTA_PRODUCTS = [
       "model": "Н60"
     },
     "popular": false,
-    "gallery": []
+    "gallery": [],
+    "documents": [],
+    "slug": "oil-n60"
   },
   {
     "id": "oil-н70",
@@ -9199,7 +8505,9 @@ window.DELTA_PRODUCTS = [
       "model": "Н70"
     },
     "popular": false,
-    "gallery": []
+    "gallery": [],
+    "documents": [],
+    "slug": "oil-n70"
   },
   {
     "id": "oil-н80",
@@ -9222,7 +8530,9 @@ window.DELTA_PRODUCTS = [
       "model": "Н80"
     },
     "popular": false,
-    "gallery": []
+    "gallery": [],
+    "documents": [],
+    "slug": "oil-n80"
   },
   {
     "id": "oil-н90",
@@ -9245,7 +8555,9 @@ window.DELTA_PRODUCTS = [
       "model": "Н90"
     },
     "popular": false,
-    "gallery": []
+    "gallery": [],
+    "documents": [],
+    "slug": "oil-n90"
   },
   {
     "id": "oil-н100",
@@ -9268,7 +8580,9 @@ window.DELTA_PRODUCTS = [
       "model": "Н100"
     },
     "popular": false,
-    "gallery": []
+    "gallery": [],
+    "documents": [],
+    "slug": "oil-n100"
   },
   {
     "id": "kns-40",
@@ -9297,7 +8611,9 @@ window.DELTA_PRODUCTS = [
     "gallery": [
       "assets/termit/kns/kns-40-1.webp",
       "assets/termit/kns/kns-40-2.webp"
-    ]
+    ],
+    "documents": [],
+    "slug": "kns-40"
   },
   {
     "id": "sorb-с10",
@@ -9323,7 +8639,9 @@ window.DELTA_PRODUCTS = [
     },
     "popular": false,
     "description": "Сорбционный фильтр предназначен для дополнительной очистки воды от загрязнений с помощью сорбционной загрузки. В зависимости от задачи применяются активированный уголь, природный цеолит и другие сорбенты.",
-    "gallery": []
+    "gallery": [],
+    "documents": [],
+    "slug": "sorb-s10"
   },
   {
     "id": "sorb-с15",
@@ -9349,7 +8667,9 @@ window.DELTA_PRODUCTS = [
     },
     "popular": false,
     "description": "Сорбционный фильтр предназначен для дополнительной очистки воды от загрязнений с помощью сорбционной загрузки. В зависимости от задачи применяются активированный уголь, природный цеолит и другие сорбенты.",
-    "gallery": []
+    "gallery": [],
+    "documents": [],
+    "slug": "sorb-s15"
   },
   {
     "id": "sorb-с20",
@@ -9379,7 +8699,9 @@ window.DELTA_PRODUCTS = [
     "gallery": [
       "assets/termit/sorption/с20-1.webp",
       "assets/termit/sorption/с20-2.webp"
-    ]
+    ],
+    "documents": [],
+    "slug": "sorb-s20"
   },
   {
     "id": "sorb-с30",
@@ -9409,7 +8731,9 @@ window.DELTA_PRODUCTS = [
     "gallery": [
       "assets/termit/sorption/с30-1.webp",
       "assets/termit/sorption/с30-2.webp"
-    ]
+    ],
+    "documents": [],
+    "slug": "sorb-s30"
   },
   {
     "id": "sorb-с40",
@@ -9439,7 +8763,9 @@ window.DELTA_PRODUCTS = [
     "gallery": [
       "assets/termit/sorption/с40-1.webp",
       "assets/termit/sorption/с40-2.webp"
-    ]
+    ],
+    "documents": [],
+    "slug": "sorb-s40"
   },
   {
     "id": "sorb-с50",
@@ -9469,7 +8795,9 @@ window.DELTA_PRODUCTS = [
     "gallery": [
       "assets/termit/sorption/с50-1.webp",
       "assets/termit/sorption/с50-2.webp"
-    ]
+    ],
+    "documents": [],
+    "slug": "sorb-s50"
   },
   {
     "id": "sorb-с60",
@@ -9499,7 +8827,9 @@ window.DELTA_PRODUCTS = [
     "gallery": [
       "assets/termit/sorption/с60-1.webp",
       "assets/termit/sorption/с60-2.webp"
-    ]
+    ],
+    "documents": [],
+    "slug": "sorb-s60"
   },
   {
     "id": "sorb-с70",
@@ -9529,7 +8859,9 @@ window.DELTA_PRODUCTS = [
     "gallery": [
       "assets/termit/sorption/с70-1.webp",
       "assets/termit/sorption/с70-2.webp"
-    ]
+    ],
+    "documents": [],
+    "slug": "sorb-s70"
   },
   {
     "id": "sorb-с80",
@@ -9559,7 +8891,9 @@ window.DELTA_PRODUCTS = [
     "gallery": [
       "assets/termit/sorption/с80-1.webp",
       "assets/termit/sorption/с80-2.webp"
-    ]
+    ],
+    "documents": [],
+    "slug": "sorb-s80"
   },
   {
     "id": "sorb-с90",
@@ -9589,7 +8923,9 @@ window.DELTA_PRODUCTS = [
     "gallery": [
       "assets/termit/sorption/с90-1.webp",
       "assets/termit/sorption/с90-2.webp"
-    ]
+    ],
+    "documents": [],
+    "slug": "sorb-s90"
   },
   {
     "id": "sorb-с100",
@@ -9619,15 +8955,17 @@ window.DELTA_PRODUCTS = [
     "gallery": [
       "assets/termit/sorption/с100-1.webp",
       "assets/termit/sorption/с100-2.webp"
-    ]
+    ],
+    "documents": [],
+    "slug": "sorb-s100"
   },
   {
     "id": "los-8",
     "name": "Модуль ЛОС 8",
     "price": 606400,
     "category": "rain",
-    "collection": "Ливневые очистные сооружения",
-    "subtitle": "Система очистки ливневого стока",
+    "collection": "Модули ЛОС",
+    "subtitle": "Локальное очистное сооружение ЛОС 8",
     "audience": "Для бизнеса и промышленных объектов",
     "features": [
       "для ливневых стоков",
@@ -9635,206 +8973,274 @@ window.DELTA_PRODUCTS = [
       "подбор под объект"
     ],
     "tags": [
-      "ливневые стоки",
-      "B2B"
+      "ЛОС",
+      "очистные сооружения",
+      "для бизнеса"
     ],
     "meta": {
-      "model": "8"
+      "model": "ЛОС 8"
     },
     "popular": false,
-    "gallery": []
+    "gallery": [],
+    "documents": [],
+    "description": "Модуль ЛОС 8 — локальное очистное сооружение для бизнеса и промышленных объектов. Производительность, комплектацию и условия монтажа уточняйте у менеджера при расчёте.",
+    "slug": "los-8"
   },
   {
     "id": "los-15",
     "name": "Модуль ЛОС 15",
-    "price": 992200,
+    "price": null,
     "category": "rain",
-    "collection": "Ливневые очистные сооружения",
-    "subtitle": "Система очистки ливневого стока",
+    "collection": "Модули ЛОС",
+    "subtitle": "Локальное очистное сооружение ЛОС 15",
     "audience": "Для бизнеса и промышленных объектов",
     "features": [
-      "для ливневых стоков",
-      "большой диапазон производительности",
-      "подбор под объект"
+      "Для бизнеса и промышленных объектов",
+      "Подбор модели по производительности",
+      "Параметры и комплектация — по запросу"
     ],
     "tags": [
-      "ливневые стоки",
-      "B2B"
+      "ЛОС",
+      "очистные сооружения",
+      "для бизнеса"
     ],
     "meta": {
-      "model": "15"
+      "model": "ЛОС 15"
     },
     "popular": false,
-    "gallery": []
+    "gallery": [
+      "assets/new-products/los/los-15-1.webp",
+      "assets/new-products/los/los-15-2.webp"
+    ],
+    "description": "В исходном архиве есть изображения внешнего вида и внутреннего устройства этой модели. Производитель и подробные технические характеристики в материалах не указаны; перед заказом уточните параметры, комплектацию и условия монтажа.",
+    "image": "assets/new-products/los/los-15-1.webp",
+    "documents": [],
+    "slug": "los-15"
   },
   {
     "id": "los-20",
     "name": "Модуль ЛОС 20",
-    "price": 1190700,
+    "price": null,
     "category": "rain",
-    "collection": "Ливневые очистные сооружения",
-    "subtitle": "Система очистки ливневого стока",
+    "collection": "Модули ЛОС",
+    "subtitle": "Локальное очистное сооружение ЛОС 20",
     "audience": "Для бизнеса и промышленных объектов",
     "features": [
-      "для ливневых стоков",
-      "большой диапазон производительности",
-      "подбор под объект"
+      "Для бизнеса и промышленных объектов",
+      "Подбор модели по производительности",
+      "Параметры и комплектация — по запросу"
     ],
     "tags": [
-      "ливневые стоки",
-      "B2B"
+      "ЛОС",
+      "очистные сооружения",
+      "для бизнеса"
     ],
     "meta": {
-      "model": "20"
+      "model": "ЛОС 20"
     },
     "popular": false,
-    "gallery": []
+    "gallery": [
+      "assets/new-products/los/los-20-1.webp",
+      "assets/new-products/los/los-20-2.webp"
+    ],
+    "description": "В исходном архиве есть изображения внешнего вида и внутреннего устройства этой модели. Производитель и подробные технические характеристики в материалах не указаны; перед заказом уточните параметры, комплектацию и условия монтажа.",
+    "image": "assets/new-products/los/los-20-1.webp",
+    "documents": [],
+    "slug": "los-20"
   },
   {
     "id": "los-25",
     "name": "Модуль ЛОС 25",
-    "price": 1521400,
+    "price": null,
     "category": "rain",
-    "collection": "Ливневые очистные сооружения",
-    "subtitle": "Система очистки ливневого стока",
+    "collection": "Модули ЛОС",
+    "subtitle": "Локальное очистное сооружение ЛОС 25",
     "audience": "Для бизнеса и промышленных объектов",
     "features": [
-      "для ливневых стоков",
-      "большой диапазон производительности",
-      "подбор под объект"
+      "Для бизнеса и промышленных объектов",
+      "Подбор модели по производительности",
+      "Параметры и комплектация — по запросу"
     ],
     "tags": [
-      "ливневые стоки",
-      "B2B"
+      "ЛОС",
+      "очистные сооружения",
+      "для бизнеса"
     ],
     "meta": {
-      "model": "25"
+      "model": "ЛОС 25"
     },
     "popular": false,
-    "gallery": []
+    "gallery": [
+      "assets/new-products/los/los-25-1.webp",
+      "assets/new-products/los/los-25-2.webp"
+    ],
+    "description": "В исходном архиве есть изображения внешнего вида и внутреннего устройства этой модели. Производитель и подробные технические характеристики в материалах не указаны; перед заказом уточните параметры, комплектацию и условия монтажа.",
+    "image": "assets/new-products/los/los-25-1.webp",
+    "documents": [],
+    "slug": "los-25"
   },
   {
     "id": "los-30",
     "name": "Модуль ЛОС 30",
-    "price": 1708800,
+    "price": null,
     "category": "rain",
-    "collection": "Ливневые очистные сооружения",
-    "subtitle": "Система очистки ливневого стока",
+    "collection": "Модули ЛОС",
+    "subtitle": "Локальное очистное сооружение ЛОС 30",
     "audience": "Для бизнеса и промышленных объектов",
     "features": [
-      "для ливневых стоков",
-      "большой диапазон производительности",
-      "подбор под объект"
+      "Для бизнеса и промышленных объектов",
+      "Подбор модели по производительности",
+      "Параметры и комплектация — по запросу"
     ],
     "tags": [
-      "ливневые стоки",
-      "B2B"
+      "ЛОС",
+      "очистные сооружения",
+      "для бизнеса"
     ],
     "meta": {
-      "model": "30"
+      "model": "ЛОС 30"
     },
     "popular": false,
-    "gallery": []
+    "gallery": [
+      "assets/new-products/los/los-30-1.webp",
+      "assets/new-products/los/los-30-2.webp"
+    ],
+    "description": "В исходном архиве есть изображения внешнего вида и внутреннего устройства этой модели. Производитель и подробные технические характеристики в материалах не указаны; перед заказом уточните параметры, комплектацию и условия монтажа.",
+    "image": "assets/new-products/los/los-30-1.webp",
+    "documents": [],
+    "slug": "los-30"
   },
   {
     "id": "los-35",
     "name": "Модуль ЛОС 35",
-    "price": 1929400,
+    "price": null,
     "category": "rain",
-    "collection": "Ливневые очистные сооружения",
-    "subtitle": "Система очистки ливневого стока",
+    "collection": "Модули ЛОС",
+    "subtitle": "Локальное очистное сооружение ЛОС 35",
     "audience": "Для бизнеса и промышленных объектов",
     "features": [
-      "для ливневых стоков",
-      "большой диапазон производительности",
-      "подбор под объект"
+      "Для бизнеса и промышленных объектов",
+      "Подбор модели по производительности",
+      "Параметры и комплектация — по запросу"
     ],
     "tags": [
-      "ливневые стоки",
-      "B2B"
+      "ЛОС",
+      "очистные сооружения",
+      "для бизнеса"
     ],
     "meta": {
-      "model": "35"
+      "model": "ЛОС 35"
     },
     "popular": false,
-    "gallery": []
+    "gallery": [
+      "assets/new-products/los/los-35-1.webp",
+      "assets/new-products/los/los-35-2.webp"
+    ],
+    "description": "В исходном архиве есть изображения внешнего вида и внутреннего устройства этой модели. Производитель и подробные технические характеристики в материалах не указаны; перед заказом уточните параметры, комплектацию и условия монтажа.",
+    "image": "assets/new-products/los/los-35-1.webp",
+    "documents": [],
+    "slug": "los-35"
   },
   {
     "id": "los-40",
     "name": "Модуль ЛОС 40",
-    "price": 2149800,
+    "price": null,
     "category": "rain",
-    "collection": "Ливневые очистные сооружения",
-    "subtitle": "Система очистки ливневого стока",
+    "collection": "Модули ЛОС",
+    "subtitle": "Локальное очистное сооружение ЛОС 40",
     "audience": "Для бизнеса и промышленных объектов",
     "features": [
-      "для ливневых стоков",
-      "большой диапазон производительности",
-      "подбор под объект"
+      "Для бизнеса и промышленных объектов",
+      "Подбор модели по производительности",
+      "Параметры и комплектация — по запросу"
     ],
     "tags": [
-      "ливневые стоки",
-      "B2B"
+      "ЛОС",
+      "очистные сооружения",
+      "для бизнеса"
     ],
     "meta": {
-      "model": "40"
+      "model": "ЛОС 40"
     },
     "popular": false,
-    "gallery": []
+    "gallery": [
+      "assets/new-products/los/los-40-1.webp",
+      "assets/new-products/los/los-40-2.webp"
+    ],
+    "description": "В исходном архиве есть изображения внешнего вида и внутреннего устройства этой модели. Производитель и подробные технические характеристики в материалах не указаны; перед заказом уточните параметры, комплектацию и условия монтажа.",
+    "image": "assets/new-products/los/los-40-1.webp",
+    "documents": [],
+    "slug": "los-40"
   },
   {
     "id": "los-45",
     "name": "Модуль ЛОС 45",
-    "price": 2293200,
+    "price": null,
     "category": "rain",
-    "collection": "Ливневые очистные сооружения",
-    "subtitle": "Система очистки ливневого стока",
+    "collection": "Модули ЛОС",
+    "subtitle": "Локальное очистное сооружение ЛОС 45",
     "audience": "Для бизнеса и промышленных объектов",
     "features": [
-      "для ливневых стоков",
-      "большой диапазон производительности",
-      "подбор под объект"
+      "Для бизнеса и промышленных объектов",
+      "Подбор модели по производительности",
+      "Параметры и комплектация — по запросу"
     ],
     "tags": [
-      "ливневые стоки",
-      "B2B"
+      "ЛОС",
+      "очистные сооружения",
+      "для бизнеса"
     ],
     "meta": {
-      "model": "45"
+      "model": "ЛОС 45"
     },
     "popular": false,
-    "gallery": []
+    "gallery": [
+      "assets/new-products/los/los-45-1.webp",
+      "assets/new-products/los/los-45-2.webp"
+    ],
+    "description": "В исходном архиве есть изображения внешнего вида и внутреннего устройства этой модели. Производитель и подробные технические характеристики в материалах не указаны; перед заказом уточните параметры, комплектацию и условия монтажа.",
+    "image": "assets/new-products/los/los-45-1.webp",
+    "documents": [],
+    "slug": "los-45"
   },
   {
     "id": "los-50",
     "name": "Модуль ЛОС 50",
-    "price": 2405700,
+    "price": null,
     "category": "rain",
-    "collection": "Ливневые очистные сооружения",
-    "subtitle": "Система очистки ливневого стока",
+    "collection": "Модули ЛОС",
+    "subtitle": "Локальное очистное сооружение ЛОС 50",
     "audience": "Для бизнеса и промышленных объектов",
     "features": [
-      "для ливневых стоков",
-      "большой диапазон производительности",
-      "подбор под объект"
+      "Для бизнеса и промышленных объектов",
+      "Подбор модели по производительности",
+      "Параметры и комплектация — по запросу"
     ],
     "tags": [
-      "ливневые стоки",
-      "B2B"
+      "ЛОС",
+      "очистные сооружения",
+      "для бизнеса"
     ],
     "meta": {
-      "model": "50"
+      "model": "ЛОС 50"
     },
     "popular": false,
-    "gallery": []
+    "gallery": [
+      "assets/new-products/los/los-50-1.webp",
+      "assets/new-products/los/los-50-2.webp"
+    ],
+    "description": "В исходном архиве есть изображения внешнего вида и внутреннего устройства этой модели. Производитель и подробные технические характеристики в материалах не указаны; перед заказом уточните параметры, комплектацию и условия монтажа.",
+    "image": "assets/new-products/los/los-50-1.webp",
+    "documents": [],
+    "slug": "los-50"
   },
   {
     "id": "los-60",
     "name": "Модуль ЛОС 60",
     "price": 2701100,
     "category": "rain",
-    "collection": "Ливневые очистные сооружения",
-    "subtitle": "Система очистки ливневого стока",
+    "collection": "Модули ЛОС",
+    "subtitle": "Локальное очистное сооружение ЛОС 60",
     "audience": "Для бизнеса и промышленных объектов",
     "features": [
       "для ливневых стоков",
@@ -9842,22 +9248,26 @@ window.DELTA_PRODUCTS = [
       "подбор под объект"
     ],
     "tags": [
-      "ливневые стоки",
-      "B2B"
+      "ЛОС",
+      "очистные сооружения",
+      "для бизнеса"
     ],
     "meta": {
-      "model": "60"
+      "model": "ЛОС 60"
     },
     "popular": false,
-    "gallery": []
+    "gallery": [],
+    "documents": [],
+    "description": "Модуль ЛОС 60 — локальное очистное сооружение для бизнеса и промышленных объектов. Производительность, комплектацию и условия монтажа уточняйте у менеджера при расчёте.",
+    "slug": "los-60"
   },
   {
     "id": "los-70",
     "name": "Модуль ЛОС 70",
     "price": 2976700,
     "category": "rain",
-    "collection": "Ливневые очистные сооружения",
-    "subtitle": "Система очистки ливневого стока",
+    "collection": "Модули ЛОС",
+    "subtitle": "Локальное очистное сооружение ЛОС 70",
     "audience": "Для бизнеса и промышленных объектов",
     "features": [
       "для ливневых стоков",
@@ -9865,22 +9275,26 @@ window.DELTA_PRODUCTS = [
       "подбор под объект"
     ],
     "tags": [
-      "ливневые стоки",
-      "B2B"
+      "ЛОС",
+      "очистные сооружения",
+      "для бизнеса"
     ],
     "meta": {
-      "model": "70"
+      "model": "ЛОС 70"
     },
     "popular": false,
-    "gallery": []
+    "gallery": [],
+    "documents": [],
+    "description": "Модуль ЛОС 70 — локальное очистное сооружение для бизнеса и промышленных объектов. Производительность, комплектацию и условия монтажа уточняйте у менеджера при расчёте.",
+    "slug": "los-70"
   },
   {
     "id": "los-80",
     "name": "Модуль ЛОС 80",
     "price": 3318500,
     "category": "rain",
-    "collection": "Ливневые очистные сооружения",
-    "subtitle": "Система очистки ливневого стока",
+    "collection": "Модули ЛОС",
+    "subtitle": "Локальное очистное сооружение ЛОС 80",
     "audience": "Для бизнеса и промышленных объектов",
     "features": [
       "для ливневых стоков",
@@ -9888,22 +9302,26 @@ window.DELTA_PRODUCTS = [
       "подбор под объект"
     ],
     "tags": [
-      "ливневые стоки",
-      "B2B"
+      "ЛОС",
+      "очистные сооружения",
+      "для бизнеса"
     ],
     "meta": {
-      "model": "80"
+      "model": "ЛОС 80"
     },
     "popular": false,
-    "gallery": []
+    "gallery": [],
+    "documents": [],
+    "description": "Модуль ЛОС 80 — локальное очистное сооружение для бизнеса и промышленных объектов. Производительность, комплектацию и условия монтажа уточняйте у менеджера при расчёте.",
+    "slug": "los-80"
   },
   {
     "id": "los-90",
     "name": "Модуль ЛОС 90",
     "price": 3638200,
     "category": "rain",
-    "collection": "Ливневые очистные сооружения",
-    "subtitle": "Система очистки ливневого стока",
+    "collection": "Модули ЛОС",
+    "subtitle": "Локальное очистное сооружение ЛОС 90",
     "audience": "Для бизнеса и промышленных объектов",
     "features": [
       "для ливневых стоков",
@@ -9911,22 +9329,26 @@ window.DELTA_PRODUCTS = [
       "подбор под объект"
     ],
     "tags": [
-      "ливневые стоки",
-      "B2B"
+      "ЛОС",
+      "очистные сооружения",
+      "для бизнеса"
     ],
     "meta": {
-      "model": "90"
+      "model": "ЛОС 90"
     },
     "popular": false,
-    "gallery": []
+    "gallery": [],
+    "documents": [],
+    "description": "Модуль ЛОС 90 — локальное очистное сооружение для бизнеса и промышленных объектов. Производительность, комплектацию и условия монтажа уточняйте у менеджера при расчёте.",
+    "slug": "los-90"
   },
   {
     "id": "los-100",
     "name": "Модуль ЛОС 100",
     "price": 3913800,
     "category": "rain",
-    "collection": "Ливневые очистные сооружения",
-    "subtitle": "Система очистки ливневого стока",
+    "collection": "Модули ЛОС",
+    "subtitle": "Локальное очистное сооружение ЛОС 100",
     "audience": "Для бизнеса и промышленных объектов",
     "features": [
       "для ливневых стоков",
@@ -9934,14 +9356,18 @@ window.DELTA_PRODUCTS = [
       "подбор под объект"
     ],
     "tags": [
-      "ливневые стоки",
-      "B2B"
+      "ЛОС",
+      "очистные сооружения",
+      "для бизнеса"
     ],
     "meta": {
-      "model": "100"
+      "model": "ЛОС 100"
     },
     "popular": false,
-    "gallery": []
+    "gallery": [],
+    "documents": [],
+    "description": "Модуль ЛОС 100 — локальное очистное сооружение для бизнеса и промышленных объектов. Производительность, комплектацию и условия монтажа уточняйте у менеджера при расчёте.",
+    "slug": "los-100"
   },
   {
     "id": "aeration-lift",
@@ -9957,14 +9383,16 @@ window.DELTA_PRODUCTS = [
     "tags": [],
     "meta": {},
     "popular": false,
-    "gallery": []
+    "gallery": [],
+    "documents": [],
+    "slug": "aeration-lift"
   },
   {
     "id": "cone-well-15",
-    "name": "Конусный дренажный колодец 1.5 м",
+    "name": "Колодец дренажный конусный Multplast Н 1500",
     "price": 12000,
     "category": "wells",
-    "collection": "Дренажные колодцы",
+    "collection": "Multplast — дренажные колодцы",
     "subtitle": "Для дренажа и доочистки",
     "audience": "Для дома и бизнеса",
     "features": [
@@ -9976,14 +9404,29 @@ window.DELTA_PRODUCTS = [
     "tags": [],
     "meta": {},
     "popular": false,
-    "gallery": []
+    "gallery": [
+      "assets/multplast/wells/drainage-cone-1500.webp"
+    ],
+    "documents": [
+      {
+        "title": "Монтажная схема — дренажный конусный колодец Н 1500",
+        "url": "assets/multplast/wells/schemes/DrainageConeWell1500Installation.pdf",
+        "type": "PDF"
+      }
+    ],
+    "image": "assets/multplast/wells/drainage-cone-1500.webp",
+    "details": {
+      "brand": "Multplast"
+    },
+    "description": "Документация производителя: к этой модели приложена её собственная монтажная схема.",
+    "slug": "cone-well-15"
   },
   {
     "id": "cone-well-2",
-    "name": "Конусный дренажный колодец 2 м",
+    "name": "Колодец дренажный конусный Multplast Н 2000",
     "price": 14600,
     "category": "wells",
-    "collection": "Дренажные колодцы",
+    "collection": "Multplast — дренажные колодцы",
     "subtitle": "Для дренажа и доочистки",
     "audience": "Для дома и бизнеса",
     "features": [
@@ -9995,14 +9438,29 @@ window.DELTA_PRODUCTS = [
     "tags": [],
     "meta": {},
     "popular": false,
-    "gallery": []
+    "gallery": [
+      "assets/multplast/wells/drainage-cone-2000.webp"
+    ],
+    "documents": [
+      {
+        "title": "Монтажная схема — дренажный конусный колодец Н 2000",
+        "url": "assets/multplast/wells/schemes/DrainageConeWell2000Installation.pdf",
+        "type": "PDF"
+      }
+    ],
+    "image": "assets/multplast/wells/drainage-cone-2000.webp",
+    "details": {
+      "brand": "Multplast"
+    },
+    "description": "Документация производителя: к этой модели приложена её собственная монтажная схема.",
+    "slug": "cone-well-2"
   },
   {
     "id": "well-1",
-    "name": "Цельнолитой колодец 1 м",
+    "name": "Цельнолитой колодец Multplast 1 м",
     "price": 13800,
     "category": "wells",
-    "collection": "Цельнолитые колодцы",
+    "collection": "Multplast — цельнолитые колодцы",
     "subtitle": "Для дренажа, ревизии и кабельных коммуникаций",
     "audience": "Для дома и бизнеса",
     "features": [
@@ -10013,14 +9471,29 @@ window.DELTA_PRODUCTS = [
     "tags": [],
     "meta": {},
     "popular": false,
-    "gallery": []
+    "gallery": [
+      "assets/multplast/wells/solid-well-1000.webp"
+    ],
+    "documents": [
+      {
+        "title": "Монтажная схема — цельнолитой колодец 1 м",
+        "url": "assets/multplast/wells/schemes/SolidWell1000Installation.pdf",
+        "type": "PDF"
+      }
+    ],
+    "image": "assets/multplast/wells/solid-well-1000.webp",
+    "details": {
+      "brand": "Multplast"
+    },
+    "description": "Документация производителя: к этой модели приложена её собственная монтажная схема.",
+    "slug": "well-1"
   },
   {
     "id": "well-15",
-    "name": "Цельнолитой колодец 1.5 м",
+    "name": "Цельнолитой колодец Multplast 1,5 м",
     "price": 17300,
     "category": "wells",
-    "collection": "Цельнолитые колодцы",
+    "collection": "Multplast — цельнолитые колодцы",
     "subtitle": "Для дренажа, ревизии и кабельных коммуникаций",
     "audience": "Для дома и бизнеса",
     "features": [
@@ -10031,14 +9504,29 @@ window.DELTA_PRODUCTS = [
     "tags": [],
     "meta": {},
     "popular": false,
-    "gallery": []
+    "gallery": [
+      "assets/multplast/wells/solid-well-1500.webp"
+    ],
+    "documents": [
+      {
+        "title": "Монтажная схема — цельнолитой колодец 1,5 м",
+        "url": "assets/multplast/wells/schemes/SolidWell1500Installation.pdf",
+        "type": "PDF"
+      }
+    ],
+    "image": "assets/multplast/wells/solid-well-1500.webp",
+    "details": {
+      "brand": "Multplast"
+    },
+    "description": "Документация производителя: к этой модели приложена её собственная монтажная схема.",
+    "slug": "well-15"
   },
   {
     "id": "well-2",
-    "name": "Цельнолитой колодец 2 м",
+    "name": "Цельнолитой колодец Multplast 2 м",
     "price": 21400,
     "category": "wells",
-    "collection": "Цельнолитые колодцы",
+    "collection": "Multplast — цельнолитые колодцы",
     "subtitle": "Для дренажа, ревизии и кабельных коммуникаций",
     "audience": "Для дома и бизнеса",
     "features": [
@@ -10049,7 +9537,22 @@ window.DELTA_PRODUCTS = [
     "tags": [],
     "meta": {},
     "popular": false,
-    "gallery": []
+    "gallery": [
+      "assets/multplast/wells/solid-well-2000.webp"
+    ],
+    "documents": [
+      {
+        "title": "Монтажная схема — цельнолитой колодец 2 м",
+        "url": "assets/multplast/wells/schemes/SolidWell2000Installation.pdf",
+        "type": "PDF"
+      }
+    ],
+    "image": "assets/multplast/wells/solid-well-2000.webp",
+    "details": {
+      "brand": "Multplast"
+    },
+    "description": "Документация производителя: к этой модели приложена её собственная монтажная схема.",
+    "slug": "well-2"
   },
   {
     "id": "ergobox-lid-1",
@@ -10065,7 +9568,9 @@ window.DELTA_PRODUCTS = [
     "tags": [],
     "meta": {},
     "popular": false,
-    "gallery": []
+    "gallery": [],
+    "documents": [],
+    "slug": "ergobox-lid-1"
   },
   {
     "id": "ergobox-lid-2",
@@ -10081,7 +9586,9 @@ window.DELTA_PRODUCTS = [
     "tags": [],
     "meta": {},
     "popular": false,
-    "gallery": []
+    "gallery": [],
+    "documents": [],
+    "slug": "ergobox-lid-2"
   },
   {
     "id": "tamir",
@@ -10097,7 +9604,9 @@ window.DELTA_PRODUCTS = [
     "tags": [],
     "meta": {},
     "popular": false,
-    "gallery": []
+    "gallery": [],
+    "documents": [],
+    "slug": "tamir"
   },
   {
     "id": "bioload",
@@ -10113,7 +9622,9 @@ window.DELTA_PRODUCTS = [
     "tags": [],
     "meta": {},
     "popular": false,
-    "gallery": []
+    "gallery": [],
+    "documents": [],
+    "slug": "bioload"
   },
   {
     "id": "aerocomplect",
@@ -10129,7 +9640,9 @@ window.DELTA_PRODUCTS = [
     "tags": [],
     "meta": {},
     "popular": false,
-    "gallery": []
+    "gallery": [],
+    "documents": [],
+    "slug": "aerocomplect"
   },
   {
     "id": "jecod-60",
@@ -10145,7 +9658,9 @@ window.DELTA_PRODUCTS = [
     "tags": [],
     "meta": {},
     "popular": false,
-    "gallery": []
+    "gallery": [],
+    "documents": [],
+    "slug": "jecod-60"
   },
   {
     "id": "jecod-80",
@@ -10161,7 +9676,9 @@ window.DELTA_PRODUCTS = [
     "tags": [],
     "meta": {},
     "popular": false,
-    "gallery": []
+    "gallery": [],
+    "documents": [],
+    "slug": "jecod-80"
   },
   {
     "id": "aerator-260",
@@ -10177,14 +9694,16 @@ window.DELTA_PRODUCTS = [
     "tags": [],
     "meta": {},
     "popular": false,
-    "gallery": []
+    "gallery": [],
+    "documents": [],
+    "slug": "aerator-260"
   },
   {
     "id": "transformer-1-3",
-    "name": "Трансформер 1.3",
+    "name": "Термит Трансформер 1.3",
     "price": 56000,
     "category": "septic",
-    "collection": "Трансформер",
+    "collection": "Термит Трансформер",
     "subtitle": "Септик Трансформер 1.3 для автономной канализации",
     "audience": "Для дома и дачи",
     "features": [
@@ -10192,7 +9711,9 @@ window.DELTA_PRODUCTS = [
       "Песчаная подушка не менее 100 мм",
       "Утепление верхней части корпуса не менее 30 мм",
       "Послойная обратная засыпка ЦПС 1:5",
-      "Заполнение станции водой при обратной засыпке"
+      "Заполнение станции водой при обратной засыпке",
+      "сезонное проживание",
+      "энергонезависимое решение"
     ],
     "tags": [
       "септик",
@@ -10209,43 +9730,38 @@ window.DELTA_PRODUCTS = [
     "image": "assets/transformer/1.3/1.webp",
     "gallery": [
       "assets/transformer/1.3/1.webp",
-      "assets/transformer/1.3/septic2-perspective.466.webp"
+      "assets/transformer/1.3/septic2-perspective.466.webp",
+      "assets/termit/models/termit-transformer/ter1.webp",
+      "assets/termit/models/termit-transformer/ter3.webp",
+      "assets/termit/models/termit-transformer/1.2.webp"
     ],
     "details": {
       "title": "Септик Трансформер 1.3",
       "users_note": "Подбор по условиям участка и нагрузке. Монтаж выполняется по монтажной схеме производителя.",
       "installation": "Край станции — 250 мм от края котлована; песчаная подушка — не менее 100 мм; утепление — не менее 30 мм.",
-      "price_source": "Прайс-лист от 01 июня 2026 г. (розничная цена)"
+      "price_source": "Прайс-лист от 01 июня 2026 г. (розничная цена)",
+      "warranty": "Гарантия производителя — 1 год"
     },
     "documents": [
       {
-        "title": "Монтажная схема Трансформер 1.3",
-        "type": "PDF",
-        "url": "assets/transformer/schemes/1.3S.pdf"
+        "title": "Монтажная схема «Термит Трансформер» 1.3",
+        "url": "assets/transformer/schemes/1.3S.pdf",
+        "type": "PDF"
       },
       {
-        "title": "Сертификат Трансформер",
-        "type": "PDF",
-        "url": "assets/transformer/certificates/st1.pdf"
-      },
-      {
-        "title": "Экспертное заключение",
-        "type": "WEBP",
-        "url": "assets/transformer/certificates/st2.webp"
-      },
-      {
-        "title": "Экспертное заключение 2",
-        "type": "WEBP",
-        "url": "assets/transformer/certificates/st3.webp"
+        "title": "Паспорт септика «Термит Трансформер»",
+        "url": "assets/termit/certificates/transformer-passport.pdf",
+        "type": "PDF"
       }
-    ]
+    ],
+    "slug": "transformer-1-3"
   },
   {
     "id": "transformer-1-5",
-    "name": "Трансформер 1.5",
+    "name": "Термит Трансформер 1.5",
     "price": 62100,
     "category": "septic",
-    "collection": "Трансформер",
+    "collection": "Термит Трансформер",
     "subtitle": "Септик Трансформер 1.5 для автономной канализации",
     "audience": "Для дома и дачи",
     "features": [
@@ -10253,7 +9769,9 @@ window.DELTA_PRODUCTS = [
       "Песчаная подушка не менее 100 мм",
       "Утепление верхней части корпуса не менее 30 мм",
       "Послойная обратная засыпка ЦПС 1:5",
-      "Заполнение станции водой при обратной засыпке"
+      "Заполнение станции водой при обратной засыпке",
+      "сезонное проживание",
+      "энергонезависимое решение"
     ],
     "tags": [
       "септик",
@@ -10270,43 +9788,38 @@ window.DELTA_PRODUCTS = [
     "image": "assets/transformer/1.5/1.webp",
     "gallery": [
       "assets/transformer/1.5/1.webp",
-      "assets/transformer/1.5/4.webp"
+      "assets/transformer/1.5/4.webp",
+      "assets/termit/models/termit-transformer/ter1.webp",
+      "assets/termit/models/termit-transformer/ter3.webp",
+      "assets/termit/models/termit-transformer/1.2.webp"
     ],
     "details": {
       "title": "Септик Трансформер 1.5",
       "users_note": "Подбор по условиям участка и нагрузке. Монтаж выполняется по монтажной схеме производителя.",
       "installation": "Край станции — 250 мм от края котлована; песчаная подушка — не менее 100 мм; утепление — не менее 30 мм.",
-      "price_source": "Прайс-лист от 01 июня 2026 г. (розничная цена)"
+      "price_source": "Прайс-лист от 01 июня 2026 г. (розничная цена)",
+      "warranty": "Гарантия производителя — 1 год"
     },
     "documents": [
       {
-        "title": "Монтажная схема Трансформер 1.5",
-        "type": "PDF",
-        "url": "assets/transformer/schemes/1.5S.pdf"
+        "title": "Монтажная схема «Термит Трансформер» 1.5",
+        "url": "assets/transformer/schemes/1.5S.pdf",
+        "type": "PDF"
       },
       {
-        "title": "Сертификат Трансформер",
-        "type": "PDF",
-        "url": "assets/transformer/certificates/st1.pdf"
-      },
-      {
-        "title": "Экспертное заключение",
-        "type": "WEBP",
-        "url": "assets/transformer/certificates/st2.webp"
-      },
-      {
-        "title": "Экспертное заключение 2",
-        "type": "WEBP",
-        "url": "assets/transformer/certificates/st3.webp"
+        "title": "Паспорт септика «Термит Трансформер»",
+        "url": "assets/termit/certificates/transformer-passport.pdf",
+        "type": "PDF"
       }
-    ]
+    ],
+    "slug": "transformer-1-5"
   },
   {
     "id": "transformer-2-0",
-    "name": "Трансформер 2.0",
+    "name": "Термит Трансформер 2.0",
     "price": 74900,
     "category": "septic",
-    "collection": "Трансформер",
+    "collection": "Термит Трансформер",
     "subtitle": "Септик Трансформер 2.0 для автономной канализации",
     "audience": "Для дома и дачи",
     "features": [
@@ -10314,7 +9827,9 @@ window.DELTA_PRODUCTS = [
       "Песчаная подушка не менее 100 мм",
       "Утепление верхней части корпуса не менее 30 мм",
       "Послойная обратная засыпка ЦПС 1:5",
-      "Заполнение станции водой при обратной засыпке"
+      "Заполнение станции водой при обратной засыпке",
+      "сезонное проживание",
+      "энергонезависимое решение"
     ],
     "tags": [
       "септик",
@@ -10331,43 +9846,38 @@ window.DELTA_PRODUCTS = [
     "image": "assets/transformer/2.0/1.webp",
     "gallery": [
       "assets/transformer/2.0/1.webp",
-      "assets/transformer/2.0/4.webp"
+      "assets/transformer/2.0/4.webp",
+      "assets/termit/models/termit-transformer/ter1.webp",
+      "assets/termit/models/termit-transformer/ter3.webp",
+      "assets/termit/models/termit-transformer/1.2.webp"
     ],
     "details": {
       "title": "Септик Трансформер 2.0",
       "users_note": "Подбор по условиям участка и нагрузке. Монтаж выполняется по монтажной схеме производителя.",
       "installation": "Край станции — 250 мм от края котлована; песчаная подушка — не менее 100 мм; утепление — не менее 30 мм.",
-      "price_source": "Прайс-лист от 01 июня 2026 г. (розничная цена)"
+      "price_source": "Прайс-лист от 01 июня 2026 г. (розничная цена)",
+      "warranty": "Гарантия производителя — 1 год"
     },
     "documents": [
       {
-        "title": "Монтажная схема Трансформер 2.0",
-        "type": "PDF",
-        "url": "assets/transformer/schemes/2.0S.pdf"
+        "title": "Монтажная схема «Термит Трансформер» 2.0",
+        "url": "assets/transformer/schemes/2.0S.pdf",
+        "type": "PDF"
       },
       {
-        "title": "Сертификат Трансформер",
-        "type": "PDF",
-        "url": "assets/transformer/certificates/st1.pdf"
-      },
-      {
-        "title": "Экспертное заключение",
-        "type": "WEBP",
-        "url": "assets/transformer/certificates/st2.webp"
-      },
-      {
-        "title": "Экспертное заключение 2",
-        "type": "WEBP",
-        "url": "assets/transformer/certificates/st3.webp"
+        "title": "Паспорт септика «Термит Трансформер»",
+        "url": "assets/termit/certificates/transformer-passport.pdf",
+        "type": "PDF"
       }
-    ]
+    ],
+    "slug": "transformer-2-0"
   },
   {
     "id": "transformer-2-5",
-    "name": "Трансформер 2.5",
+    "name": "Термит Трансформер 2.5",
     "price": 85600,
     "category": "septic",
-    "collection": "Трансформер",
+    "collection": "Термит Трансформер",
     "subtitle": "Септик Трансформер 2.5 для автономной канализации",
     "audience": "Для дома и дачи",
     "features": [
@@ -10375,7 +9885,9 @@ window.DELTA_PRODUCTS = [
       "Песчаная подушка не менее 100 мм",
       "Утепление верхней части корпуса не менее 30 мм",
       "Послойная обратная засыпка ЦПС 1:5",
-      "Заполнение станции водой при обратной засыпке"
+      "Заполнение станции водой при обратной засыпке",
+      "сезонное проживание",
+      "энергонезависимое решение"
     ],
     "tags": [
       "септик",
@@ -10392,43 +9904,38 @@ window.DELTA_PRODUCTS = [
     "image": "assets/transformer/2.5/1.webp",
     "gallery": [
       "assets/transformer/2.5/1.webp",
-      "assets/transformer/2.5/4.webp"
+      "assets/transformer/2.5/4.webp",
+      "assets/termit/models/termit-transformer/ter1.webp",
+      "assets/termit/models/termit-transformer/ter3.webp",
+      "assets/termit/models/termit-transformer/1.2.webp"
     ],
     "details": {
       "title": "Септик Трансформер 2.5",
       "users_note": "Подбор по условиям участка и нагрузке. Монтаж выполняется по монтажной схеме производителя.",
       "installation": "Край станции — 250 мм от края котлована; песчаная подушка — не менее 100 мм; утепление — не менее 30 мм.",
-      "price_source": "Прайс-лист от 01 июня 2026 г. (розничная цена)"
+      "price_source": "Прайс-лист от 01 июня 2026 г. (розничная цена)",
+      "warranty": "Гарантия производителя — 1 год"
     },
     "documents": [
       {
-        "title": "Монтажная схема Трансформер 2.5",
-        "type": "PDF",
-        "url": "assets/transformer/schemes/2.5S.pdf"
+        "title": "Монтажная схема «Термит Трансформер» 2.5",
+        "url": "assets/transformer/schemes/2.5S.pdf",
+        "type": "PDF"
       },
       {
-        "title": "Сертификат Трансформер",
-        "type": "PDF",
-        "url": "assets/transformer/certificates/st1.pdf"
-      },
-      {
-        "title": "Экспертное заключение",
-        "type": "WEBP",
-        "url": "assets/transformer/certificates/st2.webp"
-      },
-      {
-        "title": "Экспертное заключение 2",
-        "type": "WEBP",
-        "url": "assets/transformer/certificates/st3.webp"
+        "title": "Паспорт септика «Термит Трансформер»",
+        "url": "assets/termit/certificates/transformer-passport.pdf",
+        "type": "PDF"
       }
-    ]
+    ],
+    "slug": "transformer-2-5"
   },
   {
     "id": "transformer-3-0",
-    "name": "Трансформер 3.0",
+    "name": "Термит Трансформер 3.0",
     "price": 99000,
     "category": "septic",
-    "collection": "Трансформер",
+    "collection": "Термит Трансформер",
     "subtitle": "Септик Трансформер 3.0 для автономной канализации",
     "audience": "Для дома и дачи",
     "features": [
@@ -10436,7 +9943,9 @@ window.DELTA_PRODUCTS = [
       "Песчаная подушка не менее 100 мм",
       "Утепление верхней части корпуса не менее 30 мм",
       "Послойная обратная засыпка ЦПС 1:5",
-      "Заполнение станции водой при обратной засыпке"
+      "Заполнение станции водой при обратной засыпке",
+      "сезонное проживание",
+      "энергонезависимое решение"
     ],
     "tags": [
       "септик",
@@ -10453,36 +9962,31 @@ window.DELTA_PRODUCTS = [
     "image": "assets/transformer/3/1.webp",
     "gallery": [
       "assets/transformer/3/1.webp",
-      "assets/transformer/3/4.webp"
+      "assets/transformer/3/4.webp",
+      "assets/termit/models/termit-transformer/ter1.webp",
+      "assets/termit/models/termit-transformer/ter3.webp",
+      "assets/termit/models/termit-transformer/1.2.webp"
     ],
     "details": {
       "title": "Септик Трансформер 3.0",
       "users_note": "Подбор по условиям участка и нагрузке. Монтаж выполняется по монтажной схеме производителя.",
       "installation": "Край станции — 250 мм от края котлована; песчаная подушка — не менее 100 мм; утепление — не менее 30 мм.",
-      "price_source": "Прайс-лист от 01 июня 2026 г. (розничная цена)"
+      "price_source": "Прайс-лист от 01 июня 2026 г. (розничная цена)",
+      "warranty": "Гарантия производителя — 1 год"
     },
     "documents": [
       {
-        "title": "Монтажная схема Трансформер 3.0",
-        "type": "PDF",
-        "url": "assets/transformer/schemes/3.0S.pdf"
+        "title": "Монтажная схема «Термит Трансформер» 3.0",
+        "url": "assets/transformer/schemes/3.0S.pdf",
+        "type": "PDF"
       },
       {
-        "title": "Сертификат Трансформер",
-        "type": "PDF",
-        "url": "assets/transformer/certificates/st1.pdf"
-      },
-      {
-        "title": "Экспертное заключение",
-        "type": "WEBP",
-        "url": "assets/transformer/certificates/st2.webp"
-      },
-      {
-        "title": "Экспертное заключение 2",
-        "type": "WEBP",
-        "url": "assets/transformer/certificates/st3.webp"
+        "title": "Паспорт септика «Термит Трансформер»",
+        "url": "assets/termit/certificates/transformer-passport.pdf",
+        "type": "PDF"
       }
-    ]
+    ],
+    "slug": "transformer-3-0"
   },
   {
     "id": "module-m-15",
@@ -10524,26 +10028,12 @@ window.DELTA_PRODUCTS = [
     },
     "documents": [
       {
-        "title": "Монтажная схема Модуль М 15",
-        "type": "PDF",
-        "url": "assets/module-m/15.pdf"
-      },
-      {
-        "title": "Экспертное заключение Модуль М",
-        "type": "WEBP",
-        "url": "assets/module-m/certificates/st3.webp"
-      },
-      {
-        "title": "Сертификат Модуль М",
-        "type": "WEBP",
-        "url": "assets/module-m/certificates/st2.webp"
-      },
-      {
-        "title": "Декларация Модуль М",
-        "type": "WEBP",
-        "url": "assets/module-m/certificates/st1.webp"
+        "title": "Монтажная схема — «Модуль М» 15",
+        "url": "assets/module-m/15.pdf",
+        "type": "PDF"
       }
-    ]
+    ],
+    "slug": "module-m-15"
   },
   {
     "id": "module-m-20",
@@ -10585,26 +10075,12 @@ window.DELTA_PRODUCTS = [
     },
     "documents": [
       {
-        "title": "Монтажная схема Модуль М 20",
-        "type": "PDF",
-        "url": "assets/module-m/20.pdf"
-      },
-      {
-        "title": "Экспертное заключение Модуль М",
-        "type": "WEBP",
-        "url": "assets/module-m/certificates/st3.webp"
-      },
-      {
-        "title": "Сертификат Модуль М",
-        "type": "WEBP",
-        "url": "assets/module-m/certificates/st2.webp"
-      },
-      {
-        "title": "Декларация Модуль М",
-        "type": "WEBP",
-        "url": "assets/module-m/certificates/st1.webp"
+        "title": "Монтажная схема — «Модуль М» 20",
+        "url": "assets/module-m/20.pdf",
+        "type": "PDF"
       }
-    ]
+    ],
+    "slug": "module-m-20"
   },
   {
     "id": "module-m-25",
@@ -10646,26 +10122,12 @@ window.DELTA_PRODUCTS = [
     },
     "documents": [
       {
-        "title": "Монтажная схема Модуль М 25",
-        "type": "PDF",
-        "url": "assets/module-m/25.pdf"
-      },
-      {
-        "title": "Экспертное заключение Модуль М",
-        "type": "WEBP",
-        "url": "assets/module-m/certificates/st3.webp"
-      },
-      {
-        "title": "Сертификат Модуль М",
-        "type": "WEBP",
-        "url": "assets/module-m/certificates/st2.webp"
-      },
-      {
-        "title": "Декларация Модуль М",
-        "type": "WEBP",
-        "url": "assets/module-m/certificates/st1.webp"
+        "title": "Монтажная схема — «Модуль М» 25",
+        "url": "assets/module-m/25.pdf",
+        "type": "PDF"
       }
-    ]
+    ],
+    "slug": "module-m-25"
   },
   {
     "id": "module-m-30",
@@ -10707,26 +10169,12 @@ window.DELTA_PRODUCTS = [
     },
     "documents": [
       {
-        "title": "Монтажная схема Модуль М 30",
-        "type": "PDF",
-        "url": "assets/module-m/30.pdf"
-      },
-      {
-        "title": "Экспертное заключение Модуль М",
-        "type": "WEBP",
-        "url": "assets/module-m/certificates/st3.webp"
-      },
-      {
-        "title": "Сертификат Модуль М",
-        "type": "WEBP",
-        "url": "assets/module-m/certificates/st2.webp"
-      },
-      {
-        "title": "Декларация Модуль М",
-        "type": "WEBP",
-        "url": "assets/module-m/certificates/st1.webp"
+        "title": "Монтажная схема — «Модуль М» 30",
+        "url": "assets/module-m/30.pdf",
+        "type": "PDF"
       }
-    ]
+    ],
+    "slug": "module-m-30"
   },
   {
     "id": "module-m-35",
@@ -10768,26 +10216,12 @@ window.DELTA_PRODUCTS = [
     },
     "documents": [
       {
-        "title": "Монтажная схема Модуль М 35",
-        "type": "PDF",
-        "url": "assets/module-m/35.pdf"
-      },
-      {
-        "title": "Экспертное заключение Модуль М",
-        "type": "WEBP",
-        "url": "assets/module-m/certificates/st3.webp"
-      },
-      {
-        "title": "Сертификат Модуль М",
-        "type": "WEBP",
-        "url": "assets/module-m/certificates/st2.webp"
-      },
-      {
-        "title": "Декларация Модуль М",
-        "type": "WEBP",
-        "url": "assets/module-m/certificates/st1.webp"
+        "title": "Монтажная схема — «Модуль М» 35",
+        "url": "assets/module-m/35.pdf",
+        "type": "PDF"
       }
-    ]
+    ],
+    "slug": "module-m-35"
   },
   {
     "id": "module-m-40",
@@ -10828,26 +10262,12 @@ window.DELTA_PRODUCTS = [
     },
     "documents": [
       {
-        "title": "Монтажная схема Модуль М 40",
-        "type": "PDF",
-        "url": "assets/module-m/40.pdf"
-      },
-      {
-        "title": "Экспертное заключение Модуль М",
-        "type": "WEBP",
-        "url": "assets/module-m/certificates/st3.webp"
-      },
-      {
-        "title": "Сертификат Модуль М",
-        "type": "WEBP",
-        "url": "assets/module-m/certificates/st2.webp"
-      },
-      {
-        "title": "Декларация Модуль М",
-        "type": "WEBP",
-        "url": "assets/module-m/certificates/st1.webp"
+        "title": "Монтажная схема — «Модуль М» 40",
+        "url": "assets/module-m/40.pdf",
+        "type": "PDF"
       }
-    ]
+    ],
+    "slug": "module-m-40"
   },
   {
     "id": "module-m-45",
@@ -10888,26 +10308,12 @@ window.DELTA_PRODUCTS = [
     },
     "documents": [
       {
-        "title": "Монтажная схема Модуль М 45",
-        "type": "PDF",
-        "url": "assets/module-m/45.pdf"
-      },
-      {
-        "title": "Экспертное заключение Модуль М",
-        "type": "WEBP",
-        "url": "assets/module-m/certificates/st3.webp"
-      },
-      {
-        "title": "Сертификат Модуль М",
-        "type": "WEBP",
-        "url": "assets/module-m/certificates/st2.webp"
-      },
-      {
-        "title": "Декларация Модуль М",
-        "type": "WEBP",
-        "url": "assets/module-m/certificates/st1.webp"
+        "title": "Монтажная схема — «Модуль М» 45",
+        "url": "assets/module-m/45.pdf",
+        "type": "PDF"
       }
-    ]
+    ],
+    "slug": "module-m-45"
   },
   {
     "id": "module-m-50",
@@ -10948,26 +10354,12 @@ window.DELTA_PRODUCTS = [
     },
     "documents": [
       {
-        "title": "Монтажная схема Модуль М 50",
-        "type": "PDF",
-        "url": "assets/module-m/50.pdf"
-      },
-      {
-        "title": "Экспертное заключение Модуль М",
-        "type": "WEBP",
-        "url": "assets/module-m/certificates/st3.webp"
-      },
-      {
-        "title": "Сертификат Модуль М",
-        "type": "WEBP",
-        "url": "assets/module-m/certificates/st2.webp"
-      },
-      {
-        "title": "Декларация Модуль М",
-        "type": "WEBP",
-        "url": "assets/module-m/certificates/st1.webp"
+        "title": "Монтажная схема — «Модуль М» 50",
+        "url": "assets/module-m/50.pdf",
+        "type": "PDF"
       }
-    ]
+    ],
+    "slug": "module-m-50"
   },
   {
     "id": "sand-05-25",
@@ -10991,21 +10383,17 @@ window.DELTA_PRODUCTS = [
     ],
     "documents": [
       {
-        "title": "Сертификат / документ 1",
-        "url": "assets/termit/certificates/grease-sand-1.webp",
-        "type": "Изображение"
+        "title": "Архивное экспертное заключение на пескоуловитель «Термит» — актуальность подтвердить",
+        "url": "assets/certificates/TermitSandSeparatorExpertOpinion.pdf",
+        "type": "PDF"
       },
       {
-        "title": "Сертификат / документ 2",
-        "url": "assets/termit/certificates/grease-sand-2.webp",
-        "type": "Изображение"
-      },
-      {
-        "title": "Сертификат / документ 3",
-        "url": "assets/termit/certificates/grease-sand-3.webp",
-        "type": "Изображение"
+        "title": "Архивный протокол испытаний пескоуловителя — не является сертификатом",
+        "url": "assets/certificates/SandSeparatorTestReport.pdf",
+        "type": "PDF"
       }
-    ]
+    ],
+    "slug": "sand-05-25"
   },
   {
     "id": "sand-05-40",
@@ -11030,20 +10418,25 @@ window.DELTA_PRODUCTS = [
     ],
     "documents": [
       {
-        "title": "Сертификат / документ 1",
-        "url": "assets/termit/certificates/grease-sand-1.webp",
-        "type": "Изображение"
+        "title": "Архивное экспертное заключение на пескоуловитель «Термит» — актуальность подтвердить",
+        "url": "assets/certificates/TermitSandSeparatorExpertOpinion.pdf",
+        "type": "PDF"
       },
       {
-        "title": "Сертификат / документ 2",
-        "url": "assets/termit/certificates/grease-sand-2.webp",
-        "type": "Изображение"
-      },
-      {
-        "title": "Сертификат / документ 3",
-        "url": "assets/termit/certificates/grease-sand-3.webp",
-        "type": "Изображение"
+        "title": "Архивный протокол испытаний пескоуловителя — не является сертификатом",
+        "url": "assets/certificates/SandSeparatorTestReport.pdf",
+        "type": "PDF"
       }
-    ]
+    ],
+    "slug": "sand-05-40"
   }
 ];
+
+// Старые идентификаторы -> актуальные (для редиректов со старых ссылок product.html?id=...)
+window.DELTA_ID_ALIASES = {
+  "transformer-1.3": "transformer-1-3",
+  "transformer-1.5": "transformer-1-5",
+  "transformer-2.0": "transformer-2-0",
+  "transformer-2.5": "transformer-2-5",
+  "transformer-3.0": "transformer-3-0"
+};

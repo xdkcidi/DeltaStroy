@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /pages/product.html
+Disallow: /tools/
+
+Sitemap: https://REPLACE-DOMAIN.ru/sitemap.xml

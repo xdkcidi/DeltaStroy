@@ -1,7 +1,8 @@
 /* ---------- Базовые пути ---------- */
 const IS_IN_PAGES = location.pathname.includes("/pages/");
-const ROOT = IS_IN_PAGES ? "../" : "";
-const PAGES = IS_IN_PAGES ? "" : "pages/";
+const ROOT =
+  document.documentElement.dataset.root ?? (IS_IN_PAGES ? "../" : "");
+const PAGES = ROOT + "pages/";
 
 function assetUrl(p) {
   if (!p) return p;
@@ -124,7 +125,10 @@ function categoryLabel(item) {
   return categoryInfo[item.category]?.title || "Каталог";
 }
 function productUrl(item) {
-  return `${pageUrl("product.html")}?id=${encodeURIComponent(item.id)}`;
+  return `${ROOT}product/${item.slug || item.id}.html`;
+}
+function categoryUrl(cat) {
+  return `${ROOT}category/${cat}.html`;
 }
 
 function productCard(item, compact = false) {
@@ -557,15 +561,41 @@ function initCatalog() {
       if (ai !== bi) return ai - bi;
       return a[0].localeCompare(b[0], "ru");
     });
+    // Каталог из 300+ карточек тяжёлый для телефонов: в каждой линейке сначала
+    // показываем часть карточек, остальные раскрываются кнопкой.
+    const LIMIT = window.innerWidth < 781 ? 4 : 6;
+    const limited = list.length > 40;
     wrap.innerHTML = ordered
-      .map(
-        ([key, items]) => `
+      .map(([key, items]) => {
+        const extra = limited ? Math.max(0, items.length - LIMIT) : 0;
+        const cards = items
+          .map((x, i) => {
+            const html = productCard(x);
+            return limited && i >= LIMIT
+              ? html.replace(
+                  '<article class="product-card">',
+                  '<article class="product-card" data-extra hidden>',
+                )
+              : html;
+          })
+          .join("");
+        return `
       <section class="collection-block">
         <div class="collection-head"><div><h2>${escapeHtml(key)}</h2><p>${items.length} поз.</p></div></div>
-        <div class="catalog-grid">${items.map((x) => productCard(x)).join("")}</div>
-      </section>`,
-      )
+        <div class="catalog-grid">${cards}</div>
+        ${extra ? `<button type="button" class="btn btn-outline show-more" data-show-more>Показать ещё ${extra}</button>` : ""}
+      </section>`;
+      })
       .join("");
+    wrap.querySelectorAll("[data-show-more]").forEach((btn) =>
+      btn.addEventListener("click", () => {
+        btn
+          .closest(".collection-block")
+          .querySelectorAll("[data-extra]")
+          .forEach((el) => el.removeAttribute("hidden"));
+        btn.remove();
+      }),
+    );
   };
 
   [search, category, sort, min, max].forEach((el) =>
@@ -591,192 +621,48 @@ function initCatalog() {
 }
 
 /* ---------- Страница товара ---------- */
+// Статические страницы товаров лежат в /product/<slug>.html и собираются tools/build.js.
+// Старые ссылки pages/product.html?id=... перенаправляются на новые адреса.
 function renderProductPage() {
   const root = document.getElementById("product-page");
-  if (!root) return;
+  if (!root || root.dataset.static === "1") return;
   const params = new URLSearchParams(location.search);
-  const id = params.get("id");
+  const aliases = window.DELTA_ID_ALIASES || {};
+  const id = aliases[params.get("id")] || params.get("id");
   const item = products.find((x) => x.id === id);
-  const crumbs = document.getElementById("product-crumbs");
-
-  if (!item) {
-    document.title = "Товар не найден — Дельтастрой";
-    if (crumbs)
-      crumbs.innerHTML = `<a href="${rootUrl("index.html")}">Главная</a><span>/</span><a href="${pageUrl("catalog.html")}">Каталог</a>`;
-    root.innerHTML = `<div class="empty" style="padding:80px 24px;text-align:center">
+  if (item) {
+    location.replace(productUrl(item));
+    return;
+  }
+  document.title = "Товар не найден — Дельтастрой";
+  root.innerHTML = `<div class="empty" style="padding:80px 24px;text-align:center">
       <p style="margin:0 0 16px">Товар не найден или снят с продажи.</p>
       <a class="btn btn-primary" href="${pageUrl("catalog.html")}">Вернуться в каталог</a>
     </div>`;
-    return;
-  }
+}
 
-  document.title = item.name + " — Дельтастрой";
-  const metaDesc = document.querySelector('meta[name="description"]');
-  if (metaDesc)
-    metaDesc.setAttribute(
-      "content",
-      (item.subtitle || item.details?.users_note || item.name) +
-        " — Дельтастрой, Москва и МО. Цена, характеристики, доставка и монтаж.",
-    );
-
-  if (crumbs) {
-    const catTitle = categoryInfo[item.category]?.title || "Каталог";
-    crumbs.innerHTML =
-      `<a href="${rootUrl("index.html")}">Главная</a><span>/</span>` +
-      `<a href="${pageUrl("catalog.html")}">Каталог</a><span>/</span>` +
-      `<a href="${pageUrl("catalog.html")}?category=${encodeURIComponent(item.category)}">${escapeHtml(catTitle)}</a><span>/</span>` +
-      `<span class="crumb-current">${escapeHtml(item.name)}</span>`;
-  }
-
-  const image = item.image || "";
-  const gallery =
-    item.gallery && item.gallery.length ? item.gallery : image ? [image] : [];
-
-  const specItems = [];
-  if (item.meta?.users)
-    specItems.push(["Пользователи", String(item.meta.users)]);
-  if (item.meta?.liters)
-    specItems.push([
-      "Объём",
-      new Intl.NumberFormat("ru-RU").format(item.meta.liters) + " л",
-    ]);
-  if (item.meta?.model) specItems.push(["Модель", item.meta.model]);
-  if (item.meta?.dimensions)
-    specItems.push(["Габариты (Д×Ш×В)", item.meta.dimensions]);
-  if (item.meta?.flow_l_s)
-    specItems.push(["Производительность", item.meta.flow_l_s + " л/с"]);
-  if (item.meta?.flow_l_min)
-    specItems.push(["Производительность", item.meta.flow_l_min + " л/мин"]);
-  if (item.details?.warranty)
-    specItems.push(["Гарантия", item.details.warranty]);
-  if (item.details?.users_note)
-    specItems.push(["Применение", item.details.users_note]);
-  if (item.details?.installation)
-    specItems.push(["Монтаж", item.details.installation]);
-  if (item.details?.min_pit_depth_mm) {
-    specItems.push([
-      "Мин. глубина котлована",
-      item.details.min_pit_depth_mm + " мм",
-    ]);
-    if (item.details.pit_size_mm)
-      specItems.push([
-        "Мин. размер котлована",
-        item.details.pit_size_mm + " мм",
-      ]);
-    if (item.details.inlet_mm)
-      specItems.push([
-        "Входящий трубопровод",
-        "Ø " + item.details.inlet_mm + " мм",
-      ]);
-    if (item.details.sand_cushion_mm)
-      specItems.push([
-        "Песчаная подушка",
-        "не менее " + item.details.sand_cushion_mm + " мм",
-      ]);
-    if (item.details.insulation_mm)
-      specItems.push(["Утепление", item.details.insulation_mm + " мм"]);
-  }
-
-  const sameCollection = products
-    .filter((p) => p.collection === item.collection && p.id !== item.id)
-    .slice(0, 4);
-  const related = sameCollection.length
-    ? sameCollection
-    : products
-        .filter((p) => p.category === item.category && p.id !== item.id)
-        .slice(0, 4);
-
-  root.innerHTML = `
-    <div class="product-page-grid">
-      <div class="product-page-gallery">
-        ${
-          gallery.length
-            ? `
-          <img id="product-main-image" src="${assetUrl(gallery[0])}" alt="${escapeHtml(item.name)}">
-          ${
-            gallery.length > 1
-              ? `<div class="product-page-thumbs">${gallery
-                  .map(
-                    (src, i) =>
-                      `<img src="${assetUrl(src)}" data-thumb-index="${i}" class="${i === 0 ? "active" : ""}" alt="">`,
-                  )
-                  .join("")}</div>`
-              : ""
-          }
-        `
-            : `<div class="product-visual placeholder" style="height:440px;border-radius:20px"></div>`
-        }
-      </div>
-      <div class="product-page-info">
-        <div class="eyebrow">${escapeHtml(item.collection || "Каталог")}</div>
-        <h1>${escapeHtml(item.name)}</h1>
-        <p class="product-page-sub">${escapeHtml(item.subtitle || "Инженерное решение")}</p>
-        ${item.description ? `<p class="product-page-description">${escapeHtml(item.description)}</p>` : ""}
-        <div class="product-page-price">${money(item.price)}</div>
-        <div class="modal-note">Доставка, монтаж и дополнительные опции рассчитываются отдельно.</div>
-        <div class="product-page-cta">
-          <button class="btn btn-primary btn-lg" data-open-contact>Запросить расчёт</button>
-          <a class="btn btn-outline btn-lg" href="tel:+74955064878">Позвонить</a>
-        </div>
-        ${
-          specItems.length
-            ? `<div class="spec-grid">${specItems
-                .map(
-                  ([k, v]) =>
-                    `<div class="spec-item"><span>${escapeHtml(k)}</span><strong>${escapeHtml(v)}</strong></div>`,
-                )
-                .join("")}</div>`
-            : ""
-        }
-        ${
-          item.features?.length
-            ? `<h3 class="product-page-h3">Особенности</h3>
-          <ul class="modal-features">${item.features.map((f) => `<li>${escapeHtml(f)}</li>`).join("")}</ul>`
-            : ""
-        }
-        ${
-          item.options?.length
-            ? `<h3 class="product-page-h3">Дополнительные опции</h3>
-          <div class="modal-options">${item.options
-            .map(
-              (o) =>
-                `<div class="modal-option"><span>${escapeHtml(o.title)}</span><strong>${money(o.price)}</strong></div>`,
-            )
-            .join("")}</div>`
-            : ""
-        }
-        ${
-          item.documents?.length
-            ? `<h3 class="product-page-h3">Документы</h3>
-          <div class="modal-docs" style="display:flex">${item.documents
-            .map(
-              (d) =>
-                `<a class="doc-link" href="${assetUrl(d.url)}" target="_blank" rel="noopener">${escapeHtml(d.title)} · ${escapeHtml(d.type || "Документ")}</a>`,
-            )
-            .join("")}</div>`
-            : ""
-        }
-      </div>
-    </div>
-    ${
-      related.length
-        ? `<section class="product-page-related"><h2>Похожие товары</h2>
-      <div class="product-grid">${related.map((p) => productCard(p, true)).join("")}</div></section>`
-        : ""
-    }
-  `;
-
+/* Галерея на статической странице товара */
+function initStaticGallery() {
   const main = document.getElementById("product-main-image");
-  if (main) {
-    root.querySelectorAll("[data-thumb-index]").forEach((thumb) => {
-      thumb.addEventListener("click", () => {
-        main.src = assetUrl(gallery[Number(thumb.dataset.thumbIndex)]);
-        root
-          .querySelectorAll("[data-thumb-index]")
-          .forEach((t) => t.classList.toggle("active", t === thumb));
-      });
-    });
-  }
+  if (!main) return;
+  const thumbs = document.querySelectorAll("[data-thumb-index]");
+  thumbs.forEach((thumb) =>
+    thumb.addEventListener("click", () => {
+      main.src = thumb.dataset.src;
+      thumbs.forEach((t) => t.classList.toggle("active", t === thumb));
+    }),
+  );
+}
+
+/* ---------- Нижняя панель на телефонах ---------- */
+function initMobileBar() {
+  if (document.querySelector(".mobile-bar") || !document.getElementById("contact-modal")) return;
+  const phoneLink = document.querySelector('a.phone[href^="tel:"]');
+  const tel = phoneLink ? phoneLink.getAttribute("href") : "tel:+74955064878";
+  const bar = document.createElement("div");
+  bar.className = "mobile-bar";
+  bar.innerHTML = `<a class="btn btn-outline" href="${tel}">Позвонить</a><button class="btn btn-primary" type="button" data-open-contact>Оставить заявку</button>`;
+  document.body.appendChild(bar);
 }
 
 function boot() {
@@ -785,7 +671,9 @@ function boot() {
   renderPelicanFeatured();
   renderTermitFeatured();
   renderProductPage();
+  initStaticGallery();
   initMenu();
+  initMobileBar();
   initModals();
   initForms();
   initBot();

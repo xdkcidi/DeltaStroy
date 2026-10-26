@@ -60,6 +60,15 @@ img {
   .nav-links[data-open="1"] {
     display: flex !important;
   }
+  .nav-dropdown { display: block; width: 100%; height: auto; }
+  .nav-dropdown-toggle { display: flex !important; align-items: center; justify-content: space-between; width: 100%; }
+  .nav-dropdown-menu { display: block; position: static; width: auto; max-height: none; overflow: visible; padding: 0 0 8px 12px; grid-template-columns: 1fr; border: 0; border-radius: 0; box-shadow: none; background: transparent; }
+  .nav-dropdown:hover .nav-dropdown-menu,
+  .nav-dropdown:focus-within .nav-dropdown-menu { display: block; }
+  .nav-links .nav-dropdown-menu a { font-size: 14px; padding: 9px 8px; border-bottom: 0; border-left: 2px solid var(--line); color: #526276; }
+  .nav-links .nav-dropdown-menu a:hover,
+  .nav-links .nav-dropdown-menu a:focus { background: #f1f5f9; color: var(--navy); }
+
   .nav-links a {
     font-size: 17px;
     padding: 14px 4px;
@@ -724,5 +733,144 @@ img {
   }
   .filter-option {
     min-height: 32px;
+  }
+}
+
+/* =========================================================
+   Мобильная доработка (аудит 26.10.2026)
+   ========================================================= */
+@media (max-width: 1100px) {
+  /* backdrop-filter на шапке делал её «контейнером» для position:fixed —
+     из-за этого мобильное меню обрезалось по высоте шапки */
+  .site-header {
+    background: #fff;
+    -webkit-backdrop-filter: none;
+    backdrop-filter: none;
+  }
+
+  /* Нижняя панель «Позвонить / Заявка» — в шапке на телефонах нет номера */
+  .mobile-bar {
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 58;
+    display: flex;
+    gap: 10px;
+    padding: 10px 14px calc(10px + env(safe-area-inset-bottom, 0px));
+    background: rgba(255, 255, 255, 0.97);
+    border-top: 1px solid var(--line);
+    box-shadow: 0 -8px 24px rgba(10, 30, 55, 0.08);
+  }
+  .mobile-bar .btn {
+    flex: 1 1 0;
+    min-height: 46px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 10px 12px;
+    font-size: 15px;
+  }
+  body {
+    padding-bottom: calc(68px + env(safe-area-inset-bottom, 0px));
+  }
+  body.menu-open .mobile-bar,
+  body:has(.modal.open) .mobile-bar {
+    display: none;
+  }
+  .toast {
+    left: 14px;
+    right: 14px;
+    bottom: calc(82px + env(safe-area-inset-bottom, 0px));
+    font-size: 14px;
+  }
+}
+@media (min-width: 1101px) {
+  .mobile-bar {
+    display: none;
+  }
+}
+
+@media (max-width: 780px) {
+  /* Минимальный читаемый размер текста */
+  .feature-chip,
+  .card-tag,
+  .collection,
+  .pill,
+  .hero-card-kicker,
+  .eyebrow,
+  .solution-num,
+  .feature-number {
+    font-size: 12px;
+  }
+
+  /* Удобные зоны нажатия в подвале и хлебных крошках */
+  .footer-list a,
+  .footer-list span {
+    display: block;
+    padding: 6px 0;
+  }
+  .breadcrumbs a,
+  .breadcrumbs span {
+    display: inline-block;
+    padding: 4px 0;
+  }
+
+  /* Форма в модальном окне не должна выходить за экран */
+  .modal {
+    padding: 12px;
+    align-items: flex-start;
+    overflow-y: auto;
+  }
+  .modal-card {
+    max-height: calc(100dvh - 24px);
+    overflow-y: auto;
+    padding: 20px 18px;
+    margin: auto;
+  }
+  .modal-card h3 {
+    font-size: 26px;
+  }
+  .modal-card input,
+  .modal-card textarea,
+  .modal-card select {
+    font-size: 16px; /* iOS не приближает страницу при фокусе */
+  }
+}
+
+@media (max-width: 780px) {
+  .hero-trust .pill,
+  .hero-list span,
+  .mini-points span,
+  .footer-bottom,
+  .footer-bottom span,
+  .footer-bottom a,
+  .consent,
+  .consent span,
+  .consent a,
+  .breadcrumbs,
+  .breadcrumbs a,
+  .breadcrumbs span,
+  .modal-note,
+  .doc-link,
+  .contact-link span {
+    font-size: 12px;
+  }
+  .spec-item span {
+    font-size: 11px;
+  }
+  .doc-link {
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+}
+
+@media (max-width: 780px) {
+  .modal-card .form-card {
+    padding: 0;
+    background: transparent;
+    border: 0;
+    box-shadow: none;
   }
 }
