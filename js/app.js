@@ -299,172 +299,100 @@ function initForms() {
 }
 
 /* ---------- Чат-бот ---------- */
-const botSteps = [
-  {
-    q: "Что нужно решить?",
-    opts: [
-      ["Канализация для дома", "home"],
-      ["Ёмкость для воды", "water"],
-      ["Кессон", "kesson"],
-      ["Решение для бизнеса", "business"],
-    ],
-  },
-  {
-    q: "Сколько человек будет пользоваться системой?",
-    opts: [
-      ["1–3", "3"],
-      ["4–5", "5"],
-      ["6–8", "8"],
-      ["9–15", "15"],
-      ["15+", "20"],
-    ],
-  },
-  {
-    q: "Как объект используется?",
-    opts: [
-      ["Постоянно", "const"],
-      ["Сезонно", "season"],
-      ["Периодически", "period"],
-    ],
-  },
-  {
-    q: "Что важнее?",
-    opts: [
-      ["Максимальный комфорт", "comfort"],
-      ["Независимость от электричества", "energy"],
-      ["Минимальная стартовая стоимость", "price"],
-      ["Нужен большой объём", "volume"],
-    ],
-  },
-];
-let botState = { step: 0, answers: [] };
-
-function botBubble(text, role = "bot") {
-  const t = document.getElementById("bot-thread");
-  if (!t) return;
-  t.insertAdjacentHTML(
-    "beforeend",
-    `<div class="bot-bubble ${role}">${escapeHtml(text)}</div>`,
-  );
-  t.scrollTop = t.scrollHeight;
+// Сам помощник лежит в js/bot.js и подгружается при первом открытии.
+function loadBot(cb) {
+  if (window.DeltaBot) return cb();
+  const s = document.createElement("script");
+  s.src = ROOT + "js/bot.js";
+  s.onload = cb;
+  document.head.appendChild(s);
 }
 function openBot() {
-  const m = document.getElementById("bot-modal");
-  if (!m) return;
-  m.classList.add("open");
-  botState = { step: 0, answers: [] };
-  const thread = document.getElementById("bot-thread");
-  if (thread) thread.innerHTML = "";
-  const result = document.getElementById("bot-result");
-  if (result) result.innerHTML = "";
-  renderBotStep();
-}
-function renderBotStep() {
-  const step = botSteps[botState.step];
-  const actions = document.getElementById("bot-actions");
-  if (!actions) return;
-  if (botState.step === 0)
-    botBubble("Здравствуйте! Помогу сузить выбор. Начнём с задачи.");
-  else botBubble(step.q);
-  actions.innerHTML =
-    `<div class="bot-question">${escapeHtml(step.q)}</div>` +
-    step.opts
-      .map(
-        ([label, val]) =>
-          `<button class="bot-action" data-bot-value="${val}">${escapeHtml(label)}</button>`,
-      )
-      .join("");
-  actions
-    .querySelectorAll("[data-bot-value]")
-    .forEach((btn) =>
-      btn.addEventListener("click", () =>
-        chooseBot(btn.dataset.botValue, btn.textContent),
-      ),
-    );
-}
-function chooseBot(value, label) {
-  botBubble(label, "user");
-  botState.answers[botState.step] = value;
-  if (botState.step < botSteps.length - 1) {
-    botState.step++;
-    setTimeout(renderBotStep, 250);
-    return;
-  }
-  setTimeout(renderBotResult, 300);
-}
-function renderBotResult() {
-  const [task, users, mode, priority] = botState.answers;
-  let picks = [];
-  if (task === "home") {
-    if (mode === "season" || priority === "energy")
-      picks = products
-        .filter((p) => p.collection === "Термит Профи")
-        .sort(
-          (a, b) =>
-            parseFloat(a.meta?.size || 999) - parseFloat(b.meta?.size || 999),
-        )
-        .slice(0, 3);
-    else
-      picks = products
-        .filter((p) => p.collection === "Ergobox" && p.meta?.users)
-        .slice(0, 3);
-  } else if (task === "water")
-    picks = products.filter((p) => p.category === "water").slice(0, 3);
-  else if (task === "kesson")
-    picks = products.filter((p) => p.category === "kesson").slice(0, 3);
-  else
-    picks = products
-      .filter((p) =>
-        [
-          "grease",
-          "oil",
-          "kns",
-          "sorption",
-          "rain",
-          "storm",
-          "modular",
-        ].includes(p.category),
-      )
-      .slice(0, 3);
-
-  if (users && ["3", "5", "8"].includes(users) && task === "home") {
-    const n = Number(users);
-    picks = picks
-      .filter((p) => !p.meta?.users || Number(p.meta.users) <= n)
-      .slice(-2)
-      .concat(
-        picks
-          .filter((p) => p.meta?.users && Number(p.meta.users) === n)
-          .slice(0, 1),
-      );
-    picks = [...new Map(picks.map((p) => [p.id, p])).values()].slice(0, 3);
-  }
-  if (!picks.length) picks = products.slice(0, 3);
-
-  const result = document.getElementById("bot-result");
-  if (!result) return;
-  result.innerHTML = `<div class="bot-result-box">
-    <strong>Предварительно подходят:</strong>
-    ${picks.map((p) => `<div style="margin-top:8px"><b><a href="${productUrl(p)}" style="color:inherit">${escapeHtml(p.name)}</a></b> — ${money(p.price)}</div>`).join("")}
-    <div style="margin-top:12px;color:#65758a;font-size:11px">Это предварительный подбор. Точный вариант зависит от условий участка и задачи объекта.</div>
-    <div style="display:flex;gap:8px;flex-wrap:wrap;margin-top:13px">
-      <a class="btn btn-primary" href="${pageUrl("catalog.html")}?search=${encodeURIComponent(picks[0]?.collection || "")}">Открыть каталог</a>
-      <button class="btn btn-outline" data-open-contact-from-bot>Запросить расчёт</button>
-    </div>
-  </div>`;
-  document
-    .querySelector("[data-open-contact-from-bot]")
-    ?.addEventListener("click", () => {
-      closeModals();
-      document.getElementById("contact-modal")?.classList.add("open");
-    });
-  const actions = document.getElementById("bot-actions");
-  if (actions) actions.innerHTML = "";
+  closeModals();
+  loadBot(() => window.DeltaBot.open());
 }
 function initBot() {
-  document
-    .querySelectorAll("[data-open-bot]")
-    .forEach((b) => b.addEventListener("click", openBot));
+  document.querySelectorAll("[data-open-bot]").forEach((b) =>
+    b.addEventListener("click", (e) => {
+      e.preventDefault();
+      openBot();
+    }),
+  );
+  // Постоянная кнопка чата снизу справа
+  if (!document.querySelector(".bot-fab")) {
+    const fab = document.createElement("button");
+    fab.type = "button";
+    fab.className = "bot-fab";
+    fab.setAttribute("aria-label", "Подобрать оборудование в чате");
+    fab.innerHTML =
+      '<svg viewBox="0 0 24 24" width="24" height="24" aria-hidden="true"><path fill="currentColor" d="M4 4h16a2 2 0 0 1 2 2v10a2 2 0 0 1-2 2H9l-5 4v-4H4a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2Zm4 5a1.3 1.3 0 1 0 0 2.6A1.3 1.3 0 0 0 8 9Zm4 0a1.3 1.3 0 1 0 0 2.6A1.3 1.3 0 0 0 12 9Zm4 0a1.3 1.3 0 1 0 0 2.6A1.3 1.3 0 0 0 16 9Z"/></svg><span class="bot-fab-label">Помощник</span>';
+    fab.addEventListener("click", () => {
+      document.querySelector(".bot-fab-hint")?.remove();
+      if (window.deltaGoal) window.deltaGoal("open_bot", { source: "fab" });
+      openBot();
+    });
+    document.body.appendChild(fab);
+    // Подсказка один раз за сессию
+    try {
+      if (!sessionStorage.getItem("botHintShown")) {
+        setTimeout(() => {
+          if (document.querySelector(".modal.open")) return;
+          const hint = document.createElement("div");
+          hint.className = "bot-fab-hint";
+          hint.innerHTML =
+            '<span>Не знаете, что выбрать? Помогу подобрать за минуту</span><button type="button" aria-label="Закрыть подсказку">×</button>';
+          hint.querySelector("button").addEventListener("click", () => hint.remove());
+          hint.addEventListener("click", (e) => {
+            if (e.target.tagName !== "BUTTON") {
+              hint.remove();
+              openBot();
+            }
+          });
+          document.body.appendChild(hint);
+          sessionStorage.setItem("botHintShown", "1");
+          setTimeout(() => hint.remove(), 12000);
+        }, 6000);
+      }
+    } catch (e) {}
+  }
+}
+
+/* ---------- Отзывы ---------- */
+function initReviews() {
+  const section = document.getElementById("reviews");
+  const grid = document.getElementById("reviews-grid");
+  if (!section || !grid) return;
+  let list = (window.DELTA_REVIEWS || []).slice();
+  const demo = new URLSearchParams(location.search).get("reviews") === "demo";
+  if (!list.length && demo) {
+    list = [1, 2, 3].map((n) => ({
+      name: "Имя клиента, город",
+      rating: 5,
+      date: "2026-01-0" + n,
+      product: "Название товара или услуги",
+      text: "Пример оформления отзыва: здесь будет текст реального отзыва клиента.",
+      demo: true,
+    }));
+  }
+  if (!list.length) return;
+  const stars = (n) => "★".repeat(n) + "☆".repeat(5 - n);
+  const fmt = (d) => {
+    const t = new Date(d);
+    return isNaN(t) ? "" : t.toLocaleDateString("ru-RU", { month: "long", year: "numeric" });
+  };
+  grid.innerHTML = list
+    .map(
+      (r) => `<article class="review-card${r.demo ? " is-demo" : ""}">
+      ${r.demo ? '<div class="review-demo">Образец оформления</div>' : ""}
+      <div class="review-stars" aria-label="Оценка ${r.rating} из 5">${stars(Math.max(1, Math.min(5, r.rating || 5)))}</div>
+      <p class="review-text">${escapeHtml(r.text)}</p>
+      <div class="review-meta"><strong>${escapeHtml(r.name)}</strong>
+        <span>${escapeHtml(r.product || "")}${r.product && fmt(r.date) ? " · " : ""}${escapeHtml(fmt(r.date))}</span>
+        ${r.url ? `<a href="${escapeHtml(r.url)}" target="_blank" rel="noopener">${escapeHtml(r.source || "Источник")}</a>` : r.source ? `<span>${escapeHtml(r.source)}</span>` : ""}
+      </div></article>`,
+    )
+    .join("");
+  section.hidden = false;
 }
 
 /* ---------- Каталог ---------- */
@@ -677,6 +605,7 @@ function boot() {
   initModals();
   initForms();
   initBot();
+  initReviews();
   initCatalog();
 }
 document.addEventListener("DOMContentLoaded", boot);

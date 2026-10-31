@@ -3,4 +3,4 @@ Allow: /
 Disallow: /pages/product.html
 Disallow: /tools/
 
-Sitemap: https://REPLACE-DOMAIN.ru/sitemap.xml
+Sitemap: https://xdkcidi.github.io/DeltaStroy/sitemap.xml
